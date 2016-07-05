@@ -1,0 +1,576 @@
+[
+    {
+        "variant": "chrome",
+        "version": "14",
+        "source": "browserstack",
+        "identifier": "chrome-14.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "15",
+        "source": "browserstack",
+        "identifier": "chrome-15.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "16",
+        "source": "browserstack",
+        "identifier": "chrome-16.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "17",
+        "source": "browserstack",
+        "identifier": "chrome-17.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "18",
+        "source": "browserstack",
+        "identifier": "chrome-18.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "19",
+        "source": "browserstack",
+        "identifier": "chrome-19.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "20",
+        "source": "browserstack",
+        "identifier": "chrome-20.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "21",
+        "source": "browserstack",
+        "identifier": "chrome-21.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "22",
+        "source": "browserstack",
+        "identifier": "chrome-22.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "23",
+        "source": "browserstack",
+        "identifier": "chrome-23.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "24",
+        "source": "browserstack",
+        "identifier": "chrome-24.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "25",
+        "source": "browserstack",
+        "identifier": "chrome-25.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "26",
+        "source": "browserstack",
+        "identifier": "chrome-26.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "27",
+        "source": "browserstack",
+        "identifier": "chrome-27.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "28",
+        "source": "browserstack",
+        "identifier": "chrome-28.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "29",
+        "source": "browserstack",
+        "identifier": "chrome-29.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "30",
+        "source": "browserstack",
+        "identifier": "chrome-30.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "31",
+        "source": "browserstack",
+        "identifier": "chrome-31.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "32",
+        "source": "browserstack",
+        "identifier": "chrome-32.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "33",
+        "source": "browserstack",
+        "identifier": "chrome-33.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "34",
+        "source": "browserstack",
+        "identifier": "chrome-34.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "35",
+        "source": "browserstack",
+        "identifier": "chrome-35.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "36",
+        "source": "browserstack",
+        "identifier": "chrome-36.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "37",
+        "source": "browserstack",
+        "identifier": "chrome-37.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "38",
+        "source": "browserstack",
+        "identifier": "chrome-38.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "39",
+        "source": "browserstack",
+        "identifier": "chrome-39.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "40",
+        "source": "browserstack",
+        "identifier": "chrome-40.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "41",
+        "source": "browserstack",
+        "identifier": "chrome-41.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "42",
+        "source": "browserstack",
+        "identifier": "chrome-42.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "43",
+        "source": "browserstack",
+        "identifier": "chrome-43.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "44",
+        "source": "browserstack",
+        "identifier": "chrome-44.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "45",
+        "source": "browserstack",
+        "identifier": "chrome-45.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "46",
+        "source": "browserstack",
+        "identifier": "chrome-46.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "47",
+        "source": "browserstack",
+        "identifier": "chrome-47.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "48",
+        "source": "browserstack",
+        "identifier": "chrome-48.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "49",
+        "source": "browserstack",
+        "identifier": "chrome-49.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "50",
+        "source": "browserstack",
+        "identifier": "chrome-50.0|OS X-El Capitan"
+    },
+    {
+        "variant": "chrome",
+        "version": "51",
+        "source": "browserstack",
+        "identifier": "chrome-51.0|OS X-El Capitan"
+    },
+    {
+        "variant": "edge",
+        "version": "12",
+        "uniqueid": "e98c312fceb71f89"
+    },
+    {
+        "variant": "edge",
+        "version": "13",
+        "source": "browserstack",
+        "identifier": "edge-13.0|Windows-10"
+    },
+    {
+        "variant": "firefox",
+        "version": "3.6",
+        "source": "browserstack",
+        "identifier": "firefox-3.6|OS X-Yosemite"
+    },
+    {
+        "variant": "firefox",
+        "version": "4",
+        "source": "browserstack",
+        "identifier": "firefox-4.0|OS X-Yosemite"
+    },
+    {
+        "variant": "firefox",
+        "version": "5",
+        "source": "browserstack",
+        "identifier": "firefox-5.0|OS X-Yosemite"
+    },
+    {
+        "variant": "firefox",
+        "version": "6",
+        "source": "browserstack",
+        "identifier": "firefox-6.0|OS X-Yosemite"
+    },
+    {
+        "variant": "firefox",
+        "version": "7",
+        "source": "browserstack",
+        "identifier": "firefox-7.0|OS X-Yosemite"
+    },
+    {
+        "variant": "firefox",
+        "version": "8",
+        "source": "browserstack",
+        "identifier": "firefox-8.0|OS X-Yosemite"
+    },
+    {
+        "variant": "firefox",
+        "version": "9",
+        "source": "browserstack",
+        "identifier": "firefox-9.0|OS X-Yosemite"
+    },
+    {
+        "variant": "firefox",
+        "version": "10",
+        "source": "browserstack",
+        "identifier": "firefox-10.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "11",
+        "source": "browserstack",
+        "identifier": "firefox-11.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "12",
+        "source": "browserstack",
+        "identifier": "firefox-12.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "13",
+        "source": "browserstack",
+        "identifier": "firefox-13.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "14",
+        "source": "browserstack",
+        "identifier": "firefox-14.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "15",
+        "source": "browserstack",
+        "identifier": "firefox-15.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "16",
+        "source": "browserstack",
+        "identifier": "firefox-16.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "17",
+        "source": "browserstack",
+        "identifier": "firefox-17.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "18",
+        "source": "browserstack",
+        "identifier": "firefox-18.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "19",
+        "source": "browserstack",
+        "identifier": "firefox-19.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "20",
+        "source": "browserstack",
+        "identifier": "firefox-20.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "21",
+        "source": "browserstack",
+        "identifier": "firefox-21.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "22",
+        "source": "browserstack",
+        "identifier": "firefox-22.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "23",
+        "source": "browserstack",
+        "identifier": "firefox-23.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "24",
+        "source": "browserstack",
+        "identifier": "firefox-24.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "25",
+        "source": "browserstack",
+        "identifier": "firefox-25.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "26",
+        "source": "browserstack",
+        "identifier": "firefox-26.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "27",
+        "source": "browserstack",
+        "identifier": "firefox-27.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "28",
+        "source": "browserstack",
+        "identifier": "firefox-28.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "29",
+        "source": "browserstack",
+        "identifier": "firefox-29.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "30",
+        "source": "browserstack",
+        "identifier": "firefox-30.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "31",
+        "source": "browserstack",
+        "identifier": "firefox-31.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "32",
+        "source": "browserstack",
+        "identifier": "firefox-32.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "33",
+        "source": "browserstack",
+        "identifier": "firefox-33.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "34",
+        "source": "browserstack",
+        "identifier": "firefox-34.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "35",
+        "source": "browserstack",
+        "identifier": "firefox-35.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "36",
+        "source": "browserstack",
+        "identifier": "firefox-36.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "37",
+        "source": "browserstack",
+        "identifier": "firefox-37.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "38",
+        "source": "browserstack",
+        "identifier": "firefox-38.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "39",
+        "source": "browserstack",
+        "identifier": "firefox-39.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "40",
+        "source": "browserstack",
+        "identifier": "firefox-40.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "41",
+        "source": "browserstack",
+        "identifier": "firefox-41.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "42",
+        "source": "browserstack",
+        "identifier": "firefox-42.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "43",
+        "source": "browserstack",
+        "identifier": "firefox-43.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "44",
+        "source": "browserstack",
+        "identifier": "firefox-44.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "45",
+        "source": "browserstack",
+        "identifier": "firefox-45.0|OS X-El Capitan"
+    },
+    {
+        "variant": "firefox",
+        "version": "46",
+        "source": "browserstack",
+        "identifier": "firefox-46.0|OS X-El Capitan"
+    },
+    {
+        "variant": "ie",
+        "version": "6",
+        "source": "browserstack",
+        "identifier": "ie-6.0|Windows-XP"
+    },
+    {
+        "variant": "ie",
+        "version": "7",
+        "source": "browserstack",
+        "identifier": "ie-7.0|Windows-XP"
+    },
+    {
+        "variant": "ie",
+        "version": "8",
+        "source": "browserstack",
+        "identifier": "ie-8.0|Windows-7"
+    },
+    {
+        "variant": "ie",
+        "version": "9",
+        "source": "browserstack",
+        "identifier": "ie-9.0|Windows-7"
+    },
+    {
+        "variant": "ie",
+        "version": "10",
+        "source": "browserstack",
+        "identifier": "ie-10.0|Windows-8"
+    },
+    {
+        "variant": "ie",
+        "version": "11",
+        "source": "browserstack",
+        "identifier": "ie-11.0|Windows-10"
+    },
+    {
+        "variant": "opera",
+        "version": "12.10",
+        "source": "browserstack",
+        "identifier": "opera-12.15|Windows-8"
+    },
+    {
+        "variant": "safari",
+        "version": "5.1",
+        "source": "browserstack",
+        "identifier": "safari-5.1|OS X-Snow Leopard"
+    },
+    {
+        "variant": "safari",
+        "version": "6.0",
+        "source": "browserstack",
+        "identifier": "safari-6.0|OS X-Lion"
+    },
+    {
+        "variant": "safari",
+        "version": "8.0",
+        "source": "browserstack",
+        "identifier": "safari-8.0|OS X-Yosemite"
+    },
+    {
+        "variant": "safari",
+        "version": "9.0",
+        "uniqueid": "6293a82fceda7a2c"
+    },
+    {
+        "variant": "safari",
+        "version": "9.1",
+        "source": "browserstack",
+        "identifier": "safari-9.1|OS X-El Capitan"
+    }
+]

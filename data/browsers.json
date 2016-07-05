@@ -1,0 +1,244 @@
+[
+    {
+        "id": "android",
+        "name": "Android",
+        "grouped": "Android",
+        "importance": 2,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "android.htc",
+        "name": "HTC Sense Browser",
+        "grouped": "HTC",
+        "importance": 0,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "android.lg",
+        "name": "LG Browser",
+        "grouped": "LG",
+        "importance": 0,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "android.samsung",
+        "name": "Samsung Browser",
+        "grouped": "Samsung",
+        "importance": 0,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "bada",
+        "name": "Bada",
+        "grouped": "Bada",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "bb",
+        "name": "BlackBerry",
+        "grouped": "BlackBerry",
+        "importance": 1,
+        "type": "mobile"
+    },
+    {
+        "id": "bbos",
+        "replaced": "bb",
+        "name": "BlackBerry OS",
+        "grouped": "BlackBerry",
+        "importance": 1,
+        "type": "mobile"
+    },
+    {
+        "id": "chrome",
+        "name": "Chrome",
+        "grouped": "Chrome",
+        "importance": 8,
+        "type": "desktop"
+    },
+    {
+        "id": "chrome.mobile",
+        "name": "Chrome for Android",
+        "grouped": "Chrome",
+        "importance": 1,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "chromeos",
+        "name": "Chrome OS",
+        "grouped": "Chrome",
+        "importance": 0,
+        "type": "desktop"
+    },
+    {
+        "id": "dolphin",
+        "name": "Dolphin",
+        "grouped": "Dolphin",
+        "importance": 0,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "edge",
+        "name": "Edge",
+        "grouped": "Edge",
+        "importance": 4,
+        "type": "desktop,tablet"
+    },
+    {
+        "id": "firefox",
+        "name": "Firefox",
+        "grouped": "Firefox",
+        "importance": 5,
+        "type": "desktop"
+    },
+    {
+        "id": "firefox.mobile",
+        "name": "Firefox Mobile",
+        "grouped": "Firefox",
+        "importance": 1,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "ie",
+        "name": "Internet Explorer",
+        "grouped": "Internet Explorer",
+        "importance": 3,
+        "type": "desktop,tablet"
+    },
+    {
+        "id": "ios",
+        "name": "iOS",
+        "grouped": "iOS",
+        "importance": 1,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "kindle.silk",
+        "name": "Kindle Silk",
+        "grouped": "Kindle",
+        "importance": 0,
+        "type": "tablet"
+    },
+    {
+        "id": "maemo",
+        "replaced": "sailfish",
+        "name": "Maemo",
+        "grouped": "Maemo",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "maxthon",
+        "name": "Maxthon",
+        "grouped": "Maxthon",
+        "importance": 0,
+        "type": "desktop"
+    },
+    {
+        "id": "meego",
+        "replaced": "sailfish",
+        "name": "Meego",
+        "grouped": "Maemo",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "opera",
+        "name": "Opera",
+        "grouped": "Opera",
+        "importance": 7,
+        "type": "desktop"
+    },
+    {
+        "id": "opera.mini",
+        "name": "Opera Mini",
+        "grouped": "Opera",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "opera.mobile",
+        "name": "Opera Mobile",
+        "grouped": "Opera",
+        "importance": 1,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "rimtablet",
+        "name": "RIM Tablet OS",
+        "grouped": "BlackBerry",
+        "importance": 0,
+        "type": "tablet"
+    },
+    {
+        "id": "s60",
+        "name": "S60",
+        "grouped": "S60",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "safari",
+        "name": "Safari",
+        "grouped": "Safari",
+        "importance": 1,
+        "type": "desktop"
+    },
+    {
+        "id": "sailfish",
+        "name": "Sailfish",
+        "grouped": "Sailfish",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "tizen",
+        "name": "Tizen",
+        "grouped": "Tizen",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "touchwiz",
+        "name": "Touchwiz",
+        "grouped": "Touchwiz",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "uc",
+        "name": "UC Browser",
+        "grouped": "UC Browser",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "uc.mini",
+        "name": "UC Browser Mini",
+        "grouped": "UC Browser",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "webos",
+        "name": "webOS",
+        "grouped": "webOS",
+        "importance": 0,
+        "type": "mobile,tablet"
+    },
+    {
+        "id": "wm",
+        "replaced": "wp",
+        "name": "Windows Mobile",
+        "grouped": "Windows",
+        "importance": 0,
+        "type": "mobile"
+    },
+    {
+        "id": "wp",
+        "name": "Windows Phone",
+        "grouped": "Windows",
+        "importance": 1,
+        "type": "mobile"
+    }
+]
