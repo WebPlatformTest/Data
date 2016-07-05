@@ -17,6 +17,9 @@ env:
 before_script:
   - composer install --prefer-source
 
+script:
+  - php bin/generate.php
+
 after_script:
   - export SSHPASS=$DEPLOY_PASS
   - sshpass -e scp data/*.json $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH_ALPHA/data
