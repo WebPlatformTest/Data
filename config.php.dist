@@ -1,5 +1,0 @@
-<?php
-
-$config = [
-    'endpoint' => 'https://html5test.com/api/'
-];
