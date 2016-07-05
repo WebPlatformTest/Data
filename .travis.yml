@@ -27,5 +27,5 @@ script:
 
 after_script:
   - export SSHPASS=$DEPLOY_PASS
-  - sshpass -e scp data/*.json $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH_ALPHA/data
-  - sshpass -e ssh $DEPLOY_USER@$DEPLOY_HOST $DEPLOY_PATH_ALPHA/bin/import
+  - sshpass -e scp -o stricthostkeychecking=no data/*.json $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH_ALPHA/data
+  - sshpass -e ssh -o stricthostkeychecking=no $DEPLOY_USER@$DEPLOY_HOST $DEPLOY_PATH_ALPHA/bin/import
