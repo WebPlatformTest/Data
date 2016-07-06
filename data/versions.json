@@ -1,6 +1,6 @@
 [
     {
-        "variant": "android",
+        "id": "android",
         "version": "1.0",
         "nickname": "Android 1.0",
         "release": "2008-09-23",
@@ -9,7 +9,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "1.1",
         "nickname": "Android 1.1",
         "release": "2009-02-09",
@@ -18,7 +18,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "1.5",
         "nickname": "Android 1.5",
         "release": "2009-04-30",
@@ -27,7 +27,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "1.6",
         "nickname": "Android 1.6",
         "release": "2009-09-15",
@@ -36,7 +36,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "2.0",
         "nickname": "Android 2.0",
         "release": "2009-10-26",
@@ -45,7 +45,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "2.1",
         "nickname": "Android 2.1",
         "release": "2010-01-12",
@@ -54,7 +54,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "2.2",
         "nickname": "Android 2.2",
         "release": "2010-05-20",
@@ -63,7 +63,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "2.3",
         "nickname": "Android 2.3",
         "release": "2010-12-06",
@@ -72,7 +72,7 @@
         "listed": 1
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "2.3",
         "nickname": "Android 2.3",
         "release": "2010-12-06",
@@ -81,7 +81,7 @@
         "listed": 1
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "3.0",
         "nickname": "Android 3.0",
         "release": "2011-02-22",
@@ -90,7 +90,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "3.1",
         "nickname": "Android 3.1",
         "release": "2011-05-10",
@@ -99,7 +99,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "3.2",
         "nickname": "Android 3.2",
         "release": "2011-07-15",
@@ -108,7 +108,7 @@
         "listed": 1
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "4.0",
         "nickname": "Android 4.0",
         "release": "2011-10-19",
@@ -117,7 +117,7 @@
         "listed": 1
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "4.1",
         "nickname": "Android 4.1",
         "release": "2012-07-09",
@@ -126,7 +126,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "4.2",
         "nickname": "Android 4.2",
         "release": "2012-11-13",
@@ -135,7 +135,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "4.3",
         "nickname": "Android 4.3",
         "release": "2013-07-24",
@@ -144,7 +144,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "4.4",
         "nickname": "Android 4.4",
         "release": "2013-10-31",
@@ -153,7 +153,7 @@
         "listed": 0
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "4.4.3",
         "nickname": "Android 4.4.3",
         "release": "2014-06-03",
@@ -162,7 +162,7 @@
         "listed": 1
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "5.0",
         "nickname": "Android 5.0",
         "release": "2014-11-12",
@@ -171,7 +171,7 @@
         "listed": 1
     },
     {
-        "variant": "android",
+        "id": "android",
         "version": "6.0",
         "nickname": "Android 6.0",
         "release": "2015-10-05",
@@ -180,7 +180,7 @@
         "listed": 1
     },
     {
-        "variant": "android.htc",
+        "id": "android.htc",
         "version": "1.0",
         "nickname": "HTC Sense Browser",
         "type": "mobile",
@@ -188,7 +188,7 @@
         "listed": 0
     },
     {
-        "variant": "android.htc",
+        "id": "android.htc",
         "version": "1.1",
         "nickname": "HTC Sense Browser",
         "type": "mobile",
@@ -196,7 +196,7 @@
         "listed": 0
     },
     {
-        "variant": "android.htc",
+        "id": "android.htc",
         "version": "2.0",
         "nickname": "HTC Sense Browser",
         "type": "mobile",
@@ -204,7 +204,7 @@
         "listed": 0
     },
     {
-        "variant": "android.lg",
+        "id": "android.lg",
         "version": "1.0",
         "nickname": "LG Browser",
         "type": "mobile",
@@ -212,7 +212,7 @@
         "listed": 0
     },
     {
-        "variant": "android.lg",
+        "id": "android.lg",
         "version": "1.1",
         "nickname": "LG Browser",
         "type": "mobile",
@@ -220,7 +220,7 @@
         "listed": 0
     },
     {
-        "variant": "android.lg",
+        "id": "android.lg",
         "version": "1.2",
         "nickname": "LG Browser",
         "type": "mobile",
@@ -228,7 +228,7 @@
         "listed": 0
     },
     {
-        "variant": "android.lg",
+        "id": "android.lg",
         "version": "2.0",
         "nickname": "LG Browser",
         "type": "mobile",
@@ -236,7 +236,7 @@
         "listed": 0
     },
     {
-        "variant": "android.lg",
+        "id": "android.lg",
         "version": "3.0",
         "nickname": "LG Browser",
         "type": "mobile",
@@ -244,7 +244,7 @@
         "listed": 0
     },
     {
-        "variant": "android.samsung",
+        "id": "android.samsung",
         "version": "0.8",
         "nickname": "Samsung Internet",
         "type": "mobile",
@@ -252,7 +252,7 @@
         "listed": 0
     },
     {
-        "variant": "android.samsung",
+        "id": "android.samsung",
         "version": "0.9",
         "nickname": "Samsung Internet",
         "type": "mobile",
@@ -260,7 +260,7 @@
         "listed": 0
     },
     {
-        "variant": "android.samsung",
+        "id": "android.samsung",
         "version": "1.0",
         "nickname": "Samsung Internet 1.0",
         "type": "mobile",
@@ -268,7 +268,7 @@
         "listed": 0
     },
     {
-        "variant": "android.samsung",
+        "id": "android.samsung",
         "version": "1.5",
         "nickname": "Samsung Internet 1.5",
         "type": "mobile",
@@ -276,7 +276,7 @@
         "listed": 0
     },
     {
-        "variant": "android.samsung",
+        "id": "android.samsung",
         "version": "1.6",
         "nickname": "Samsung Internet 1.6",
         "type": "mobile",
@@ -284,7 +284,7 @@
         "listed": 0
     },
     {
-        "variant": "android.samsung",
+        "id": "android.samsung",
         "version": "2.0",
         "nickname": "Samsung Internet 2.0",
         "type": "mobile",
@@ -292,7 +292,7 @@
         "listed": 0
     },
     {
-        "variant": "android.samsung",
+        "id": "android.samsung",
         "version": "2.1",
         "nickname": "Samsung Internet 2.1",
         "type": "mobile",
@@ -300,7 +300,7 @@
         "listed": 0
     },
     {
-        "variant": "android.samsung",
+        "id": "android.samsung",
         "version": "3.0",
         "nickname": "Samsung Internet 3.0",
         "type": "mobile",
@@ -308,7 +308,7 @@
         "listed": 0
     },
     {
-        "variant": "android.samsung",
+        "id": "android.samsung",
         "version": "4.0",
         "nickname": "Samsung Internet 4.0",
         "type": "mobile",
@@ -316,7 +316,7 @@
         "listed": 0
     },
     {
-        "variant": "bada",
+        "id": "bada",
         "version": "1.0",
         "nickname": "Bada 1.0",
         "release": "2010-06-01",
@@ -325,7 +325,7 @@
         "listed": 0
     },
     {
-        "variant": "bada",
+        "id": "bada",
         "version": "1.2",
         "nickname": "Bada 1.2",
         "release": "2011-01-01",
@@ -334,7 +334,7 @@
         "listed": 0
     },
     {
-        "variant": "bada",
+        "id": "bada",
         "version": "2.0",
         "nickname": "Bada 2.0",
         "release": "2011-11-29",
@@ -343,7 +343,7 @@
         "listed": 0
     },
     {
-        "variant": "bb",
+        "id": "bb",
         "version": "10.0",
         "nickname": "BlackBerry 10",
         "release": "2013-01-31",
@@ -352,7 +352,7 @@
         "listed": 0
     },
     {
-        "variant": "bb",
+        "id": "bb",
         "version": "10.1",
         "nickname": "BlackBerry 10.1",
         "release": "2013-05-14",
@@ -361,7 +361,7 @@
         "listed": 0
     },
     {
-        "variant": "bb",
+        "id": "bb",
         "version": "10.2",
         "nickname": "BlackBerry 10.2",
         "release": "2013-10-25",
@@ -370,7 +370,7 @@
         "listed": 0
     },
     {
-        "variant": "bb",
+        "id": "bb",
         "version": "10.3",
         "nickname": "BlackBerry 10.3",
         "release": "2014-09-24",
@@ -379,7 +379,7 @@
         "listed": 1
     },
     {
-        "variant": "bbos",
+        "id": "bbos",
         "version": "5",
         "nickname": "BlackBerry 5",
         "release": "2008-08-04",
@@ -388,7 +388,7 @@
         "listed": 0
     },
     {
-        "variant": "bbos",
+        "id": "bbos",
         "version": "6",
         "nickname": "BlackBerry 6",
         "release": "2010-10-27",
@@ -397,7 +397,7 @@
         "listed": 0
     },
     {
-        "variant": "bbos",
+        "id": "bbos",
         "version": "7",
         "nickname": "BlackBerry 7",
         "release": "2011-08-03",
@@ -406,7 +406,7 @@
         "listed": 1
     },
     {
-        "variant": "bookeencybook",
+        "id": "bookeencybook",
         "version": null,
         "nickname": "Bookeen Cybook",
         "type": "ereader",
@@ -414,7 +414,7 @@
         "listed": 1
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "0.2",
         "nickname": "Chrome 0.2",
         "release": "2008-09-02",
@@ -423,7 +423,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "0.3",
         "nickname": "Chrome 0.3",
         "release": "2008-10-29",
@@ -432,7 +432,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "0.4",
         "nickname": "Chrome 0.4",
         "release": "2008-11-24",
@@ -441,7 +441,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "1",
         "nickname": "Chrome 1",
         "release": "2008-12-11",
@@ -450,7 +450,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "2",
         "nickname": "Chrome 2",
         "release": "2009-05-24",
@@ -459,7 +459,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "3",
         "nickname": "Chrome 3",
         "release": "2009-10-12",
@@ -468,7 +468,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "4",
         "nickname": "Chrome 4",
         "release": "2010-01-25",
@@ -477,7 +477,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "4.1",
         "nickname": "Chrome 4.1",
         "release": "2010-03-17",
@@ -486,7 +486,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "5",
         "nickname": "Chrome 5",
         "release": "2010-05-21",
@@ -495,7 +495,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "6",
         "nickname": "Chrome 6",
         "release": "2010-09-02",
@@ -504,7 +504,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "7",
         "nickname": "Chrome 7",
         "release": "2010-10-21",
@@ -513,7 +513,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "8",
         "nickname": "Chrome 8",
         "release": "2010-12-02",
@@ -522,7 +522,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "9",
         "nickname": "Chrome 9",
         "release": "2011-02-03",
@@ -531,7 +531,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "10",
         "nickname": "Chrome 10",
         "release": "2011-03-08",
@@ -540,7 +540,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "11",
         "nickname": "Chrome 11",
         "release": "2011-04-27",
@@ -549,7 +549,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "12",
         "nickname": "Chrome 12",
         "release": "2011-06-07",
@@ -558,7 +558,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "13",
         "nickname": "Chrome 13",
         "release": "2011-08-02",
@@ -567,7 +567,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "14",
         "nickname": "Chrome 14",
         "release": "2011-09-16",
@@ -576,7 +576,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "15",
         "nickname": "Chrome 15",
         "release": "2011-10-25",
@@ -585,7 +585,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "16",
         "nickname": "Chrome 16",
         "release": "2011-12-13",
@@ -594,7 +594,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "17",
         "nickname": "Chrome 17",
         "release": "2012-02-08",
@@ -603,7 +603,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "18",
         "nickname": "Chrome 18",
         "release": "2012-03-28",
@@ -612,7 +612,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "19",
         "nickname": "Chrome 19",
         "release": "2012-05-15",
@@ -621,7 +621,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "20",
         "nickname": "Chrome 20",
         "release": "2012-06-26",
@@ -630,7 +630,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "21",
         "nickname": "Chrome 21",
         "release": "2012-07-31",
@@ -639,7 +639,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "22",
         "nickname": "Chrome 22",
         "release": "2012-09-25",
@@ -648,7 +648,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "23",
         "nickname": "Chrome 23",
         "release": "2012-11-06",
@@ -657,7 +657,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "24",
         "nickname": "Chrome 24",
         "release": "2013-01-10",
@@ -666,7 +666,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "25",
         "nickname": "Chrome 25",
         "release": "2013-02-05",
@@ -675,7 +675,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "26",
         "nickname": "Chrome 26",
         "release": "2013-03-26",
@@ -684,7 +684,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "27",
         "nickname": "Chrome 27",
         "release": "2013-05-22",
@@ -693,7 +693,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "28",
         "nickname": "Chrome 28",
         "release": "2013-07-09",
@@ -702,7 +702,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "29",
         "nickname": "Chrome 29",
         "release": "2013-08-20",
@@ -711,7 +711,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "30",
         "nickname": "Chrome 30",
         "release": "2013-10-01",
@@ -720,7 +720,7 @@
         "listed": 1
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "31",
         "nickname": "Chrome 31",
         "release": "2013-11-12",
@@ -729,7 +729,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "32",
         "nickname": "Chrome 32",
         "release": "2014-01-14",
@@ -738,7 +738,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "33",
         "nickname": "Chrome 33",
         "release": "2014-02-20",
@@ -747,7 +747,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "34",
         "nickname": "Chrome 34",
         "release": "2014-04-08",
@@ -756,7 +756,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "35",
         "nickname": "Chrome 35",
         "release": "2014-05-20",
@@ -765,7 +765,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "36",
         "nickname": "Chrome 36",
         "release": "2014-07-16",
@@ -774,7 +774,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "37",
         "nickname": "Chrome 37",
         "release": "2014-09-09",
@@ -783,7 +783,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "38",
         "nickname": "Chrome 38",
         "release": "2014-10-07",
@@ -792,7 +792,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "39",
         "nickname": "Chrome 39",
         "release": "2014-11-18",
@@ -801,7 +801,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "40",
         "nickname": "Chrome 40",
         "release": "2015-01-21",
@@ -810,7 +810,7 @@
         "listed": 1
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "41",
         "nickname": "Chrome 41",
         "release": "2015-03-03",
@@ -819,7 +819,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "42",
         "nickname": "Chrome 42",
         "release": "2015-04-14",
@@ -828,7 +828,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "43",
         "nickname": "Chrome 43",
         "release": "2015-05-19",
@@ -837,7 +837,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "44",
         "nickname": "Chrome 44",
         "release": "2015-07-21",
@@ -846,7 +846,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "45",
         "nickname": "Chrome 45",
         "release": "2015-09-01",
@@ -855,7 +855,7 @@
         "listed": 1
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "46",
         "nickname": "Chrome 46",
         "release": "2015-10-13",
@@ -864,7 +864,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "47",
         "nickname": "Chrome 47",
         "release": "2015-12-01",
@@ -873,7 +873,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "48",
         "nickname": "Chrome 48",
         "release": "2016-01-20",
@@ -882,7 +882,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "49",
         "nickname": "Chrome 49",
         "release": "2016-03-02",
@@ -891,7 +891,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "50",
         "nickname": "Chrome 50",
         "release": "2016-04-13",
@@ -900,7 +900,7 @@
         "listed": 1
     },
     {
-        "variant": "chrome",
+        "id": "chrome",
         "version": "51",
         "nickname": "Chrome 51",
         "release": "2016-05-25",
@@ -909,7 +909,7 @@
         "listed": 1
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "18",
         "nickname": "Chrome 18",
         "release": "2012-02-07",
@@ -918,7 +918,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "25",
         "nickname": "Chrome 25",
         "release": "2013-03-08",
@@ -927,7 +927,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "26",
         "nickname": "Chrome 26",
         "release": "2013-04-03",
@@ -936,7 +936,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "27",
         "nickname": "Chrome 27",
         "release": "2013-05-22",
@@ -945,7 +945,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "28",
         "nickname": "Chrome 28",
         "release": "2013-07-10",
@@ -954,7 +954,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "29",
         "nickname": "Chrome 29",
         "release": "2013-08-21",
@@ -963,7 +963,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "30",
         "nickname": "Chrome 30",
         "release": "2013-10-02",
@@ -972,7 +972,7 @@
         "listed": 1
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "31",
         "nickname": "Chrome 31",
         "release": "2013-11-14",
@@ -981,7 +981,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "32",
         "nickname": "Chrome 32",
         "release": "2014-01-16",
@@ -990,7 +990,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "33",
         "nickname": "Chrome 33",
         "release": "2014-02-26",
@@ -999,7 +999,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "34",
         "nickname": "Chrome 34",
         "release": "2014-04-02",
@@ -1008,7 +1008,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "35",
         "nickname": "Chrome 35",
         "release": "2014-05-20",
@@ -1017,7 +1017,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "36",
         "nickname": "Chrome 36",
         "release": "2014-07-16",
@@ -1026,7 +1026,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "37",
         "nickname": "Chrome 37",
         "release": "2014-09-03",
@@ -1035,7 +1035,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "38",
         "nickname": "Chrome 38",
         "release": "2014-10-08",
@@ -1044,7 +1044,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "39",
         "nickname": "Chrome 39",
         "release": "2014-11-12",
@@ -1053,7 +1053,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "40",
         "nickname": "Chrome 40",
         "release": "2015-01-21",
@@ -1062,7 +1062,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "41",
         "nickname": "Chrome 41",
         "release": "2015-03-11",
@@ -1071,7 +1071,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "42",
         "nickname": "Chrome 42",
         "release": "2015-04-15",
@@ -1080,7 +1080,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "43",
         "nickname": "Chrome 43",
         "release": "2015-05-27",
@@ -1089,7 +1089,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "44",
         "nickname": "Chrome 44",
         "release": "2015-07-29",
@@ -1098,7 +1098,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "45",
         "nickname": "Chrome 45",
         "release": "2015-09-01",
@@ -1107,7 +1107,7 @@
         "listed": 1
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "46",
         "nickname": "Chrome 46",
         "release": "2015-10-14",
@@ -1116,7 +1116,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "47",
         "nickname": "Chrome 47",
         "release": "2015-12-02",
@@ -1125,7 +1125,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "48",
         "nickname": "Chrome 48",
         "release": "2016-01-27",
@@ -1134,7 +1134,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "49",
         "nickname": "Chrome 49",
         "release": "2016-03-09",
@@ -1143,7 +1143,7 @@
         "listed": 0
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "50",
         "nickname": "Chrome 50",
         "release": "2016-04-26",
@@ -1152,7 +1152,7 @@
         "listed": 1
     },
     {
-        "variant": "chrome.mobile",
+        "id": "chrome.mobile",
         "version": "51",
         "nickname": "Chrome 51",
         "release": "2016-06-01",
@@ -1161,7 +1161,7 @@
         "listed": 1
     },
     {
-        "variant": "dolphin",
+        "id": "dolphin",
         "version": null,
         "nickname": "Dolphin Engine Beta",
         "release": "2012-06-19",
@@ -1170,7 +1170,7 @@
         "listed": 1
     },
     {
-        "variant": "edge",
+        "id": "edge",
         "version": "12",
         "nickname": "Edge 12",
         "release": "2015-07-29",
@@ -1179,7 +1179,7 @@
         "listed": 1
     },
     {
-        "variant": "edge",
+        "id": "edge",
         "version": "13",
         "nickname": "Edge 13",
         "release": "2015-11-05",
@@ -1188,7 +1188,7 @@
         "listed": 1
     },
     {
-        "variant": "edge",
+        "id": "edge",
         "version": "14",
         "nickname": "Edge 14",
         "type": "desktop,tablet",
@@ -1196,7 +1196,7 @@
         "listed": 1
     },
     {
-        "variant": "espial",
+        "id": "espial",
         "version": "6.0.8",
         "nickname": "Espial 6.0.8",
         "type": "television",
@@ -1204,7 +1204,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "1",
         "nickname": "Firefox 1.0",
         "release": "2004-11-09",
@@ -1213,7 +1213,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "1.5",
         "nickname": "Firefox 1.5",
         "release": "2005-11-29",
@@ -1222,7 +1222,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "2",
         "nickname": "Firefox 2.0",
         "release": "2006-10-24",
@@ -1231,7 +1231,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "3",
         "nickname": "Firefox 3.0",
         "release": "2008-06-17",
@@ -1240,7 +1240,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "3.5",
         "nickname": "Firefox 3.5",
         "release": "2009-06-30",
@@ -1249,7 +1249,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "3.6",
         "nickname": "Firefox 3.6",
         "release": "2010-01-21",
@@ -1258,7 +1258,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "4",
         "nickname": "Firefox 4",
         "release": "2011-03-22",
@@ -1267,7 +1267,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "5",
         "nickname": "Firefox 5",
         "release": "2011-06-21",
@@ -1276,7 +1276,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "6",
         "nickname": "Firefox 6",
         "release": "2011-08-16",
@@ -1285,7 +1285,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "7",
         "nickname": "Firefox 7",
         "release": "2011-09-27",
@@ -1294,7 +1294,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "8",
         "nickname": "Firefox 8",
         "release": "2011-11-08",
@@ -1303,7 +1303,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "9",
         "nickname": "Firefox 9",
         "release": "2011-12-20",
@@ -1312,7 +1312,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "10",
         "nickname": "Firefox 10",
         "release": "2012-01-31",
@@ -1321,7 +1321,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "11",
         "nickname": "Firefox 11",
         "release": "2012-03-13",
@@ -1330,7 +1330,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "12",
         "nickname": "Firefox 12",
         "release": "2012-04-24",
@@ -1339,7 +1339,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "13",
         "nickname": "Firefox 13",
         "release": "2012-06-05",
@@ -1348,7 +1348,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "14",
         "nickname": "Firefox 14",
         "release": "2012-06-26",
@@ -1357,7 +1357,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "15",
         "nickname": "Firefox 15",
         "release": "2012-08-28",
@@ -1366,7 +1366,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "16",
         "nickname": "Firefox 16",
         "release": "2012-10-09",
@@ -1375,7 +1375,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "17",
         "nickname": "Firefox 17",
         "release": "2012-11-30",
@@ -1384,7 +1384,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "18",
         "nickname": "Firefox 18",
         "release": "2013-01-18",
@@ -1393,7 +1393,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "19",
         "nickname": "Firefox 19",
         "release": "2013-02-19",
@@ -1402,7 +1402,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "20",
         "nickname": "Firefox 20",
         "release": "2013-04-02",
@@ -1411,7 +1411,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "21",
         "nickname": "Firefox 21",
         "release": "2013-05-21",
@@ -1420,7 +1420,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "22",
         "nickname": "Firefox 22",
         "release": "2013-06-25",
@@ -1429,7 +1429,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "23",
         "nickname": "Firefox 23",
         "release": "2013-08-06",
@@ -1438,7 +1438,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "24",
         "nickname": "Firefox 24",
         "release": "2013-09-17",
@@ -1447,7 +1447,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "25",
         "nickname": "Firefox 25",
         "release": "2013-10-25",
@@ -1456,7 +1456,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "26",
         "nickname": "Firefox 26",
         "release": "2013-12-10",
@@ -1465,7 +1465,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "27",
         "nickname": "Firefox 27",
         "release": "2014-02-04",
@@ -1474,7 +1474,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "28",
         "nickname": "Firefox 28",
         "release": "2014-03-18",
@@ -1483,7 +1483,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "29",
         "nickname": "Firefox 29",
         "release": "2014-04-29",
@@ -1492,7 +1492,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "30",
         "nickname": "Firefox 30",
         "release": "2014-06-10",
@@ -1501,7 +1501,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "31",
         "nickname": "Firefox 31",
         "release": "2014-07-22",
@@ -1510,7 +1510,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "32",
         "nickname": "Firefox 32",
         "release": "2014-09-02",
@@ -1519,7 +1519,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "33",
         "nickname": "Firefox 33",
         "release": "2014-10-14",
@@ -1528,7 +1528,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "34",
         "nickname": "Firefox 34",
         "release": "2014-12-01",
@@ -1537,7 +1537,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "35",
         "nickname": "Firefox 35",
         "release": "2015-01-14",
@@ -1546,7 +1546,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "36",
         "nickname": "Firefox 36",
         "release": "2015-02-24",
@@ -1555,7 +1555,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "37",
         "nickname": "Firefox 37",
         "release": "2015-03-31",
@@ -1564,7 +1564,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "38",
         "nickname": "Firefox 38",
         "release": "2015-05-12",
@@ -1573,7 +1573,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "39",
         "nickname": "Firefox 39",
         "release": "2015-07-02",
@@ -1582,7 +1582,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "40",
         "nickname": "Firefox 40",
         "release": "2015-08-11",
@@ -1591,7 +1591,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "41",
         "nickname": "Firefox 41",
         "release": "2015-09-22",
@@ -1600,7 +1600,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "42",
         "nickname": "Firefox 42",
         "release": "2015-11-03",
@@ -1609,7 +1609,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "43",
         "nickname": "Firefox 43",
         "release": "2015-12-15",
@@ -1618,7 +1618,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "44",
         "nickname": "Firefox 44",
         "release": "2016-01-26",
@@ -1627,7 +1627,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "45",
         "nickname": "Firefox 45",
         "release": "2016-03-08",
@@ -1636,7 +1636,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "46",
         "nickname": "Firefox 46",
         "release": "2016-04-26",
@@ -1645,7 +1645,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "47",
         "nickname": "Firefox 47",
         "release": "2016-06-07",
@@ -1654,7 +1654,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "1",
         "nickname": "Firefox Mobile 1",
         "release": "2010-01-28",
@@ -1663,7 +1663,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "4",
         "nickname": "Firefox Mobile 4",
         "release": "2011-03-29",
@@ -1672,7 +1672,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "5",
         "nickname": "Firefox Mobile 5",
         "release": "2011-06-21",
@@ -1681,7 +1681,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "6",
         "nickname": "Firefox Mobile 6",
         "release": "2011-08-16",
@@ -1690,7 +1690,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "7",
         "nickname": "Firefox Mobile 7",
         "release": "2011-09-27",
@@ -1699,7 +1699,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "8",
         "nickname": "Firefox Mobile 8",
         "release": "2011-11-08",
@@ -1708,7 +1708,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "9",
         "nickname": "Firefox Mobile 9",
         "release": "2011-12-21",
@@ -1717,7 +1717,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "10",
         "nickname": "Firefox Mobile 10",
         "release": "2012-01-31",
@@ -1726,7 +1726,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "14",
         "nickname": "Firefox Mobile 14",
         "release": "2012-06-26",
@@ -1735,7 +1735,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "15",
         "nickname": "Firefox Mobile 15",
         "release": "2012-08-28",
@@ -1744,7 +1744,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "16",
         "nickname": "Firefox Mobile 16",
         "release": "2012-10-09",
@@ -1753,7 +1753,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "17",
         "nickname": "Firefox Mobile 17",
         "release": "2012-11-19",
@@ -1762,7 +1762,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "18",
         "nickname": "Firefox Mobile 18",
         "release": "2013-01-08",
@@ -1771,7 +1771,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "19",
         "nickname": "Firefox Mobile 19",
         "release": "2013-02-19",
@@ -1780,7 +1780,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "20",
         "nickname": "Firefox Mobile 20",
         "release": "2013-04-02",
@@ -1789,7 +1789,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "21",
         "nickname": "Firefox Mobile 21",
         "release": "2013-05-14",
@@ -1798,7 +1798,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "22",
         "nickname": "Firefox Mobile 22",
         "release": "2013-06-25",
@@ -1807,7 +1807,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "23",
         "nickname": "Firefox Mobile 23",
         "release": "2013-08-06",
@@ -1816,7 +1816,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "24",
         "nickname": "Firefox Mobile 24",
         "release": "2013-09-17",
@@ -1825,7 +1825,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "25",
         "nickname": "Firefox Mobile 25",
         "release": "2013-10-29",
@@ -1834,7 +1834,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "26",
         "nickname": "Firefox Mobile 26",
         "release": "2013-12-10",
@@ -1843,7 +1843,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "27",
         "nickname": "Firefox Mobile 27",
         "release": "2014-02-04",
@@ -1852,7 +1852,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "28",
         "nickname": "Firefox Mobile 28",
         "release": "2014-03-18",
@@ -1861,7 +1861,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "29",
         "nickname": "Firefox Mobile 29",
         "release": "2014-04-29",
@@ -1870,7 +1870,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "30",
         "nickname": "Firefox Mobile 30",
         "release": "2014-06-10",
@@ -1879,7 +1879,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "31",
         "nickname": "Firefox Mobile 31",
         "release": "2014-07-22",
@@ -1888,7 +1888,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "32",
         "nickname": "Firefox Mobile 32",
         "release": "2014-09-02",
@@ -1897,7 +1897,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "33",
         "nickname": "Firefox Mobile 33",
         "release": "2014-10-13",
@@ -1906,7 +1906,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "34",
         "nickname": "Firefox Mobile 34",
         "release": "2014-12-01",
@@ -1915,7 +1915,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "35",
         "nickname": "Firefox Mobile 35",
         "release": "2015-01-13",
@@ -1924,7 +1924,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "36",
         "nickname": "Firefox Mobile 36",
         "release": "2015-02-27",
@@ -1933,7 +1933,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "37",
         "nickname": "Firefox Mobile 37",
         "release": "2015-03-31",
@@ -1942,7 +1942,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "38",
         "nickname": "Firefox Mobile 38",
         "release": "2015-05-12",
@@ -1951,7 +1951,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "39",
         "nickname": "Firefox Mobile 39",
         "release": "2015-07-02",
@@ -1960,7 +1960,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "40",
         "nickname": "Firefox Mobile 40",
         "release": "2015-08-11",
@@ -1969,7 +1969,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "41",
         "nickname": "Firefox Mobile 41",
         "release": "2015-09-22",
@@ -1978,7 +1978,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "42",
         "nickname": "Firefox Mobile 42",
         "release": "2015-11-03",
@@ -1987,7 +1987,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "43",
         "nickname": "Firefox Mobile 43",
         "release": "2015-12-15",
@@ -1996,7 +1996,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "44",
         "nickname": "Firefox Mobile 44",
         "release": "2016-01-26",
@@ -2005,7 +2005,7 @@
         "listed": 0
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "45",
         "nickname": "Firefox Mobile 45",
         "release": "2016-03-08",
@@ -2014,7 +2014,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "46",
         "nickname": "Firefox Mobile 46",
         "release": "2016-04-26",
@@ -2023,7 +2023,7 @@
         "listed": 1
     },
     {
-        "variant": "firefox.mobile",
+        "id": "firefox.mobile",
         "version": "47",
         "nickname": "Firefox Mobile 47",
         "release": "2016-06-07",
@@ -2032,7 +2032,7 @@
         "listed": 1
     },
     {
-        "variant": "googletv",
+        "id": "googletv",
         "version": null,
         "nickname": "GoogleTV",
         "details": "Chrome 11",
@@ -2041,7 +2041,7 @@
         "listed": 0
     },
     {
-        "variant": "ie",
+        "id": "ie",
         "version": "6",
         "nickname": "Internet Explorer 6",
         "release": "2001-08-27",
@@ -2050,7 +2050,7 @@
         "listed": 0
     },
     {
-        "variant": "ie",
+        "id": "ie",
         "version": "7",
         "nickname": "Internet Explorer 7",
         "release": "2006-10-18",
@@ -2059,7 +2059,7 @@
         "listed": 0
     },
     {
-        "variant": "ie",
+        "id": "ie",
         "version": "8",
         "nickname": "Internet Explorer 8",
         "release": "2009-03-19",
@@ -2068,7 +2068,7 @@
         "listed": 1
     },
     {
-        "variant": "ie",
+        "id": "ie",
         "version": "9",
         "nickname": "Internet Explorer 9",
         "release": "2011-03-14",
@@ -2077,7 +2077,7 @@
         "listed": 1
     },
     {
-        "variant": "ie",
+        "id": "ie",
         "version": "10",
         "nickname": "Internet Explorer 10",
         "release": "2012-10-26",
@@ -2086,7 +2086,7 @@
         "listed": 1
     },
     {
-        "variant": "ie",
+        "id": "ie",
         "version": "11",
         "nickname": "Internet Explorer 11",
         "release": "2013-10-17",
@@ -2095,7 +2095,7 @@
         "listed": 1
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "1.0",
         "nickname": "iOS 1.0",
         "release": "2007-06-29",
@@ -2104,7 +2104,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "1.1",
         "nickname": "iOS 1.1",
         "release": "2007-09-27",
@@ -2113,7 +2113,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "2.0",
         "nickname": "iOS 2.0",
         "release": "2008-07-11",
@@ -2122,7 +2122,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "2.1",
         "nickname": "iOS 2.1",
         "release": "2008-09-09",
@@ -2131,7 +2131,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "2.2",
         "nickname": "iOS 2.2",
         "release": "2008-11-21",
@@ -2140,7 +2140,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "3.0",
         "nickname": "iOS 3.0",
         "release": "2009-06-17",
@@ -2149,7 +2149,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "3.1",
         "nickname": "iOS 3.1",
         "release": "2009-09-09",
@@ -2158,7 +2158,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "3.2",
         "nickname": "iOS 3.2",
         "release": "2010-04-03",
@@ -2167,7 +2167,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "4.0",
         "nickname": "iOS 4.0",
         "release": "2010-06-21",
@@ -2176,7 +2176,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "4.1",
         "nickname": "iOS 4.1",
         "release": "2010-09-08",
@@ -2185,7 +2185,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "4.2",
         "nickname": "iOS 4.2",
         "release": "2010-11-22",
@@ -2194,7 +2194,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "4.3",
         "nickname": "iOS 4.3",
         "release": "2011-03-09",
@@ -2203,7 +2203,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "5.0",
         "nickname": "iOS 5.0",
         "release": "2011-10-12",
@@ -2212,7 +2212,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "5.1",
         "nickname": "iOS 5.1",
         "release": "2012-03-07",
@@ -2221,7 +2221,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "6.0",
         "nickname": "iOS 6.0",
         "release": "2012-09-19",
@@ -2230,7 +2230,7 @@
         "listed": 0
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "7.0",
         "nickname": "iOS 7.0",
         "release": "2013-09-18",
@@ -2239,7 +2239,7 @@
         "listed": 1
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "8.0",
         "nickname": "iOS 8.0",
         "release": "2014-09-17",
@@ -2248,7 +2248,7 @@
         "listed": 1
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "9.0",
         "nickname": "iOS 9.0",
         "release": "2015-09-16",
@@ -2257,7 +2257,7 @@
         "listed": 1
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "9.3",
         "nickname": "iOS 9.3",
         "release": "2016-03-21",
@@ -2266,7 +2266,7 @@
         "listed": 1
     },
     {
-        "variant": "ios",
+        "id": "ios",
         "version": "10.0",
         "nickname": "iOS 10.0",
         "type": "mobile,tablet",
@@ -2274,7 +2274,7 @@
         "listed": 1
     },
     {
-        "variant": "kindle",
+        "id": "kindle",
         "version": null,
         "nickname": "Amazon Kindle",
         "type": "ereader",
@@ -2282,7 +2282,7 @@
         "listed": 1
     },
     {
-        "variant": "kindle.silk",
+        "id": "kindle.silk",
         "version": "1",
         "nickname": "Amazon Silk 1",
         "release": "2011-09-28",
@@ -2291,7 +2291,7 @@
         "listed": 0
     },
     {
-        "variant": "kindle.silk",
+        "id": "kindle.silk",
         "version": "2",
         "nickname": "Amazon Silk 2",
         "release": "2012-09-06",
@@ -2300,7 +2300,7 @@
         "listed": 0
     },
     {
-        "variant": "kindle.silk",
+        "id": "kindle.silk",
         "version": "3",
         "nickname": "Amazon Silk 3",
         "release": "2013-08-12",
@@ -2309,7 +2309,7 @@
         "listed": 1
     },
     {
-        "variant": "kobo",
+        "id": "kobo",
         "version": null,
         "nickname": "Kobo eReader",
         "type": "ereader",
@@ -2317,7 +2317,7 @@
         "listed": 1
     },
     {
-        "variant": "lg.netcast",
+        "id": "lg.netcast",
         "version": "2011",
         "nickname": "LG NetCast 2011",
         "type": "television,television-smart",
@@ -2325,7 +2325,7 @@
         "listed": 0
     },
     {
-        "variant": "lg.netcast",
+        "id": "lg.netcast",
         "version": "2012",
         "nickname": "LG NetCast 2012",
         "type": "television,television-smart",
@@ -2333,7 +2333,7 @@
         "listed": 0
     },
     {
-        "variant": "lg.netcast",
+        "id": "lg.netcast",
         "version": "2013",
         "nickname": "LG NetCast 2013",
         "type": "television,television-smart",
@@ -2341,7 +2341,7 @@
         "listed": 0
     },
     {
-        "variant": "lg.webos",
+        "id": "lg.webos",
         "version": "2014",
         "nickname": "LG WebOS 2014",
         "details": "WebOS",
@@ -2350,7 +2350,7 @@
         "listed": 1
     },
     {
-        "variant": "lg.webos",
+        "id": "lg.webos",
         "version": "2015",
         "nickname": "LG WebOS 2015",
         "details": "WebOS",
@@ -2359,7 +2359,7 @@
         "listed": 1
     },
     {
-        "variant": "maemo",
+        "id": "maemo",
         "version": "5.0",
         "nickname": "Maemo 5.0",
         "release": "2009-11-11",
@@ -2368,7 +2368,7 @@
         "listed": 0
     },
     {
-        "variant": "maxthon",
+        "id": "maxthon",
         "version": "3.4.1",
         "nickname": "Maxthon 3.4.1",
         "type": "desktop",
@@ -2376,7 +2376,7 @@
         "listed": 0
     },
     {
-        "variant": "maxthon",
+        "id": "maxthon",
         "version": "3.4.5",
         "nickname": "Maxthon 3.4.5",
         "type": "desktop",
@@ -2384,7 +2384,7 @@
         "listed": 0
     },
     {
-        "variant": "maxthon",
+        "id": "maxthon",
         "version": "4.0",
         "nickname": "Maxthon 4.0",
         "release": "2012-12-10",
@@ -2393,7 +2393,7 @@
         "listed": 0
     },
     {
-        "variant": "maxthon",
+        "id": "maxthon",
         "version": "4.1",
         "nickname": "Maxthon 4.1",
         "release": "2013-06-20",
@@ -2402,7 +2402,7 @@
         "listed": 0
     },
     {
-        "variant": "maxthon",
+        "id": "maxthon",
         "version": "4.2",
         "nickname": "Maxthon 4.2",
         "release": "2013-11-28",
@@ -2411,7 +2411,7 @@
         "listed": 0
     },
     {
-        "variant": "maxthon",
+        "id": "maxthon",
         "version": "4.3",
         "nickname": "Maxthon 4.3",
         "release": "2014-02-20",
@@ -2420,7 +2420,7 @@
         "listed": 0
     },
     {
-        "variant": "maxthon",
+        "id": "maxthon",
         "version": "4.4",
         "nickname": "Maxthon 4.4",
         "release": "2014-04-17",
@@ -2429,7 +2429,7 @@
         "listed": 0
     },
     {
-        "variant": "meego",
+        "id": "meego",
         "version": "1.2",
         "nickname": "MeeGo\/Harmattan",
         "release": "2011-06-21",
@@ -2438,7 +2438,7 @@
         "listed": 0
     },
     {
-        "variant": "netfrontnx",
+        "id": "netfrontnx",
         "version": "2.0",
         "nickname": "Netfront NX 2",
         "type": "television",
@@ -2446,7 +2446,7 @@
         "listed": 0
     },
     {
-        "variant": "netfrontnx",
+        "id": "netfrontnx",
         "version": "2.1",
         "nickname": "Netfront NX 2.1",
         "type": "television",
@@ -2454,7 +2454,7 @@
         "listed": 1
     },
     {
-        "variant": "nintendo.3ds",
+        "id": "nintendo.3ds",
         "version": null,
         "nickname": "Nintendo 3DS",
         "details": "NetFront",
@@ -2464,7 +2464,7 @@
         "listed": 0
     },
     {
-        "variant": "nintendo.dsi",
+        "id": "nintendo.dsi",
         "version": null,
         "nickname": "Nintendo DSi",
         "details": "Opera",
@@ -2474,7 +2474,7 @@
         "listed": 0
     },
     {
-        "variant": "nintendo.new.3ds",
+        "id": "nintendo.new.3ds",
         "version": null,
         "nickname": "Nintendo New 3DS",
         "details": "NetFront NX",
@@ -2484,7 +2484,7 @@
         "listed": 1
     },
     {
-        "variant": "nintendo.wii",
+        "id": "nintendo.wii",
         "version": null,
         "nickname": "Nintendo Wii",
         "details": "Opera",
@@ -2494,7 +2494,7 @@
         "listed": 0
     },
     {
-        "variant": "nintendo.wii.u",
+        "id": "nintendo.wii.u",
         "version": null,
         "nickname": "Nintendo Wii U",
         "details": "NetFront NX",
@@ -2504,7 +2504,7 @@
         "listed": 0
     },
     {
-        "variant": "nintendo.wii.u",
+        "id": "nintendo.wii.u",
         "version": "4",
         "nickname": "Nintendo Wii U",
         "details": "NetFront NX",
@@ -2514,7 +2514,7 @@
         "listed": 1
     },
     {
-        "variant": "nokiax",
+        "id": "nokiax",
         "version": null,
         "nickname": "Nokia X",
         "type": "mobile",
@@ -2522,7 +2522,7 @@
         "listed": 0
     },
     {
-        "variant": "nvidiashield",
+        "id": "nvidiashield",
         "version": null,
         "nickname": "Nvidia SHIELD",
         "details": "Android 4.3",
@@ -2531,7 +2531,7 @@
         "listed": 1
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "2.10",
         "nickname": "Opera 2.10",
         "release": "1996-12-09",
@@ -2540,7 +2540,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "3.00",
         "nickname": "Opera 3.00",
         "release": "1997-12-01",
@@ -2549,7 +2549,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "3.50",
         "nickname": "Opera 3.50",
         "release": "1998-11-18",
@@ -2558,7 +2558,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "3.60",
         "nickname": "Opera 3.60",
         "release": "1999-05-06",
@@ -2567,7 +2567,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "4.00",
         "nickname": "Opera 4.00",
         "release": "2000-06-28",
@@ -2576,7 +2576,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "5.00",
         "nickname": "Opera 5.00",
         "release": "2000-12-06",
@@ -2585,7 +2585,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "5.10",
         "nickname": "Opera 5.10",
         "release": "2001-04-10",
@@ -2594,7 +2594,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "6.00",
         "nickname": "Opera 6.00",
         "release": "2001-12-18",
@@ -2603,7 +2603,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "6.10",
         "nickname": "Opera 6.10",
         "release": "2002-10-31",
@@ -2612,7 +2612,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "7.00",
         "nickname": "Opera 7.00",
         "release": "2003-01-28",
@@ -2621,7 +2621,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "7.10",
         "nickname": "Opera 7.10",
         "release": "2003-04-11",
@@ -2630,7 +2630,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "7.20",
         "nickname": "Opera 7.20",
         "release": "2003-09-23",
@@ -2639,7 +2639,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "7.30",
         "nickname": "Opera 7.30",
         "release": "2004-03-23",
@@ -2648,7 +2648,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "7.50",
         "nickname": "Opera 7.50",
         "release": "2004-05-12",
@@ -2657,7 +2657,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "8.00",
         "nickname": "Opera 8.00",
         "release": "2005-04-19",
@@ -2666,7 +2666,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "8.50",
         "nickname": "Opera 8.50",
         "release": "2005-09-20",
@@ -2675,7 +2675,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "9.00",
         "nickname": "Opera 9.00",
         "release": "2006-06-20",
@@ -2684,7 +2684,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "9.10",
         "nickname": "Opera 9.10",
         "release": "2006-12-18",
@@ -2693,7 +2693,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "9.20",
         "nickname": "Opera 9.20",
         "release": "2007-04-11",
@@ -2702,7 +2702,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "10.00",
         "nickname": "Opera 10.00",
         "release": "2009-09-01",
@@ -2711,7 +2711,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "10.10",
         "nickname": "Opera 10.10",
         "release": "2009-11-23",
@@ -2720,7 +2720,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "9.50",
         "nickname": "Opera 9.50",
         "release": "2008-06-12",
@@ -2729,7 +2729,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "9.60",
         "nickname": "Opera 9.60",
         "release": "2008-10-08",
@@ -2738,7 +2738,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "10.50",
         "nickname": "Opera 10.50",
         "release": "2010-03-02",
@@ -2747,7 +2747,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "10.60",
         "nickname": "Opera 10.60",
         "release": "2010-07-01",
@@ -2756,7 +2756,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "11.00",
         "nickname": "Opera 11.00",
         "release": "2010-12-16",
@@ -2765,7 +2765,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "11.10",
         "nickname": "Opera 11.10",
         "release": "2011-04-12",
@@ -2774,7 +2774,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "11.50",
         "nickname": "Opera 11.50",
         "release": "2011-06-28",
@@ -2783,7 +2783,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "11.60",
         "nickname": "Opera 11.60",
         "release": "2011-12-06",
@@ -2792,7 +2792,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "12.00",
         "nickname": "Opera 12.00",
         "release": "2012-06-14",
@@ -2801,7 +2801,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "12.10",
         "nickname": "Opera 12.10",
         "release": "2012-11-06",
@@ -2810,7 +2810,7 @@
         "listed": 1
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "15",
         "nickname": "Opera 15",
         "release": "2013-07-02",
@@ -2819,7 +2819,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "16",
         "nickname": "Opera 16",
         "release": "2013-08-27",
@@ -2828,7 +2828,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "17",
         "nickname": "Opera 17",
         "release": "2013-10-23",
@@ -2837,7 +2837,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "18",
         "nickname": "Opera 18",
         "release": "2013-11-19",
@@ -2846,7 +2846,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "19",
         "nickname": "Opera 19",
         "release": "2014-02-13",
@@ -2855,7 +2855,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "20",
         "nickname": "Opera 20",
         "release": "2014-03-13",
@@ -2864,7 +2864,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "21",
         "nickname": "Opera 21",
         "release": "2014-05-14",
@@ -2873,7 +2873,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "22",
         "nickname": "Opera 22",
         "release": "2014-06-18",
@@ -2882,7 +2882,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "23",
         "nickname": "Opera 23",
         "release": "2014-07-22",
@@ -2891,7 +2891,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "24",
         "nickname": "Opera 24",
         "release": "2014-09-02",
@@ -2900,7 +2900,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "25",
         "nickname": "Opera 25",
         "release": "2014-10-15",
@@ -2909,7 +2909,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "26",
         "nickname": "Opera 26",
         "release": "2014-12-03",
@@ -2918,7 +2918,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "27",
         "nickname": "Opera 27",
         "release": "2015-01-27",
@@ -2927,7 +2927,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "28",
         "nickname": "Opera 28",
         "release": "2015-03-10",
@@ -2936,7 +2936,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "29",
         "nickname": "Opera 29",
         "release": "2015-05-12",
@@ -2945,7 +2945,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "30",
         "nickname": "Opera 30",
         "release": "2015-07-14",
@@ -2954,7 +2954,7 @@
         "listed": 1
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "31",
         "nickname": "Opera 31",
         "release": "2015-08-04",
@@ -2963,7 +2963,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "32",
         "nickname": "Opera 32",
         "release": "2015-09-29",
@@ -2972,7 +2972,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "33",
         "nickname": "Opera 33",
         "release": "2015-10-27",
@@ -2981,7 +2981,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "34",
         "nickname": "Opera 34",
         "release": "2015-12-08",
@@ -2990,7 +2990,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "35",
         "nickname": "Opera 35",
         "release": "2016-02-02",
@@ -2999,7 +2999,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "36",
         "nickname": "Opera 36",
         "release": "2016-03-14",
@@ -3008,7 +3008,7 @@
         "listed": 0
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "37",
         "nickname": "Opera 37",
         "release": "2016-05-04",
@@ -3017,7 +3017,7 @@
         "listed": 1
     },
     {
-        "variant": "opera",
+        "id": "opera",
         "version": "38",
         "nickname": "Opera 38",
         "release": "2016-06-14",
@@ -3026,7 +3026,7 @@
         "listed": 1
     },
     {
-        "variant": "opera.devices",
+        "id": "opera.devices",
         "version": "3.2",
         "nickname": "Opera Devices 3.2",
         "type": "television",
@@ -3034,7 +3034,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.devices",
+        "id": "opera.devices",
         "version": "3.4",
         "nickname": "Opera Devices 3.4",
         "type": "television",
@@ -3042,7 +3042,7 @@
         "listed": 1
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "10.00",
         "nickname": "Opera Mobile 10.00",
         "release": "2009-12-10",
@@ -3051,7 +3051,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "10.10",
         "nickname": "Opera Mobile 10.10",
         "release": "2010-11-24",
@@ -3060,7 +3060,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "9.50",
         "nickname": "Opera Mobile 9.50",
         "type": "mobile",
@@ -3068,7 +3068,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "11.00",
         "nickname": "Opera Mobile 11.00",
         "release": "2011-03-22",
@@ -3077,7 +3077,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "11.10",
         "nickname": "Opera Mobile 11.10",
         "release": "2011-06-30",
@@ -3086,7 +3086,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "11.50",
         "nickname": "Opera Mobile 11.50",
         "release": "2011-10-11",
@@ -3095,7 +3095,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "12.00",
         "nickname": "Opera Mobile 12.00",
         "release": "2012-02-27",
@@ -3104,7 +3104,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "12.10",
         "nickname": "Opera Mobile 12.10",
         "release": "2012-10-09",
@@ -3113,7 +3113,7 @@
         "listed": 1
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "14",
         "nickname": "Opera Mobile 14",
         "release": "2013-05-21",
@@ -3122,7 +3122,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "15",
         "nickname": "Opera Mobile 15",
         "release": "2013-07-09",
@@ -3131,7 +3131,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "16",
         "nickname": "Opera Mobile 16",
         "release": "2013-09-16",
@@ -3140,7 +3140,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "17",
         "nickname": "Opera Mobile 17",
         "release": "2013-10-08",
@@ -3149,7 +3149,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "18",
         "nickname": "Opera Mobile 18",
         "release": "2013-11-19",
@@ -3158,7 +3158,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "19",
         "nickname": "Opera Mobile 19",
         "release": "2014-01-28",
@@ -3167,7 +3167,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "20",
         "nickname": "Opera Mobile 20",
         "release": "2014-03-04",
@@ -3176,7 +3176,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "21",
         "nickname": "Opera Mobile 21",
         "release": "2014-05-06",
@@ -3185,7 +3185,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "22",
         "nickname": "Opera Mobile 22",
         "release": "2014-06-03",
@@ -3194,7 +3194,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "24",
         "nickname": "Opera Mobile 24",
         "release": "2014-10-09",
@@ -3203,7 +3203,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "25",
         "nickname": "Opera Mobile 25",
         "release": "2014-10-15",
@@ -3212,7 +3212,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "26",
         "nickname": "Opera Mobile 26",
         "release": "2014-12-01",
@@ -3221,7 +3221,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "27",
         "nickname": "Opera Mobile 27",
         "release": "2015-01-28",
@@ -3230,7 +3230,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "28",
         "nickname": "Opera Mobile 28",
         "release": "2015-03-10",
@@ -3239,7 +3239,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "29",
         "nickname": "Opera Mobile 29",
         "release": "2015-04-28",
@@ -3248,7 +3248,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "30",
         "nickname": "Opera Mobile 30",
         "release": "2015-06-09",
@@ -3257,7 +3257,7 @@
         "listed": 1
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "31",
         "nickname": "Opera Mobile 31",
         "release": "2015-08-04",
@@ -3266,7 +3266,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "32",
         "nickname": "Opera Mobile 32",
         "release": "2015-09-29",
@@ -3275,7 +3275,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "33",
         "nickname": "Opera Mobile 33",
         "release": "2015-11-03",
@@ -3284,7 +3284,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "34",
         "nickname": "Opera Mobile 34",
         "release": "2015-12-15",
@@ -3293,7 +3293,7 @@
         "listed": 0
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "35",
         "nickname": "Opera Mobile 35",
         "release": "2016-02-03",
@@ -3302,7 +3302,7 @@
         "listed": 1
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "36",
         "nickname": "Opera Mobile 36",
         "release": "2016-03-30",
@@ -3311,7 +3311,7 @@
         "listed": 1
     },
     {
-        "variant": "opera.mobile",
+        "id": "opera.mobile",
         "version": "37",
         "nickname": "Opera Mobile 37",
         "release": "2016-06-15",
@@ -3320,7 +3320,7 @@
         "listed": 1
     },
     {
-        "variant": "ouya",
+        "id": "ouya",
         "version": null,
         "nickname": "OUYA",
         "details": "Android 4.1",
@@ -3330,7 +3330,7 @@
         "listed": 0
     },
     {
-        "variant": "panasonicviera",
+        "id": "panasonicviera",
         "version": "2014",
         "nickname": "Panasonic Viera 2014",
         "type": "television,television-smart",
@@ -3338,7 +3338,7 @@
         "listed": 1
     },
     {
-        "variant": "panasonicviera",
+        "id": "panasonicviera",
         "version": "2015",
         "nickname": "Panasonic Viera 2015",
         "details": "Firefox OS",
@@ -3347,7 +3347,7 @@
         "listed": 1
     },
     {
-        "variant": "philipsnettv",
+        "id": "philipsnettv",
         "version": "3.2",
         "nickname": "Philips NetTV",
         "details": "Opera Devices 3.2",
@@ -3356,7 +3356,7 @@
         "listed": 0
     },
     {
-        "variant": "philipsnettv",
+        "id": "philipsnettv",
         "version": "3.4",
         "nickname": "Philips NetTV",
         "details": "Opera Devices 3.4",
@@ -3365,7 +3365,7 @@
         "listed": 0
     },
     {
-        "variant": "playstation.3",
+        "id": "playstation.3",
         "version": null,
         "nickname": "Sony Playstation 3",
         "details": "NetFront",
@@ -3375,7 +3375,7 @@
         "listed": 0
     },
     {
-        "variant": "playstation.4",
+        "id": "playstation.4",
         "version": null,
         "nickname": "Sony Playstation 4",
         "release": "2013-11-15",
@@ -3384,7 +3384,7 @@
         "listed": 1
     },
     {
-        "variant": "playstation.tv",
+        "id": "playstation.tv",
         "version": null,
         "nickname": "Sony Playstation TV",
         "details": "NetFront NX",
@@ -3394,7 +3394,7 @@
         "listed": 1
     },
     {
-        "variant": "playstation.vita",
+        "id": "playstation.vita",
         "version": null,
         "nickname": "Sony Playstation Vita",
         "details": "NetFront NX",
@@ -3404,7 +3404,7 @@
         "listed": 1
     },
     {
-        "variant": "playstation.vita",
+        "id": "playstation.vita",
         "version": "1.0",
         "nickname": "Sony Playstation Vita",
         "details": "NetFront",
@@ -3414,7 +3414,7 @@
         "listed": 0
     },
     {
-        "variant": "playstation.vita",
+        "id": "playstation.vita",
         "version": "2.0",
         "nickname": "Sony Playstation Vita",
         "details": "NetFront NX",
@@ -3424,7 +3424,7 @@
         "listed": 0
     },
     {
-        "variant": "playstation.vita",
+        "id": "playstation.vita",
         "version": "2.1",
         "nickname": "Sony Playstation Vita",
         "details": "NetFront NX",
@@ -3434,7 +3434,7 @@
         "listed": 0
     },
     {
-        "variant": "playstation.vita",
+        "id": "playstation.vita",
         "version": "2.6",
         "nickname": "Sony Playstation Vita",
         "details": "NetFront NX",
@@ -3444,7 +3444,7 @@
         "listed": 0
     },
     {
-        "variant": "pocketbook",
+        "id": "pocketbook",
         "version": null,
         "nickname": "Pocketbook eReader",
         "type": "ereader",
@@ -3452,7 +3452,7 @@
         "listed": 0
     },
     {
-        "variant": "rimtablet",
+        "id": "rimtablet",
         "version": "1.0",
         "nickname": "RIM Tablet OS 1.0",
         "release": "2011-04-19",
@@ -3461,7 +3461,7 @@
         "listed": 0
     },
     {
-        "variant": "rimtablet",
+        "id": "rimtablet",
         "version": "2.0",
         "nickname": "RIM Tablet OS 2.0",
         "release": "2012-02-21",
@@ -3470,7 +3470,7 @@
         "listed": 0
     },
     {
-        "variant": "rimtablet",
+        "id": "rimtablet",
         "version": "2.1",
         "nickname": "RIM Tablet OS 2.1",
         "release": "2012-10-03",
@@ -3479,7 +3479,7 @@
         "listed": 1
     },
     {
-        "variant": "s60",
+        "id": "s60",
         "version": "5.0",
         "nickname": "S60 5th Edition",
         "release": "2008-10-01",
@@ -3488,7 +3488,7 @@
         "listed": 0
     },
     {
-        "variant": "s60",
+        "id": "s60",
         "version": "5.2",
         "nickname": "Symbian Anna",
         "details": "S60 5.2",
@@ -3498,7 +3498,7 @@
         "listed": 0
     },
     {
-        "variant": "s60",
+        "id": "s60",
         "version": "5.3",
         "nickname": "Symbian Belle",
         "details": "S60 5.3",
@@ -3508,7 +3508,7 @@
         "listed": 0
     },
     {
-        "variant": "s60",
+        "id": "s60",
         "version": "5.4",
         "nickname": "Nokia Belle FP 1",
         "details": "S60 5.4",
@@ -3518,7 +3518,7 @@
         "listed": 0
     },
     {
-        "variant": "s60",
+        "id": "s60",
         "version": "5.5",
         "nickname": "Nokia Belle FP 2",
         "details": "S60 5.5",
@@ -3528,7 +3528,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "1.0",
         "nickname": "Safari 1.0",
         "release": "2003-06-23",
@@ -3537,7 +3537,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "1.1",
         "nickname": "Safari 1.1",
         "release": "2003-10-24",
@@ -3546,7 +3546,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "1.2",
         "nickname": "Safari 1.2",
         "release": "2004-02-02",
@@ -3555,7 +3555,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "1.3",
         "nickname": "Safari 1.3",
         "release": "2005-04-15",
@@ -3564,7 +3564,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "2.0",
         "nickname": "Safari 2.0",
         "release": "2005-04-29",
@@ -3573,7 +3573,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "3.0",
         "nickname": "Safari 3.0",
         "release": "2007-10-26",
@@ -3582,7 +3582,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "3.1",
         "nickname": "Safari 3.1",
         "release": "2008-03-18",
@@ -3591,7 +3591,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "3.2",
         "nickname": "Safari 3.2",
         "release": "2008-11-13",
@@ -3600,7 +3600,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "4.0",
         "nickname": "Safari 4.0",
         "release": "2009-06-08",
@@ -3609,7 +3609,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "5.0",
         "nickname": "Safari 5.0",
         "release": "2010-06-07",
@@ -3618,7 +3618,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "5.1",
         "nickname": "Safari 5.1",
         "release": "2011-07-20",
@@ -3627,7 +3627,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "6.0",
         "nickname": "Safari 6.0",
         "release": "2012-07-25",
@@ -3636,7 +3636,7 @@
         "listed": 0
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "7.0",
         "nickname": "Safari 7.0",
         "release": "2013-10-22",
@@ -3645,7 +3645,7 @@
         "listed": 1
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "8.0",
         "nickname": "Safari 8.0",
         "release": "2014-10-16",
@@ -3654,7 +3654,7 @@
         "listed": 1
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "9.0",
         "nickname": "Safari 9.0",
         "release": "2015-09-30",
@@ -3663,7 +3663,7 @@
         "listed": 1
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "9.1",
         "nickname": "Safari 9.1",
         "release": "2016-03-21",
@@ -3672,7 +3672,7 @@
         "listed": 1
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "10.0",
         "nickname": "Safari 10.0",
         "type": "desktop",
@@ -3680,7 +3680,7 @@
         "listed": 1
     },
     {
-        "variant": "sailfish",
+        "id": "sailfish",
         "version": null,
         "nickname": "Jolla Sailfish",
         "release": "2013-11-27",
@@ -3689,7 +3689,7 @@
         "listed": 1
     },
     {
-        "variant": "sailfish",
+        "id": "sailfish",
         "version": "1.0.0",
         "nickname": "Jolla Sailfish",
         "type": "mobile",
@@ -3697,7 +3697,7 @@
         "listed": 1
     },
     {
-        "variant": "samsung.smarttv",
+        "id": "samsung.smarttv",
         "version": "2011",
         "nickname": "Samsung Smart TV 2011",
         "type": "television,television-smart",
@@ -3705,7 +3705,7 @@
         "listed": 0
     },
     {
-        "variant": "samsung.smarttv",
+        "id": "samsung.smarttv",
         "version": "2012",
         "nickname": "Samsung Smart TV 2012",
         "type": "television,television-smart",
@@ -3713,7 +3713,7 @@
         "listed": 0
     },
     {
-        "variant": "samsung.smarttv",
+        "id": "samsung.smarttv",
         "version": "2013",
         "nickname": "Samsung Smart TV 2013",
         "type": "television,television-smart",
@@ -3721,7 +3721,7 @@
         "listed": 0
     },
     {
-        "variant": "samsung.smarttv",
+        "id": "samsung.smarttv",
         "version": "2014",
         "nickname": "Samsung Smart TV 2014",
         "type": "television,television-smart",
@@ -3729,7 +3729,7 @@
         "listed": 1
     },
     {
-        "variant": "samsung.smarttv",
+        "id": "samsung.smarttv",
         "version": "2015",
         "nickname": "Samsung Smart TV 2015",
         "details": "Tizen",
@@ -3738,7 +3738,7 @@
         "listed": 1
     },
     {
-        "variant": "sharpaquos.espial",
+        "id": "sharpaquos.espial",
         "version": "6.0.10",
         "nickname": "Sharp Aquos",
         "details": "Espial 6.0.10",
@@ -3747,7 +3747,7 @@
         "listed": 1
     },
     {
-        "variant": "sharpaquos.espial",
+        "id": "sharpaquos.espial",
         "version": "6.1.6",
         "nickname": "Sharp Aquos",
         "details": "Espial 6.1.6",
@@ -3756,7 +3756,7 @@
         "listed": 0
     },
     {
-        "variant": "sharpaquos.opera",
+        "id": "sharpaquos.opera",
         "version": "3.0",
         "nickname": "Sharp Aquos",
         "details": "Opera Devices 3.0",
@@ -3765,7 +3765,7 @@
         "listed": 0
     },
     {
-        "variant": "sony.bluray",
+        "id": "sony.bluray",
         "version": "4.2",
         "nickname": "Sony Blu-ray player",
         "details": "Opera Devices 4.2",
@@ -3774,7 +3774,7 @@
         "listed": 1
     },
     {
-        "variant": "sony.itv",
+        "id": "sony.itv",
         "version": "3.1",
         "nickname": "Sony Internet TV",
         "details": "Opera Devices 3.1",
@@ -3783,7 +3783,7 @@
         "listed": 0
     },
     {
-        "variant": "sony.itv",
+        "id": "sony.itv",
         "version": "3.2",
         "nickname": "Sony Internet TV",
         "details": "Opera Devices 3.2",
@@ -3792,7 +3792,7 @@
         "listed": 0
     },
     {
-        "variant": "sony.itv",
+        "id": "sony.itv",
         "version": "3.4",
         "nickname": "Sony Internet TV",
         "details": "Opera Devices 3.4",
@@ -3801,7 +3801,7 @@
         "listed": 0
     },
     {
-        "variant": "sony.reader",
+        "id": "sony.reader",
         "version": null,
         "nickname": "Sony Reader",
         "type": "ereader",
@@ -3809,7 +3809,7 @@
         "listed": 0
     },
     {
-        "variant": "tizen",
+        "id": "tizen",
         "version": "1.0",
         "nickname": "Tizen 1.0",
         "release": "2013-04-30",
@@ -3818,7 +3818,7 @@
         "listed": 0
     },
     {
-        "variant": "tizen",
+        "id": "tizen",
         "version": "2.0",
         "nickname": "Tizen 2.0",
         "release": "2013-02-18",
@@ -3827,7 +3827,7 @@
         "listed": 0
     },
     {
-        "variant": "tizen",
+        "id": "tizen",
         "version": "2.1",
         "nickname": "Tizen 2.1",
         "release": "2013-05-17",
@@ -3836,7 +3836,7 @@
         "listed": 0
     },
     {
-        "variant": "tizen",
+        "id": "tizen",
         "version": "2.2",
         "nickname": "Tizen 2.2",
         "release": "2013-07-22",
@@ -3845,7 +3845,7 @@
         "listed": 0
     },
     {
-        "variant": "tizen",
+        "id": "tizen",
         "version": "2.3",
         "nickname": "Tizen 2.3",
         "release": "2014-10-08",
@@ -3854,7 +3854,7 @@
         "listed": 1
     },
     {
-        "variant": "toshiba.espial",
+        "id": "toshiba.espial",
         "version": "6.0.8",
         "nickname": "Toshiba",
         "details": "Espial 6.0.8",
@@ -3863,7 +3863,7 @@
         "listed": 0
     },
     {
-        "variant": "toshiba.espial",
+        "id": "toshiba.espial",
         "version": "6.1.1",
         "nickname": "Toshiba",
         "details": "Espial 6.1.1",
@@ -3872,7 +3872,7 @@
         "listed": 1
     },
     {
-        "variant": "toshiba.netfrontnx",
+        "id": "toshiba.netfrontnx",
         "version": "2.1",
         "nickname": "Toshiba",
         "details": "NetFront NX 2.1",
@@ -3881,7 +3881,7 @@
         "listed": 0
     },
     {
-        "variant": "toshiba.netfrontnx",
+        "id": "toshiba.netfrontnx",
         "version": "3.0",
         "nickname": "Toshiba",
         "details": "NetFront NX 3.0",
@@ -3890,7 +3890,7 @@
         "listed": 1
     },
     {
-        "variant": "touchwiz",
+        "id": "touchwiz",
         "version": "2",
         "nickname": "TouchWiz 2",
         "release": "2009-05-01",
@@ -3899,7 +3899,7 @@
         "listed": 0
     },
     {
-        "variant": "touchwiz",
+        "id": "touchwiz",
         "version": "3",
         "nickname": "TouchWiz 3",
         "release": "2011-02-01",
@@ -3908,7 +3908,7 @@
         "listed": 0
     },
     {
-        "variant": "ubuntutouch",
+        "id": "ubuntutouch",
         "version": null,
         "nickname": "Ubuntu Touch",
         "type": "mobile,tablet",
@@ -3916,7 +3916,7 @@
         "listed": 1
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "8.6",
         "nickname": "UC Browser 8.6",
         "release": "2013-02-19",
@@ -3925,7 +3925,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.0",
         "nickname": "UC Browser 9.0",
         "release": "2013-06-04",
@@ -3934,7 +3934,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.1",
         "nickname": "UC Browser 9.1",
         "release": "2013-07-04",
@@ -3943,7 +3943,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.2",
         "nickname": "UC Browser 9.2",
         "release": "2013-08-07",
@@ -3952,7 +3952,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.3",
         "nickname": "UC Browser 9.3",
         "release": "2013-09-27",
@@ -3961,7 +3961,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.4",
         "nickname": "UC Browser 9.4",
         "release": "2013-11-05",
@@ -3970,7 +3970,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "10.0",
         "nickname": "UC Browser 10.0",
         "release": "2014-10-27",
@@ -3979,7 +3979,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "10.1",
         "nickname": "UC Browser 10.1",
         "release": "2015-01-23",
@@ -3988,7 +3988,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "10.2",
         "nickname": "UC Browser 10.2",
         "release": "2015-02-04",
@@ -3997,7 +3997,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "10.3",
         "nickname": "UC Browser 10.3",
         "release": "2015-03-16",
@@ -4006,7 +4006,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "10.4",
         "nickname": "UC Browser 10.4",
         "release": "2015-04-15",
@@ -4015,7 +4015,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.5",
         "nickname": "UC Browser 9.5",
         "release": "2014-01-10",
@@ -4024,7 +4024,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.6",
         "nickname": "UC Browser 9.6",
         "release": "2014-02-27",
@@ -4033,7 +4033,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.7",
         "nickname": "UC Browser 9.7",
         "release": "2014-04-25",
@@ -4042,7 +4042,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.8",
         "nickname": "UC Browser 9.8",
         "release": "2014-05-30",
@@ -4051,7 +4051,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "9.9",
         "nickname": "UC Browser 9.9",
         "release": "2014-07-16",
@@ -4060,7 +4060,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "10.5",
         "nickname": "UC Browser 10.5",
         "release": "2015-05-18",
@@ -4069,7 +4069,7 @@
         "listed": 0
     },
     {
-        "variant": "uc",
+        "id": "uc",
         "version": "10.6",
         "nickname": "UC Browser 10.6",
         "release": "2015-07-06",
@@ -4078,7 +4078,7 @@
         "listed": 0
     },
     {
-        "variant": "uc.mini",
+        "id": "uc.mini",
         "version": null,
         "nickname": "UC Browser Mini",
         "type": "mobile",
@@ -4086,7 +4086,7 @@
         "listed": 0
     },
     {
-        "variant": "webos",
+        "id": "webos",
         "version": "1.4",
         "nickname": "webOS 1.4",
         "release": "2010-02-26",
@@ -4095,7 +4095,7 @@
         "listed": 0
     },
     {
-        "variant": "webos",
+        "id": "webos",
         "version": "2.1",
         "nickname": "webOS 2.1",
         "release": "2011-03-08",
@@ -4104,7 +4104,7 @@
         "listed": 0
     },
     {
-        "variant": "webos",
+        "id": "webos",
         "version": "2.2",
         "nickname": "webOS 2.2",
         "release": "2011-08-17",
@@ -4113,7 +4113,7 @@
         "listed": 0
     },
     {
-        "variant": "webos",
+        "id": "webos",
         "version": "3.0",
         "nickname": "webOS 3.0",
         "release": "2011-07-01",
@@ -4122,7 +4122,7 @@
         "listed": 0
     },
     {
-        "variant": "wm",
+        "id": "wm",
         "version": "6.5",
         "nickname": "Windows Mobile 6.5",
         "release": "2009-10-06",
@@ -4131,7 +4131,7 @@
         "listed": 0
     },
     {
-        "variant": "wp",
+        "id": "wp",
         "version": "7",
         "nickname": "Windows Phone 7",
         "release": "2010-10-21",
@@ -4140,7 +4140,7 @@
         "listed": 0
     },
     {
-        "variant": "wp",
+        "id": "wp",
         "version": "7.5",
         "nickname": "Windows Phone 7.5",
         "release": "2011-09-27",
@@ -4149,7 +4149,7 @@
         "listed": 0
     },
     {
-        "variant": "wp",
+        "id": "wp",
         "version": "8",
         "nickname": "Windows Phone 8",
         "release": "2012-10-29",
@@ -4158,7 +4158,7 @@
         "listed": 0
     },
     {
-        "variant": "wp",
+        "id": "wp",
         "version": "8.1",
         "nickname": "Windows Phone 8.1",
         "release": "2014-07-15",
@@ -4167,7 +4167,7 @@
         "listed": 1
     },
     {
-        "variant": "xbox.360",
+        "id": "xbox.360",
         "version": "9.0",
         "nickname": "Xbox 360",
         "details": "Internet Explorer 9",
@@ -4176,7 +4176,7 @@
         "listed": 0
     },
     {
-        "variant": "xbox.one",
+        "id": "xbox.one",
         "version": "10.0",
         "nickname": "Xbox One",
         "details": "Internet Explorer 10",
@@ -4185,7 +4185,7 @@
         "listed": 1
     },
     {
-        "variant": "xbox.one",
+        "id": "xbox.one",
         "version": "13.0",
         "nickname": "Xbox One",
         "details": "Edge 13",

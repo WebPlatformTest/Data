@@ -2,8 +2,8 @@
 
 ####Important: this feature is still in development and not synced to the main website. If you want to submit results, please use the http://alpha.html5test.com website.
 
-The HTML5test.com website contains data about other browsers. You can use this data to see the best scoring browsers, 
-compare browsers or features and see a timeline of changes for a certain browser. The data that is used for these 
+The HTML5test.com website contains data about other browsers. You can use this data to see the best scoring browsers,
+compare browsers or features and see a timeline of changes for a certain browser. The data that is used for these
 features is stored in this repository and automatically uploaded to the website.
 
 The data is stored in three files:
@@ -23,7 +23,7 @@ Some rules:
 
 ###Variants
 
-Contains the lowest level data about browsers or platforms. It does not contain information about versions. 
+Contains the lowest level data about browsers or platforms. It does not contain information about versions.
 In general this file should not be edited unless you want to add a whole new browser or platform.
 
 ````
@@ -54,14 +54,14 @@ In general this file should not be edited unless you want to add a whole new bro
 
 ###Versions
 
-Contains the data about individual versions of variants. For every release a new entry should be added. In general, 
+Contains the data about individual versions of variants. For every release a new entry should be added. In general,
 existing data should never be deleted, only new data added.
 
 
 ````
 [
     {
-        "variant": "firefox",
+        "id": "firefox",
         "version": "38",
         "nickname": "Firefox 38",
         "release": "2015-05-12",
@@ -72,7 +72,7 @@ existing data should never be deleted, only new data added.
 ]
 ````
 
-- `variant`: The id of this variant, must be unique, contain only lowercase a-z and dots.
+- `id`: The id of this variant, must be unique, contain only lowercase a-z and dots.
 - `version`: The version. Try to be as brief as possible, so not 38.0.1, but just 38.
 - `nickname`: The name of this browser, including the version.
 - `release`: The data on which this version browser was released. Do not use the date of bugfix release, only the date of major releases.
@@ -83,19 +83,19 @@ existing data should never be deleted, only new data added.
 
 ###Identifiers
 
-This file contains the actual information that links variants and versions to test results. This file does not have to contain an 
-entry for every single item in the `variants.json` and `versions.json` file. However, if you add a new variant or version, also add the 
+This file contains the actual information that links variants and versions to test results. This file does not have to contain an
+entry for every single item in the `variants.json` and `versions.json` file. However, if you add a new variant or version, also add the
 a unique id for a test result in the `identifiers.json` file.
 
 ````
 [
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "9.0",
         "uniqueid": "6293a82fceda7a2c"
     },
     {
-        "variant": "safari",
+        "id": "safari",
         "version": "9.1",
         "source": "browserstack",
         "identifier": "safari-9.1|OS X-El Capitan"
@@ -103,7 +103,7 @@ a unique id for a test result in the `identifiers.json` file.
 ]
 ````
 
-- `variant`: The id of this variant.
+- `id`: The id of this variant.
 - `version`: The version as specified in the `versions.json` file.
 
 And either:
