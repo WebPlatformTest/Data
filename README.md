@@ -17,7 +17,7 @@ You are welcome to submit pull requests for new tests, versions and platforms.
 Some rules:
 - When testing, always use the default settings of the browser. No experimental features enabled.
 - Set the `order` property of new platforms always to 0 by default.
-- Set the `listed` propery of versions of new platforms always to 0 by default.
+- Set the `visible` propery of versions of new platforms always to `false` by default.
 - In case of a new version, please do not forget to set the status of the previous version to `legacy`.
 
 
