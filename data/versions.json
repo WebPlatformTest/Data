@@ -6,7 +6,7 @@
         "release": "2008-09-23",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -15,7 +15,7 @@
         "release": "2009-02-09",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -24,7 +24,7 @@
         "release": "2009-04-30",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -33,7 +33,7 @@
         "release": "2009-09-15",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -42,7 +42,7 @@
         "release": "2009-10-26",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -51,7 +51,7 @@
         "release": "2010-01-12",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -60,7 +60,7 @@
         "release": "2010-05-20",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -69,7 +69,7 @@
         "release": "2010-12-06",
         "type": "mobile",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "android",
@@ -78,7 +78,7 @@
         "release": "2010-12-06",
         "type": "tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "android",
@@ -87,7 +87,7 @@
         "release": "2011-02-22",
         "type": "tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -96,7 +96,7 @@
         "release": "2011-05-10",
         "type": "tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -105,7 +105,7 @@
         "release": "2011-07-15",
         "type": "tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "android",
@@ -114,7 +114,7 @@
         "release": "2011-10-19",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "android",
@@ -123,7 +123,7 @@
         "release": "2012-07-09",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -132,7 +132,7 @@
         "release": "2012-11-13",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -141,7 +141,7 @@
         "release": "2013-07-24",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -150,7 +150,7 @@
         "release": "2013-10-31",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android",
@@ -159,7 +159,7 @@
         "release": "2014-06-03",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "android",
@@ -168,7 +168,7 @@
         "release": "2014-11-12",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "android",
@@ -177,7 +177,7 @@
         "release": "2015-10-05",
         "type": "mobile,tablet",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "android.htc",
@@ -185,7 +185,7 @@
         "nickname": "HTC Sense Browser",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.htc",
@@ -193,7 +193,7 @@
         "nickname": "HTC Sense Browser",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.htc",
@@ -201,7 +201,7 @@
         "nickname": "HTC Sense Browser",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.lg",
@@ -209,7 +209,7 @@
         "nickname": "LG Browser",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.lg",
@@ -217,7 +217,7 @@
         "nickname": "LG Browser",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.lg",
@@ -225,7 +225,7 @@
         "nickname": "LG Browser",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.lg",
@@ -233,7 +233,7 @@
         "nickname": "LG Browser",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.lg",
@@ -241,7 +241,7 @@
         "nickname": "LG Browser",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.samsung",
@@ -249,7 +249,7 @@
         "nickname": "Samsung Internet",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.samsung",
@@ -257,7 +257,7 @@
         "nickname": "Samsung Internet",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.samsung",
@@ -265,7 +265,7 @@
         "nickname": "Samsung Internet 1.0",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.samsung",
@@ -273,7 +273,7 @@
         "nickname": "Samsung Internet 1.5",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.samsung",
@@ -281,7 +281,7 @@
         "nickname": "Samsung Internet 1.6",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.samsung",
@@ -289,7 +289,7 @@
         "nickname": "Samsung Internet 2.0",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.samsung",
@@ -297,7 +297,7 @@
         "nickname": "Samsung Internet 2.1",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.samsung",
@@ -305,7 +305,7 @@
         "nickname": "Samsung Internet 3.0",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "android.samsung",
@@ -313,7 +313,7 @@
         "nickname": "Samsung Internet 4.0",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "bada",
@@ -322,7 +322,7 @@
         "release": "2010-06-01",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "bada",
@@ -331,7 +331,7 @@
         "release": "2011-01-01",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "bada",
@@ -340,7 +340,7 @@
         "release": "2011-11-29",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "bb",
@@ -349,7 +349,7 @@
         "release": "2013-01-31",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "bb",
@@ -358,7 +358,7 @@
         "release": "2013-05-14",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "bb",
@@ -367,7 +367,7 @@
         "release": "2013-10-25",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "bb",
@@ -376,7 +376,7 @@
         "release": "2014-09-24",
         "type": "mobile",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "bbos",
@@ -385,7 +385,7 @@
         "release": "2008-08-04",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "bbos",
@@ -394,7 +394,7 @@
         "release": "2010-10-27",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "bbos",
@@ -403,7 +403,7 @@
         "release": "2011-08-03",
         "type": "mobile",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "bookeencybook",
@@ -411,7 +411,7 @@
         "nickname": "Bookeen Cybook",
         "type": "ereader",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "chrome",
@@ -420,7 +420,7 @@
         "release": "2008-09-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -429,7 +429,7 @@
         "release": "2008-10-29",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -438,7 +438,7 @@
         "release": "2008-11-24",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -447,7 +447,7 @@
         "release": "2008-12-11",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -456,7 +456,7 @@
         "release": "2009-05-24",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -465,7 +465,7 @@
         "release": "2009-10-12",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -474,7 +474,7 @@
         "release": "2010-01-25",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -483,7 +483,7 @@
         "release": "2010-03-17",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -492,7 +492,7 @@
         "release": "2010-05-21",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -501,7 +501,7 @@
         "release": "2010-09-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -510,7 +510,7 @@
         "release": "2010-10-21",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -519,7 +519,7 @@
         "release": "2010-12-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -528,7 +528,7 @@
         "release": "2011-02-03",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -537,7 +537,7 @@
         "release": "2011-03-08",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -546,7 +546,7 @@
         "release": "2011-04-27",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -555,7 +555,7 @@
         "release": "2011-06-07",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -564,7 +564,7 @@
         "release": "2011-08-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -573,7 +573,7 @@
         "release": "2011-09-16",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -582,7 +582,7 @@
         "release": "2011-10-25",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -591,7 +591,7 @@
         "release": "2011-12-13",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -600,7 +600,7 @@
         "release": "2012-02-08",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -609,7 +609,7 @@
         "release": "2012-03-28",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -618,7 +618,7 @@
         "release": "2012-05-15",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -627,7 +627,7 @@
         "release": "2012-06-26",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -636,7 +636,7 @@
         "release": "2012-07-31",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -645,7 +645,7 @@
         "release": "2012-09-25",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -654,7 +654,7 @@
         "release": "2012-11-06",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -663,7 +663,7 @@
         "release": "2013-01-10",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -672,7 +672,7 @@
         "release": "2013-02-05",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -681,7 +681,7 @@
         "release": "2013-03-26",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -690,7 +690,7 @@
         "release": "2013-05-22",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -699,7 +699,7 @@
         "release": "2013-07-09",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -708,7 +708,7 @@
         "release": "2013-08-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -717,7 +717,7 @@
         "release": "2013-10-01",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "chrome",
@@ -726,7 +726,7 @@
         "release": "2013-11-12",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -735,7 +735,7 @@
         "release": "2014-01-14",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -744,7 +744,7 @@
         "release": "2014-02-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -753,7 +753,7 @@
         "release": "2014-04-08",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -762,7 +762,7 @@
         "release": "2014-05-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -771,7 +771,7 @@
         "release": "2014-07-16",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -780,7 +780,7 @@
         "release": "2014-09-09",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -789,7 +789,7 @@
         "release": "2014-10-07",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -798,7 +798,7 @@
         "release": "2014-11-18",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -807,7 +807,7 @@
         "release": "2015-01-21",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "chrome",
@@ -816,7 +816,7 @@
         "release": "2015-03-03",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -825,7 +825,7 @@
         "release": "2015-04-14",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -834,7 +834,7 @@
         "release": "2015-05-19",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -843,7 +843,7 @@
         "release": "2015-07-21",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -852,7 +852,7 @@
         "release": "2015-09-01",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "chrome",
@@ -861,7 +861,7 @@
         "release": "2015-10-13",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -870,7 +870,7 @@
         "release": "2015-12-01",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -879,7 +879,7 @@
         "release": "2016-01-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -888,7 +888,7 @@
         "release": "2016-03-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome",
@@ -897,7 +897,7 @@
         "release": "2016-04-13",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "chrome",
@@ -906,7 +906,7 @@
         "release": "2016-05-25",
         "type": "desktop",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "chrome.mobile",
@@ -915,7 +915,7 @@
         "release": "2012-02-07",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -924,7 +924,7 @@
         "release": "2013-03-08",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -933,7 +933,7 @@
         "release": "2013-04-03",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -942,7 +942,7 @@
         "release": "2013-05-22",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -951,7 +951,7 @@
         "release": "2013-07-10",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -960,7 +960,7 @@
         "release": "2013-08-21",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -969,7 +969,7 @@
         "release": "2013-10-02",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "chrome.mobile",
@@ -978,7 +978,7 @@
         "release": "2013-11-14",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -987,7 +987,7 @@
         "release": "2014-01-16",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -996,7 +996,7 @@
         "release": "2014-02-26",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1005,7 +1005,7 @@
         "release": "2014-04-02",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1014,7 +1014,7 @@
         "release": "2014-05-20",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1023,7 +1023,7 @@
         "release": "2014-07-16",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1032,7 +1032,7 @@
         "release": "2014-09-03",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1041,7 +1041,7 @@
         "release": "2014-10-08",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1050,7 +1050,7 @@
         "release": "2014-11-12",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1059,7 +1059,7 @@
         "release": "2015-01-21",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1068,7 +1068,7 @@
         "release": "2015-03-11",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1077,7 +1077,7 @@
         "release": "2015-04-15",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1086,7 +1086,7 @@
         "release": "2015-05-27",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1095,7 +1095,7 @@
         "release": "2015-07-29",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1104,7 +1104,7 @@
         "release": "2015-09-01",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "chrome.mobile",
@@ -1113,7 +1113,7 @@
         "release": "2015-10-14",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1122,7 +1122,7 @@
         "release": "2015-12-02",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1131,7 +1131,7 @@
         "release": "2016-01-27",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1140,7 +1140,7 @@
         "release": "2016-03-09",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "chrome.mobile",
@@ -1149,7 +1149,7 @@
         "release": "2016-04-26",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "chrome.mobile",
@@ -1158,7 +1158,7 @@
         "release": "2016-06-01",
         "type": "mobile,tablet",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "dolphin",
@@ -1167,7 +1167,7 @@
         "release": "2012-06-19",
         "type": "mobile",
         "status": "development",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "edge",
@@ -1176,7 +1176,7 @@
         "release": "2015-07-29",
         "type": "desktop,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "edge",
@@ -1185,7 +1185,7 @@
         "release": "2015-11-05",
         "type": "desktop,tablet",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "edge",
@@ -1193,7 +1193,7 @@
         "nickname": "Edge 14",
         "type": "desktop,tablet",
         "status": "development",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "espial",
@@ -1201,7 +1201,7 @@
         "nickname": "Espial 6.0.8",
         "type": "television",
         "status": "development",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1210,7 +1210,7 @@
         "release": "2004-11-09",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1219,7 +1219,7 @@
         "release": "2005-11-29",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1228,7 +1228,7 @@
         "release": "2006-10-24",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1237,7 +1237,7 @@
         "release": "2008-06-17",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1246,7 +1246,7 @@
         "release": "2009-06-30",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1255,7 +1255,7 @@
         "release": "2010-01-21",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1264,7 +1264,7 @@
         "release": "2011-03-22",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1273,7 +1273,7 @@
         "release": "2011-06-21",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1282,7 +1282,7 @@
         "release": "2011-08-16",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1291,7 +1291,7 @@
         "release": "2011-09-27",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1300,7 +1300,7 @@
         "release": "2011-11-08",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1309,7 +1309,7 @@
         "release": "2011-12-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1318,7 +1318,7 @@
         "release": "2012-01-31",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1327,7 +1327,7 @@
         "release": "2012-03-13",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1336,7 +1336,7 @@
         "release": "2012-04-24",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1345,7 +1345,7 @@
         "release": "2012-06-05",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1354,7 +1354,7 @@
         "release": "2012-06-26",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1363,7 +1363,7 @@
         "release": "2012-08-28",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1372,7 +1372,7 @@
         "release": "2012-10-09",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1381,7 +1381,7 @@
         "release": "2012-11-30",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1390,7 +1390,7 @@
         "release": "2013-01-18",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1399,7 +1399,7 @@
         "release": "2013-02-19",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1408,7 +1408,7 @@
         "release": "2013-04-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1417,7 +1417,7 @@
         "release": "2013-05-21",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1426,7 +1426,7 @@
         "release": "2013-06-25",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1435,7 +1435,7 @@
         "release": "2013-08-06",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1444,7 +1444,7 @@
         "release": "2013-09-17",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1453,7 +1453,7 @@
         "release": "2013-10-25",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1462,7 +1462,7 @@
         "release": "2013-12-10",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1471,7 +1471,7 @@
         "release": "2014-02-04",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1480,7 +1480,7 @@
         "release": "2014-03-18",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1489,7 +1489,7 @@
         "release": "2014-04-29",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1498,7 +1498,7 @@
         "release": "2014-06-10",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox",
@@ -1507,7 +1507,7 @@
         "release": "2014-07-22",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1516,7 +1516,7 @@
         "release": "2014-09-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1525,7 +1525,7 @@
         "release": "2014-10-14",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1534,7 +1534,7 @@
         "release": "2014-12-01",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1543,7 +1543,7 @@
         "release": "2015-01-14",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox",
@@ -1552,7 +1552,7 @@
         "release": "2015-02-24",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1561,7 +1561,7 @@
         "release": "2015-03-31",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1570,7 +1570,7 @@
         "release": "2015-05-12",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1579,7 +1579,7 @@
         "release": "2015-07-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1588,7 +1588,7 @@
         "release": "2015-08-11",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox",
@@ -1597,7 +1597,7 @@
         "release": "2015-09-22",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1606,7 +1606,7 @@
         "release": "2015-11-03",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1615,7 +1615,7 @@
         "release": "2015-12-15",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1624,7 +1624,7 @@
         "release": "2016-01-26",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox",
@@ -1633,7 +1633,7 @@
         "release": "2016-03-08",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox",
@@ -1642,7 +1642,7 @@
         "release": "2016-04-26",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox",
@@ -1651,7 +1651,7 @@
         "release": "2016-06-07",
         "type": "desktop",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox.mobile",
@@ -1660,7 +1660,7 @@
         "release": "2010-01-28",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1669,7 +1669,7 @@
         "release": "2011-03-29",
         "type": "mobile",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox.mobile",
@@ -1678,7 +1678,7 @@
         "release": "2011-06-21",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1687,7 +1687,7 @@
         "release": "2011-08-16",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1696,7 +1696,7 @@
         "release": "2011-09-27",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1705,7 +1705,7 @@
         "release": "2011-11-08",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1714,7 +1714,7 @@
         "release": "2011-12-21",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1723,7 +1723,7 @@
         "release": "2012-01-31",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1732,7 +1732,7 @@
         "release": "2012-06-26",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1741,7 +1741,7 @@
         "release": "2012-08-28",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1750,7 +1750,7 @@
         "release": "2012-10-09",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1759,7 +1759,7 @@
         "release": "2012-11-19",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1768,7 +1768,7 @@
         "release": "2013-01-08",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1777,7 +1777,7 @@
         "release": "2013-02-19",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1786,7 +1786,7 @@
         "release": "2013-04-02",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1795,7 +1795,7 @@
         "release": "2013-05-14",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1804,7 +1804,7 @@
         "release": "2013-06-25",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1813,7 +1813,7 @@
         "release": "2013-08-06",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1822,7 +1822,7 @@
         "release": "2013-09-17",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1831,7 +1831,7 @@
         "release": "2013-10-29",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1840,7 +1840,7 @@
         "release": "2013-12-10",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1849,7 +1849,7 @@
         "release": "2014-02-04",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1858,7 +1858,7 @@
         "release": "2014-03-18",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1867,7 +1867,7 @@
         "release": "2014-04-29",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1876,7 +1876,7 @@
         "release": "2014-06-10",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox.mobile",
@@ -1885,7 +1885,7 @@
         "release": "2014-07-22",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1894,7 +1894,7 @@
         "release": "2014-09-02",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1903,7 +1903,7 @@
         "release": "2014-10-13",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1912,7 +1912,7 @@
         "release": "2014-12-01",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1921,7 +1921,7 @@
         "release": "2015-01-13",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1930,7 +1930,7 @@
         "release": "2015-02-27",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1939,7 +1939,7 @@
         "release": "2015-03-31",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1948,7 +1948,7 @@
         "release": "2015-05-12",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1957,7 +1957,7 @@
         "release": "2015-07-02",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1966,7 +1966,7 @@
         "release": "2015-08-11",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox.mobile",
@@ -1975,7 +1975,7 @@
         "release": "2015-09-22",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1984,7 +1984,7 @@
         "release": "2015-11-03",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -1993,7 +1993,7 @@
         "release": "2015-12-15",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -2002,7 +2002,7 @@
         "release": "2016-01-26",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "firefox.mobile",
@@ -2011,7 +2011,7 @@
         "release": "2016-03-08",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox.mobile",
@@ -2020,7 +2020,7 @@
         "release": "2016-04-26",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "firefox.mobile",
@@ -2029,7 +2029,7 @@
         "release": "2016-06-07",
         "type": "mobile,tablet",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "googletv",
@@ -2038,7 +2038,7 @@
         "details": "Chrome 11",
         "type": "television,television-box",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ie",
@@ -2047,7 +2047,7 @@
         "release": "2001-08-27",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ie",
@@ -2056,7 +2056,7 @@
         "release": "2006-10-18",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ie",
@@ -2065,7 +2065,7 @@
         "release": "2009-03-19",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "ie",
@@ -2074,7 +2074,7 @@
         "release": "2011-03-14",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "ie",
@@ -2083,7 +2083,7 @@
         "release": "2012-10-26",
         "type": "desktop,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "ie",
@@ -2092,7 +2092,7 @@
         "release": "2013-10-17",
         "type": "desktop,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "ios",
@@ -2101,7 +2101,7 @@
         "release": "2007-06-29",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2110,7 +2110,7 @@
         "release": "2007-09-27",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2119,7 +2119,7 @@
         "release": "2008-07-11",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2128,7 +2128,7 @@
         "release": "2008-09-09",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2137,7 +2137,7 @@
         "release": "2008-11-21",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2146,7 +2146,7 @@
         "release": "2009-06-17",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2155,7 +2155,7 @@
         "release": "2009-09-09",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2164,7 +2164,7 @@
         "release": "2010-04-03",
         "type": "tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2173,7 +2173,7 @@
         "release": "2010-06-21",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2182,7 +2182,7 @@
         "release": "2010-09-08",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2191,7 +2191,7 @@
         "release": "2010-11-22",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2200,7 +2200,7 @@
         "release": "2011-03-09",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2209,7 +2209,7 @@
         "release": "2011-10-12",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2218,7 +2218,7 @@
         "release": "2012-03-07",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2227,7 +2227,7 @@
         "release": "2012-09-19",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ios",
@@ -2236,7 +2236,7 @@
         "release": "2013-09-18",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "ios",
@@ -2245,7 +2245,7 @@
         "release": "2014-09-17",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "ios",
@@ -2254,7 +2254,7 @@
         "release": "2015-09-16",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "ios",
@@ -2263,7 +2263,7 @@
         "release": "2016-03-21",
         "type": "mobile,tablet",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "ios",
@@ -2271,7 +2271,7 @@
         "nickname": "iOS 10.0",
         "type": "mobile,tablet",
         "status": "development",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "kindle",
@@ -2279,7 +2279,7 @@
         "nickname": "Amazon Kindle",
         "type": "ereader",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "kindle.silk",
@@ -2288,7 +2288,7 @@
         "release": "2011-09-28",
         "type": "tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "kindle.silk",
@@ -2297,7 +2297,7 @@
         "release": "2012-09-06",
         "type": "tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "kindle.silk",
@@ -2306,7 +2306,7 @@
         "release": "2013-08-12",
         "type": "mobile,tablet",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "kobo",
@@ -2314,7 +2314,7 @@
         "nickname": "Kobo eReader",
         "type": "ereader",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "lg.netcast",
@@ -2322,7 +2322,7 @@
         "nickname": "LG NetCast 2011",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "lg.netcast",
@@ -2330,7 +2330,7 @@
         "nickname": "LG NetCast 2012",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "lg.netcast",
@@ -2338,7 +2338,7 @@
         "nickname": "LG NetCast 2013",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "lg.webos",
@@ -2347,7 +2347,7 @@
         "details": "WebOS",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "lg.webos",
@@ -2356,7 +2356,7 @@
         "details": "WebOS",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "maemo",
@@ -2365,7 +2365,7 @@
         "release": "2009-11-11",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "maxthon",
@@ -2373,7 +2373,7 @@
         "nickname": "Maxthon 3.4.1",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "maxthon",
@@ -2381,7 +2381,7 @@
         "nickname": "Maxthon 3.4.5",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "maxthon",
@@ -2390,7 +2390,7 @@
         "release": "2012-12-10",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "maxthon",
@@ -2399,7 +2399,7 @@
         "release": "2013-06-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "maxthon",
@@ -2408,7 +2408,7 @@
         "release": "2013-11-28",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "maxthon",
@@ -2417,7 +2417,7 @@
         "release": "2014-02-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "maxthon",
@@ -2426,7 +2426,7 @@
         "release": "2014-04-17",
         "type": "desktop",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "meego",
@@ -2435,7 +2435,7 @@
         "release": "2011-06-21",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "netfrontnx",
@@ -2443,7 +2443,7 @@
         "nickname": "Netfront NX 2",
         "type": "television",
         "status": "development",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "netfrontnx",
@@ -2451,7 +2451,7 @@
         "nickname": "Netfront NX 2.1",
         "type": "television",
         "status": "development",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "nintendo.3ds",
@@ -2461,7 +2461,7 @@
         "release": "2011-02-26",
         "type": "gaming,gaming-portable",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "nintendo.dsi",
@@ -2471,7 +2471,7 @@
         "release": "2008-10-02",
         "type": "gaming,gaming-portable",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "nintendo.new.3ds",
@@ -2481,7 +2481,7 @@
         "release": "2014-10-11",
         "type": "gaming,gaming-portable",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "nintendo.wii",
@@ -2491,7 +2491,7 @@
         "release": "2006-11-19",
         "type": "gaming,gaming-console",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "nintendo.wii.u",
@@ -2501,7 +2501,7 @@
         "release": "2012-11-18",
         "type": "gaming,gaming-console",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "nintendo.wii.u",
@@ -2511,7 +2511,7 @@
         "release": "2013-09-30",
         "type": "gaming,gaming-console",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "nokiax",
@@ -2519,7 +2519,7 @@
         "nickname": "Nokia X",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "nvidiashield",
@@ -2528,7 +2528,7 @@
         "details": "Android 4.3",
         "type": "gaming,gaming-portable",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera",
@@ -2537,7 +2537,7 @@
         "release": "1996-12-09",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2546,7 +2546,7 @@
         "release": "1997-12-01",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2555,7 +2555,7 @@
         "release": "1998-11-18",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2564,7 +2564,7 @@
         "release": "1999-05-06",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2573,7 +2573,7 @@
         "release": "2000-06-28",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2582,7 +2582,7 @@
         "release": "2000-12-06",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2591,7 +2591,7 @@
         "release": "2001-04-10",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2600,7 +2600,7 @@
         "release": "2001-12-18",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2609,7 +2609,7 @@
         "release": "2002-10-31",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2618,7 +2618,7 @@
         "release": "2003-01-28",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2627,7 +2627,7 @@
         "release": "2003-04-11",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2636,7 +2636,7 @@
         "release": "2003-09-23",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2645,7 +2645,7 @@
         "release": "2004-03-23",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2654,7 +2654,7 @@
         "release": "2004-05-12",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2663,7 +2663,7 @@
         "release": "2005-04-19",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2672,7 +2672,7 @@
         "release": "2005-09-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2681,7 +2681,7 @@
         "release": "2006-06-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2690,7 +2690,7 @@
         "release": "2006-12-18",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2699,7 +2699,7 @@
         "release": "2007-04-11",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2708,7 +2708,7 @@
         "release": "2009-09-01",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2717,7 +2717,7 @@
         "release": "2009-11-23",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2726,7 +2726,7 @@
         "release": "2008-06-12",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2735,7 +2735,7 @@
         "release": "2008-10-08",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2744,7 +2744,7 @@
         "release": "2010-03-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2753,7 +2753,7 @@
         "release": "2010-07-01",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2762,7 +2762,7 @@
         "release": "2010-12-16",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2771,7 +2771,7 @@
         "release": "2011-04-12",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2780,7 +2780,7 @@
         "release": "2011-06-28",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2789,7 +2789,7 @@
         "release": "2011-12-06",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2798,7 +2798,7 @@
         "release": "2012-06-14",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2807,7 +2807,7 @@
         "release": "2012-11-06",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera",
@@ -2816,7 +2816,7 @@
         "release": "2013-07-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2825,7 +2825,7 @@
         "release": "2013-08-27",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2834,7 +2834,7 @@
         "release": "2013-10-23",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2843,7 +2843,7 @@
         "release": "2013-11-19",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2852,7 +2852,7 @@
         "release": "2014-02-13",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2861,7 +2861,7 @@
         "release": "2014-03-13",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2870,7 +2870,7 @@
         "release": "2014-05-14",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2879,7 +2879,7 @@
         "release": "2014-06-18",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2888,7 +2888,7 @@
         "release": "2014-07-22",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2897,7 +2897,7 @@
         "release": "2014-09-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2906,7 +2906,7 @@
         "release": "2014-10-15",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2915,7 +2915,7 @@
         "release": "2014-12-03",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2924,7 +2924,7 @@
         "release": "2015-01-27",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2933,7 +2933,7 @@
         "release": "2015-03-10",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2942,7 +2942,7 @@
         "release": "2015-05-12",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2951,7 +2951,7 @@
         "release": "2015-07-14",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera",
@@ -2960,7 +2960,7 @@
         "release": "2015-08-04",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2969,7 +2969,7 @@
         "release": "2015-09-29",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2978,7 +2978,7 @@
         "release": "2015-10-27",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2987,7 +2987,7 @@
         "release": "2015-12-08",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -2996,7 +2996,7 @@
         "release": "2016-02-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -3005,7 +3005,7 @@
         "release": "2016-03-14",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera",
@@ -3014,7 +3014,7 @@
         "release": "2016-05-04",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera",
@@ -3023,7 +3023,7 @@
         "release": "2016-06-14",
         "type": "desktop",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera.devices",
@@ -3031,7 +3031,7 @@
         "nickname": "Opera Devices 3.2",
         "type": "television",
         "status": "development",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.devices",
@@ -3039,7 +3039,7 @@
         "nickname": "Opera Devices 3.4",
         "type": "television",
         "status": "development",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera.mobile",
@@ -3048,7 +3048,7 @@
         "release": "2009-12-10",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3057,7 +3057,7 @@
         "release": "2010-11-24",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3065,7 +3065,7 @@
         "nickname": "Opera Mobile 9.50",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3074,7 +3074,7 @@
         "release": "2011-03-22",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3083,7 +3083,7 @@
         "release": "2011-06-30",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3092,7 +3092,7 @@
         "release": "2011-10-11",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3101,7 +3101,7 @@
         "release": "2012-02-27",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3110,7 +3110,7 @@
         "release": "2012-10-09",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera.mobile",
@@ -3119,7 +3119,7 @@
         "release": "2013-05-21",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3128,7 +3128,7 @@
         "release": "2013-07-09",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3137,7 +3137,7 @@
         "release": "2013-09-16",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3146,7 +3146,7 @@
         "release": "2013-10-08",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3155,7 +3155,7 @@
         "release": "2013-11-19",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3164,7 +3164,7 @@
         "release": "2014-01-28",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3173,7 +3173,7 @@
         "release": "2014-03-04",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3182,7 +3182,7 @@
         "release": "2014-05-06",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3191,7 +3191,7 @@
         "release": "2014-06-03",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3200,7 +3200,7 @@
         "release": "2014-10-09",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3209,7 +3209,7 @@
         "release": "2014-10-15",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3218,7 +3218,7 @@
         "release": "2014-12-01",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3227,7 +3227,7 @@
         "release": "2015-01-28",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3236,7 +3236,7 @@
         "release": "2015-03-10",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3245,7 +3245,7 @@
         "release": "2015-04-28",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3254,7 +3254,7 @@
         "release": "2015-06-09",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera.mobile",
@@ -3263,7 +3263,7 @@
         "release": "2015-08-04",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3272,7 +3272,7 @@
         "release": "2015-09-29",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3281,7 +3281,7 @@
         "release": "2015-11-03",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3290,7 +3290,7 @@
         "release": "2015-12-15",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "opera.mobile",
@@ -3299,7 +3299,7 @@
         "release": "2016-02-03",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera.mobile",
@@ -3308,7 +3308,7 @@
         "release": "2016-03-30",
         "type": "mobile,tablet",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "opera.mobile",
@@ -3317,7 +3317,7 @@
         "release": "2016-06-15",
         "type": "mobile,tablet",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "ouya",
@@ -3327,7 +3327,7 @@
         "release": "2013-03-28",
         "type": "gaming,gaming-console",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "panasonicviera",
@@ -3335,7 +3335,7 @@
         "nickname": "Panasonic Viera 2014",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "panasonicviera",
@@ -3344,7 +3344,7 @@
         "details": "Firefox OS",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "philipsnettv",
@@ -3353,7 +3353,7 @@
         "details": "Opera Devices 3.2",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "philipsnettv",
@@ -3362,7 +3362,7 @@
         "details": "Opera Devices 3.4",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "playstation.3",
@@ -3372,7 +3372,7 @@
         "release": "2006-11-11",
         "type": "gaming,gaming-console",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "playstation.4",
@@ -3381,7 +3381,7 @@
         "release": "2013-11-15",
         "type": "gaming,gaming-console",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "playstation.tv",
@@ -3391,7 +3391,7 @@
         "release": "2013-11-14",
         "type": "gaming,gaming-console",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "playstation.vita",
@@ -3401,7 +3401,7 @@
         "release": "2013-11-04",
         "type": "gaming,gaming-portable",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "playstation.vita",
@@ -3411,7 +3411,7 @@
         "release": "2011-12-17",
         "type": "gaming,gaming-portable",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "playstation.vita",
@@ -3421,7 +3421,7 @@
         "release": "2012-11-20",
         "type": "gaming,gaming-portable",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "playstation.vita",
@@ -3431,7 +3431,7 @@
         "release": "2013-04-09",
         "type": "gaming,gaming-portable",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "playstation.vita",
@@ -3441,7 +3441,7 @@
         "release": "2013-08-05",
         "type": "gaming,gaming-portable",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "pocketbook",
@@ -3449,7 +3449,7 @@
         "nickname": "Pocketbook eReader",
         "type": "ereader",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "rimtablet",
@@ -3458,7 +3458,7 @@
         "release": "2011-04-19",
         "type": "tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "rimtablet",
@@ -3467,7 +3467,7 @@
         "release": "2012-02-21",
         "type": "tablet",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "rimtablet",
@@ -3476,7 +3476,7 @@
         "release": "2012-10-03",
         "type": "tablet",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "s60",
@@ -3485,7 +3485,7 @@
         "release": "2008-10-01",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "s60",
@@ -3495,7 +3495,7 @@
         "release": "2011-05-12",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "s60",
@@ -3505,7 +3505,7 @@
         "release": "2011-08-24",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "s60",
@@ -3515,7 +3515,7 @@
         "release": "2012-04-23",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "s60",
@@ -3525,7 +3525,7 @@
         "release": "2012-10-02",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3534,7 +3534,7 @@
         "release": "2003-06-23",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3543,7 +3543,7 @@
         "release": "2003-10-24",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3552,7 +3552,7 @@
         "release": "2004-02-02",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3561,7 +3561,7 @@
         "release": "2005-04-15",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3570,7 +3570,7 @@
         "release": "2005-04-29",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3579,7 +3579,7 @@
         "release": "2007-10-26",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3588,7 +3588,7 @@
         "release": "2008-03-18",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3597,7 +3597,7 @@
         "release": "2008-11-13",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3606,7 +3606,7 @@
         "release": "2009-06-08",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3615,7 +3615,7 @@
         "release": "2010-06-07",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3624,7 +3624,7 @@
         "release": "2011-07-20",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3633,7 +3633,7 @@
         "release": "2012-07-25",
         "type": "desktop",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "safari",
@@ -3642,7 +3642,7 @@
         "release": "2013-10-22",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "safari",
@@ -3651,7 +3651,7 @@
         "release": "2014-10-16",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "safari",
@@ -3660,7 +3660,7 @@
         "release": "2015-09-30",
         "type": "desktop",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "safari",
@@ -3669,7 +3669,7 @@
         "release": "2016-03-21",
         "type": "desktop",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "safari",
@@ -3677,7 +3677,7 @@
         "nickname": "Safari 10.0",
         "type": "desktop",
         "status": "development",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "sailfish",
@@ -3686,7 +3686,7 @@
         "release": "2013-11-27",
         "type": "mobile",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "sailfish",
@@ -3694,7 +3694,7 @@
         "nickname": "Jolla Sailfish",
         "type": "mobile",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "samsung.smarttv",
@@ -3702,7 +3702,7 @@
         "nickname": "Samsung Smart TV 2011",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "samsung.smarttv",
@@ -3710,7 +3710,7 @@
         "nickname": "Samsung Smart TV 2012",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "samsung.smarttv",
@@ -3718,7 +3718,7 @@
         "nickname": "Samsung Smart TV 2013",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "samsung.smarttv",
@@ -3726,7 +3726,7 @@
         "nickname": "Samsung Smart TV 2014",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "samsung.smarttv",
@@ -3735,7 +3735,7 @@
         "details": "Tizen",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "sharpaquos.espial",
@@ -3744,7 +3744,7 @@
         "details": "Espial 6.0.10",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "sharpaquos.espial",
@@ -3753,7 +3753,7 @@
         "details": "Espial 6.1.6",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "sharpaquos.opera",
@@ -3762,7 +3762,7 @@
         "details": "Opera Devices 3.0",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "sony.bluray",
@@ -3771,7 +3771,7 @@
         "details": "Opera Devices 4.2",
         "type": "television,television-box",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "sony.itv",
@@ -3780,7 +3780,7 @@
         "details": "Opera Devices 3.1",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "sony.itv",
@@ -3789,7 +3789,7 @@
         "details": "Opera Devices 3.2",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "sony.itv",
@@ -3798,7 +3798,7 @@
         "details": "Opera Devices 3.4",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "sony.reader",
@@ -3806,7 +3806,7 @@
         "nickname": "Sony Reader",
         "type": "ereader",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "tizen",
@@ -3815,7 +3815,7 @@
         "release": "2013-04-30",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "tizen",
@@ -3824,7 +3824,7 @@
         "release": "2013-02-18",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "tizen",
@@ -3833,7 +3833,7 @@
         "release": "2013-05-17",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "tizen",
@@ -3842,7 +3842,7 @@
         "release": "2013-07-22",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "tizen",
@@ -3851,7 +3851,7 @@
         "release": "2014-10-08",
         "type": "mobile",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "toshiba.espial",
@@ -3860,7 +3860,7 @@
         "details": "Espial 6.0.8",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "toshiba.espial",
@@ -3869,7 +3869,7 @@
         "details": "Espial 6.1.1",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "toshiba.netfrontnx",
@@ -3878,7 +3878,7 @@
         "details": "NetFront NX 2.1",
         "type": "television,television-smart",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "toshiba.netfrontnx",
@@ -3887,7 +3887,7 @@
         "details": "NetFront NX 3.0",
         "type": "television,television-smart",
         "status": "current",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "touchwiz",
@@ -3896,7 +3896,7 @@
         "release": "2009-05-01",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "touchwiz",
@@ -3905,7 +3905,7 @@
         "release": "2011-02-01",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "ubuntutouch",
@@ -3913,7 +3913,7 @@
         "nickname": "Ubuntu Touch",
         "type": "mobile,tablet",
         "status": "development",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "uc",
@@ -3922,7 +3922,7 @@
         "release": "2013-02-19",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -3931,7 +3931,7 @@
         "release": "2013-06-04",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -3940,7 +3940,7 @@
         "release": "2013-07-04",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -3949,7 +3949,7 @@
         "release": "2013-08-07",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -3958,7 +3958,7 @@
         "release": "2013-09-27",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -3967,7 +3967,7 @@
         "release": "2013-11-05",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -3976,7 +3976,7 @@
         "release": "2014-10-27",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -3985,7 +3985,7 @@
         "release": "2015-01-23",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -3994,7 +3994,7 @@
         "release": "2015-02-04",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -4003,7 +4003,7 @@
         "release": "2015-03-16",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -4012,7 +4012,7 @@
         "release": "2015-04-15",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -4021,7 +4021,7 @@
         "release": "2014-01-10",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -4030,7 +4030,7 @@
         "release": "2014-02-27",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -4039,7 +4039,7 @@
         "release": "2014-04-25",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -4048,7 +4048,7 @@
         "release": "2014-05-30",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -4057,7 +4057,7 @@
         "release": "2014-07-16",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -4066,7 +4066,7 @@
         "release": "2015-05-18",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc",
@@ -4075,7 +4075,7 @@
         "release": "2015-07-06",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "uc.mini",
@@ -4083,7 +4083,7 @@
         "nickname": "UC Browser Mini",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "webos",
@@ -4092,7 +4092,7 @@
         "release": "2010-02-26",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "webos",
@@ -4101,7 +4101,7 @@
         "release": "2011-03-08",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "webos",
@@ -4110,7 +4110,7 @@
         "release": "2011-08-17",
         "type": "mobile",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "webos",
@@ -4119,7 +4119,7 @@
         "release": "2011-07-01",
         "type": "tablet",
         "status": "current",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "wm",
@@ -4128,7 +4128,7 @@
         "release": "2009-10-06",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "wp",
@@ -4137,7 +4137,7 @@
         "release": "2010-10-21",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "wp",
@@ -4146,7 +4146,7 @@
         "release": "2011-09-27",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "wp",
@@ -4155,7 +4155,7 @@
         "release": "2012-10-29",
         "type": "mobile",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "wp",
@@ -4164,7 +4164,7 @@
         "release": "2014-07-15",
         "type": "mobile",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "xbox.360",
@@ -4173,7 +4173,7 @@
         "details": "Internet Explorer 9",
         "type": "gaming,gaming-console",
         "status": "legacy",
-        "listed": 0
+        "visible": false
     },
     {
         "platform": "xbox.one",
@@ -4182,7 +4182,7 @@
         "details": "Internet Explorer 10",
         "type": "gaming,gaming-console",
         "status": "legacy",
-        "listed": 1
+        "visible": true
     },
     {
         "platform": "xbox.one",
@@ -4191,6 +4191,6 @@
         "details": "Edge 13",
         "type": "gaming,gaming-console",
         "status": "current",
-        "listed": 1
+        "visible": true
     }
 ]

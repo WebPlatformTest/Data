@@ -28,7 +28,7 @@ foreach ($versions as $key => $value) {
         "`release`=" . (!empty($value->release) ? "'" . addslashes($value->release) . "'" : 'NULL') . ", " .
         "`type`='" . addslashes($value->type) . "', " .
         "`status`='" . addslashes($value->status) . "', " .
-        "`listed`=" . intval($value->listed) . ";";
+        "`listed`=" . intval($value->visible) . ";";
 }
 
 
