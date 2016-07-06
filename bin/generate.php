@@ -2,12 +2,12 @@
 
 $data = [];
 
-$variants = json_decode(file_get_contents(__DIR__ . '/../data/variants.json'));
+$variants = json_decode(file_get_contents(__DIR__ . '/../data/platforms.json'));
 
 $data[] = "TRUNCATE browserVariants;";
 foreach ($variants as $key => $value) {
     $data[] = "INSERT INTO browserVariants SET " .
-        "`id`='" . addslashes($value->id) . "', " .
+        "`id`='" . addslashes($value->platform) . "', " .
         "`replaced`=" . (!empty($value->replaced) ? "'" . addslashes($value->replaced) . "'" : 'NULL') . ", " .
         "`name`='" . addslashes($value->name) . "', " .
         "`grouped`='" . addslashes($value->grouped) . "', " .
@@ -21,7 +21,7 @@ $versions = json_decode(file_get_contents(__DIR__ . '/../data/versions.json'));
 $data[] = "TRUNCATE browserVersions;";
 foreach ($versions as $key => $value) {
     $data[] = "INSERT INTO browserVersions SET " .
-        "`variant`='" . addslashes($value->id) . "', " .
+        "`variant`='" . addslashes($value->platform) . "', " .
         "`version`='" . addslashes($value->version) . "', " .
         "`nickname`='" . addslashes($value->nickname) . "', " .
         "`details`=" . (!empty($value->details) ? "'" . addslashes($value->details) . "'" : 'NULL') . ", " .
@@ -32,12 +32,12 @@ foreach ($versions as $key => $value) {
 }
 
 
-$identifiers = json_decode(file_get_contents(__DIR__ . '/../data/identifiers.json'));
+$identifiers = json_decode(file_get_contents(__DIR__ . '/../data/tests.json'));
 
 $data[] = "TRUNCATE browserIdentifier;";
 foreach ($identifiers as $key => $value) {
     $data[] = "INSERT INTO browserIdentifier SET " .
-        "`variant`='" . addslashes($value->id) . "', " .
+        "`variant`='" . addslashes($value->platform) . "', " .
         "`version`='" . addslashes($value->version) . "', " .
         "`uniqueid`=" . (!empty($value->uniqueid) ? "'" . addslashes($value->uniqueid) . "'" : 'NULL') . ", " .
         "`identifier`=" . (!empty($value->identifier) ? "'" . addslashes($value->identifier) . "'" : 'NULL') . ", " .
