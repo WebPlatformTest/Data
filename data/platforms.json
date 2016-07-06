@@ -22,7 +22,7 @@
     },
     {
         "platform": "android.samsung",
-        "name": "Samsung Browser",
+        "name": "Samsung Internet",
         "grouped": "Samsung",
         "order": 0,
         "type": "mobile,tablet"
