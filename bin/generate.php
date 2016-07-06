@@ -11,7 +11,7 @@ foreach ($variants as $key => $value) {
         "`replaced`=" . (!empty($value->replaced) ? "'" . addslashes($value->replaced) . "'" : 'NULL') . ", " .
         "`name`='" . addslashes($value->name) . "', " .
         "`grouped`='" . addslashes($value->grouped) . "', " .
-        "`importance`=" . intval($value->importance) . ", " .
+        "`importance`=" . intval($value->order) . ", " .
         "`type`='" . addslashes($value->type) . "';";
 }
 

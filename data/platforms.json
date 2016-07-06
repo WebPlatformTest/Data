@@ -3,42 +3,42 @@
         "platform": "android",
         "name": "Android",
         "grouped": "Android",
-        "importance": 2,
+        "order": 2,
         "type": "mobile,tablet"
     },
     {
         "platform": "android.htc",
         "name": "HTC Sense Browser",
         "grouped": "HTC",
-        "importance": 0,
+        "order": 0,
         "type": "mobile,tablet"
     },
     {
         "platform": "android.lg",
         "name": "LG Browser",
         "grouped": "LG",
-        "importance": 0,
+        "order": 0,
         "type": "mobile,tablet"
     },
     {
         "platform": "android.samsung",
         "name": "Samsung Browser",
         "grouped": "Samsung",
-        "importance": 0,
+        "order": 0,
         "type": "mobile,tablet"
     },
     {
         "platform": "bada",
         "name": "Bada",
         "grouped": "Bada",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "bb",
         "name": "BlackBerry",
         "grouped": "BlackBerry",
-        "importance": 1,
+        "order": 1,
         "type": "mobile"
     },
     {
@@ -46,77 +46,77 @@
         "replaced": "bb",
         "name": "BlackBerry OS",
         "grouped": "BlackBerry",
-        "importance": 1,
+        "order": 1,
         "type": "mobile"
     },
     {
         "platform": "chrome",
         "name": "Chrome",
         "grouped": "Chrome",
-        "importance": 8,
+        "order": 8,
         "type": "desktop"
     },
     {
         "platform": "chrome.mobile",
         "name": "Chrome for Android",
         "grouped": "Chrome",
-        "importance": 1,
+        "order": 1,
         "type": "mobile,tablet"
     },
     {
         "platform": "chromeos",
         "name": "Chrome OS",
         "grouped": "Chrome",
-        "importance": 0,
+        "order": 0,
         "type": "desktop"
     },
     {
         "platform": "dolphin",
         "name": "Dolphin",
         "grouped": "Dolphin",
-        "importance": 0,
+        "order": 0,
         "type": "mobile,tablet"
     },
     {
         "platform": "edge",
         "name": "Edge",
         "grouped": "Edge",
-        "importance": 4,
+        "order": 4,
         "type": "desktop,tablet"
     },
     {
         "platform": "firefox",
         "name": "Firefox",
         "grouped": "Firefox",
-        "importance": 5,
+        "order": 5,
         "type": "desktop"
     },
     {
         "platform": "firefox.mobile",
         "name": "Firefox Mobile",
         "grouped": "Firefox",
-        "importance": 1,
+        "order": 1,
         "type": "mobile,tablet"
     },
     {
         "platform": "ie",
         "name": "Internet Explorer",
         "grouped": "Internet Explorer",
-        "importance": 3,
+        "order": 3,
         "type": "desktop,tablet"
     },
     {
         "platform": "ios",
         "name": "iOS",
         "grouped": "iOS",
-        "importance": 1,
+        "order": 1,
         "type": "mobile,tablet"
     },
     {
         "platform": "kindle.silk",
         "name": "Kindle Silk",
         "grouped": "Kindle",
-        "importance": 0,
+        "order": 0,
         "type": "tablet"
     },
     {
@@ -124,14 +124,14 @@
         "replaced": "sailfish",
         "name": "Maemo",
         "grouped": "Maemo",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "maxthon",
         "name": "Maxthon",
         "grouped": "Maxthon",
-        "importance": 0,
+        "order": 0,
         "type": "desktop"
     },
     {
@@ -139,91 +139,91 @@
         "replaced": "sailfish",
         "name": "Meego",
         "grouped": "Maemo",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "opera",
         "name": "Opera",
         "grouped": "Opera",
-        "importance": 7,
+        "order": 7,
         "type": "desktop"
     },
     {
         "platform": "opera.mini",
         "name": "Opera Mini",
         "grouped": "Opera",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "opera.mobile",
         "name": "Opera Mobile",
         "grouped": "Opera",
-        "importance": 1,
+        "order": 1,
         "type": "mobile,tablet"
     },
     {
         "platform": "rimtablet",
         "name": "RIM Tablet OS",
         "grouped": "BlackBerry",
-        "importance": 0,
+        "order": 0,
         "type": "tablet"
     },
     {
         "platform": "s60",
         "name": "S60",
         "grouped": "S60",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "safari",
         "name": "Safari",
         "grouped": "Safari",
-        "importance": 1,
+        "order": 1,
         "type": "desktop"
     },
     {
         "platform": "sailfish",
         "name": "Sailfish",
         "grouped": "Sailfish",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "tizen",
         "name": "Tizen",
         "grouped": "Tizen",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "touchwiz",
         "name": "Touchwiz",
         "grouped": "Touchwiz",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "uc",
         "name": "UC Browser",
         "grouped": "UC Browser",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "uc.mini",
         "name": "UC Browser Mini",
         "grouped": "UC Browser",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "webos",
         "name": "webOS",
         "grouped": "webOS",
-        "importance": 0,
+        "order": 0,
         "type": "mobile,tablet"
     },
     {
@@ -231,14 +231,14 @@
         "replaced": "wp",
         "name": "Windows Mobile",
         "grouped": "Windows",
-        "importance": 0,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "wp",
         "name": "Windows Phone",
         "grouped": "Windows",
-        "importance": 1,
+        "order": 1,
         "type": "mobile"
     }
 ]

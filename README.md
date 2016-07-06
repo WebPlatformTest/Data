@@ -16,7 +16,7 @@ You are welcome to submit pull requests for new tests, versions and platforms.
 
 Some rules:
 - When testing, always use the default settings of the browser. No experimental features enabled.
-- Set the `importance` property of new platforms always to 0 by default.
+- Set the `order` property of new platforms always to 0 by default.
 - Set the `listed` propery of versions of new platforms always to 0 by default.
 - In case of a new version, please do not forget to set the status of the previous version to `legacy`.
 
@@ -33,14 +33,14 @@ In general this file should not be edited unless you want to add a whole new bro
         "platform": "chrome",
         "name": "Chrome",
         "grouped": "Chrome",
-        "importance": 8,
+        "order": 8,
         "type": "desktop"
     },
     {
         "platform": "chrome.mobile",
         "name": "Chrome for Android",
         "grouped": "Chrome",
-        "importance": 1,
+        "order": 1,
         "type": "mobile,tablet"
     }
 ]
@@ -49,7 +49,7 @@ In general this file should not be edited unless you want to add a whole new bro
 - `platform`: The id of this browser, operating system or device, must be unique, contain only lowercase a-z, 0-9 and dots.
 - `name`: The full name of this browser, operating system or device.
 - `grouped`: A simplified name that can be shared between multiple platforms.
-- `importance`: An integer that determines the sorting of the overview of the 'Other browsers' page. A value of `0` means the item is not visible in the overview.
+- `order`: An integer that determines the order of the overview of the 'Other browsers' page. A value of `0` means the item is not visible in the overview.
 - `type`: What kind of browser or device this is. Can be a comma seperated list with the following values: `desktop`, `mobile`, `tablet`.
 
 
