@@ -2,42 +2,36 @@
     {
         "platform": "android",
         "name": "Android",
-        "grouped": "Android",
         "order": 2,
         "type": "mobile,tablet"
     },
     {
         "platform": "android.htc",
         "name": "HTC Sense Browser",
-        "grouped": "HTC",
         "order": 0,
         "type": "mobile,tablet"
     },
     {
         "platform": "android.lg",
         "name": "LG Browser",
-        "grouped": "LG",
         "order": 0,
         "type": "mobile,tablet"
     },
     {
         "platform": "android.samsung",
         "name": "Samsung Internet",
-        "grouped": "Samsung",
         "order": 0,
         "type": "mobile,tablet"
     },
     {
         "platform": "bada",
         "name": "Bada",
-        "grouped": "Bada",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "bb",
         "name": "BlackBerry",
-        "grouped": "BlackBerry",
         "order": 1,
         "type": "mobile"
     },
@@ -45,77 +39,66 @@
         "platform": "bbos",
         "related": "bb",
         "name": "BlackBerry OS",
-        "grouped": "BlackBerry",
         "order": 1,
         "type": "mobile"
     },
     {
         "platform": "chrome",
         "name": "Chrome",
-        "grouped": "Chrome",
         "order": 8,
         "type": "desktop"
     },
     {
         "platform": "chrome.mobile",
         "name": "Chrome for Android",
-        "grouped": "Chrome",
         "order": 1,
         "type": "mobile,tablet"
     },
     {
         "platform": "chromeos",
         "name": "Chrome OS",
-        "grouped": "Chrome",
         "order": 0,
         "type": "desktop"
     },
     {
         "platform": "dolphin",
         "name": "Dolphin",
-        "grouped": "Dolphin",
         "order": 0,
         "type": "mobile,tablet"
     },
     {
         "platform": "edge",
         "name": "Edge",
-        "grouped": "Edge",
         "order": 4,
         "type": "desktop,tablet"
     },
     {
         "platform": "firefox",
         "name": "Firefox",
-        "grouped": "Firefox",
         "order": 5,
         "type": "desktop"
     },
     {
         "platform": "firefox.mobile",
         "name": "Firefox Mobile",
-        "grouped": "Firefox",
         "order": 1,
         "type": "mobile,tablet"
     },
     {
         "platform": "ie",
         "name": "Internet Explorer",
-        "grouped": "Internet Explorer",
         "order": 3,
         "type": "desktop,tablet"
     },
     {
         "platform": "ios",
         "name": "iOS",
-        "grouped": "iOS",
         "order": 1,
         "type": "mobile,tablet"
     },
     {
         "platform": "kindle.silk",
         "name": "Kindle Silk",
-        "grouped": "Kindle",
         "order": 0,
         "type": "tablet"
     },
@@ -123,14 +106,12 @@
         "platform": "maemo",
         "related": "sailfish",
         "name": "Maemo",
-        "grouped": "Maemo",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "maxthon",
         "name": "Maxthon",
-        "grouped": "Maxthon",
         "order": 0,
         "type": "desktop"
     },
@@ -138,91 +119,78 @@
         "platform": "meego",
         "related": "sailfish",
         "name": "Meego",
-        "grouped": "Maemo",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "opera",
         "name": "Opera",
-        "grouped": "Opera",
         "order": 7,
         "type": "desktop"
     },
     {
         "platform": "opera.mini",
         "name": "Opera Mini",
-        "grouped": "Opera",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "opera.mobile",
         "name": "Opera Mobile",
-        "grouped": "Opera",
         "order": 1,
         "type": "mobile,tablet"
     },
     {
         "platform": "rimtablet",
         "name": "RIM Tablet OS",
-        "grouped": "BlackBerry",
         "order": 0,
         "type": "tablet"
     },
     {
         "platform": "s60",
         "name": "S60",
-        "grouped": "S60",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "safari",
         "name": "Safari",
-        "grouped": "Safari",
         "order": 1,
         "type": "desktop"
     },
     {
         "platform": "sailfish",
         "name": "Sailfish",
-        "grouped": "Sailfish",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "tizen",
         "name": "Tizen",
-        "grouped": "Tizen",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "touchwiz",
         "name": "Touchwiz",
-        "grouped": "Touchwiz",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "uc",
         "name": "UC Browser",
-        "grouped": "UC Browser",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "uc.mini",
         "name": "UC Browser Mini",
-        "grouped": "UC Browser",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "webos",
         "name": "webOS",
-        "grouped": "webOS",
         "order": 0,
         "type": "mobile,tablet"
     },
@@ -230,28 +198,24 @@
         "platform": "wm",
         "related": "wp",
         "name": "Windows Mobile",
-        "grouped": "Windows",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "wp",
         "name": "Windows Phone",
-        "grouped": "Windows",
         "order": 1,
         "type": "mobile"
     },
     {
         "platform": "xbox.360",
         "name": "Xbox 360",
-        "grouped": "Xbox",
         "order": 0,
         "type": "gaming,gaming-console"
     },
     {
         "platform": "xbox.one",
         "name": "Xbox One",
-        "grouped": "Xbox",
         "order": 0,
         "type": "gaming,gaming-console"
     }
