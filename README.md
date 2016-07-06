@@ -74,7 +74,7 @@ existing data should never be deleted, only new data added.
 - `platform`: The id of this platform.
 - `version`: The version. Try to be as brief as possible, so not 38.0.1, but just 38.
 - `nickname`: The name of this browser, os or device, including the version.
-- `release`: The date on which this version was released. Do not use the date of a bugfix release, only the date of major releases.
+- `releasedate`: The date on which this version was released. Do not use the date of a bugfix release, only the date of major releases.
 - `type`: What kind of browser or device this is. Can be a comma seperated list with the following values: `desktop`, `mobile`, `tablet`, `ereader`, `television`, `television-box`, `television-smart`, `gaming`, `gaming-portable`, `gaming-console`. A value with a dash (`-`) should always also include the portion before the dash seperately, so `gaming-console` should also include `gaming`, for example: `gaming,gaming-console`.
 - `status`: Is this the `current` version, or a `legacy` version or `development` build?
 - `visible`: A value of `false` is not visible by default, a value of `true` is visible by default.
