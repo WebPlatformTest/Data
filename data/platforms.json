@@ -240,5 +240,19 @@
         "grouped": "Windows",
         "order": 1,
         "type": "mobile"
+    },
+    {
+        "platform": "xbox.360",
+        "name": "Xbox 360",
+        "grouped": "Xbox",
+        "order": 0,
+        "type": "gaming,gaming-console"
+    },
+    {
+        "platform": "xbox.one",
+        "name": "Xbox One",
+        "grouped": "Xbox",
+        "order": 0,
+        "type": "gaming,gaming-console"
     }
 ]
