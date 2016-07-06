@@ -43,7 +43,7 @@
     },
     {
         "platform": "bbos",
-        "replaced": "bb",
+        "related": "bb",
         "name": "BlackBerry OS",
         "grouped": "BlackBerry",
         "order": 1,
@@ -121,7 +121,7 @@
     },
     {
         "platform": "maemo",
-        "replaced": "sailfish",
+        "related": "sailfish",
         "name": "Maemo",
         "grouped": "Maemo",
         "order": 0,
@@ -136,7 +136,7 @@
     },
     {
         "platform": "meego",
-        "replaced": "sailfish",
+        "related": "sailfish",
         "name": "Meego",
         "grouped": "Maemo",
         "order": 0,
@@ -228,7 +228,7 @@
     },
     {
         "platform": "wm",
-        "replaced": "wp",
+        "related": "wp",
         "name": "Windows Mobile",
         "grouped": "Windows",
         "order": 0,

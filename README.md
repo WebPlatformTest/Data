@@ -48,6 +48,7 @@ In general this file should not be edited unless you want to add a whole new bro
 
 - `platform`: The id of this browser, operating system or device, must be unique, contain only lowercase a-z, 0-9 and dots.
 - `name`: The full name of this browser, operating system or device.
+- `related`: The id of another entry in this file which is related to this entry. This should be used to add to old platforms and point to the latest incarnation of that platform. For example, the Xbox 360 should point to the Xbox One, but not the other way around. If there are multiple older incarnations, these older ones should all point to the latest incarnation.
 - `grouped`: A simplified name that can be shared between multiple platforms.
 - `order`: An integer that determines the order of the overview of the 'Other browsers' page. A value of `0` means the item is not visible in the overview.
 - `type`: What kind of browser or device this is. Can be a comma seperated list with the following values: `desktop`, `mobile`, `tablet`.
