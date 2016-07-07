@@ -580,6 +580,26 @@
     },
     {
         "platform": "ios",
+        "version": "3.0",
+        "uniqueid": "6ced3f2fde042d72"
+    },
+    {
+        "platform": "ios",
+        "version": "4.0",
+        "uniqueid": "4465032fde03bf7b"
+    },
+    {
+        "platform": "ios",
+        "version": "5.0",
+        "uniqueid": "6f147d2fde0367a7"
+    },
+    {
+        "platform": "ios",
+        "version": "6.0",
+        "uniqueid": "75d92f2fde02fd51"
+    },
+    {
+        "platform": "ios",
         "version": "7.0",
         "uniqueid": "e3c4672fdeefdf7a"
     },
