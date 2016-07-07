@@ -15,7 +15,8 @@ The data is stored in three files:
 You are welcome to submit pull requests for new tests, versions and platforms.
 
 Some rules:
-- When testing, always use the default settings of the browser. No experimental features enabled.
+- When testing `legacy`, `current` or `upcoming` versions, always use the default settings of the browser. No experimental features enabled.
+- If you want to include an build with experimental features, set the `status` of the version to `experimental` and set the `version` to `null`.
 - Set the `order` property of new platforms always to 0 by default.
 - Set the `visible` propery of versions of new platforms always to `false` by default.
 - In case of a new version, please do not forget to set the status of the previous version to `legacy`.

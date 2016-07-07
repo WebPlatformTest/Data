@@ -1196,6 +1196,14 @@
         "visible": true
     },
     {
+        "platform": "edge",
+        "version": null,
+        "nickname": "Edge",
+        "type": "desktop,tablet",
+        "status": "experimental",
+        "visible": true
+    },
+    {
         "platform": "edge.mobile",
         "version": "13",
         "nickname": "Edge 13",

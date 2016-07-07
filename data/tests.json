@@ -299,6 +299,11 @@
         "uniqueid": "7a2ddb2fdded7509"
     },
     {
+        "platform": "edge",
+        "version": null,
+        "uniqueid": "6b0bc92fe08fce42"
+    },
+    {
         "platform": "edge.mobile",
         "version": "13",
         "uniqueid": "e7865f2fde72bc74"
