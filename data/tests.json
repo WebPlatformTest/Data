@@ -228,6 +228,11 @@
         "identifier": "chrome-51.0|OS X-El Capitan"
     },
     {
+        "platform": "chrome.mobile",
+        "version": "49",
+        "uniqueid": "e85de62fddcc411f"
+    },
+    {
         "platform": "edge",
         "version": "12",
         "uniqueid": "e98c312fceb71f89"
