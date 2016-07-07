@@ -289,7 +289,7 @@
         "nickname": "Samsung Internet 2.0",
         "type": "mobile",
         "status": "legacy",
-        "visible": false
+        "visible": true
     },
     {
         "platform": "android.samsung",
@@ -297,7 +297,7 @@
         "nickname": "Samsung Internet 2.1",
         "type": "mobile",
         "status": "legacy",
-        "visible": false
+        "visible": true
     },
     {
         "platform": "android.samsung",
@@ -305,7 +305,7 @@
         "nickname": "Samsung Internet 3.0",
         "type": "mobile",
         "status": "legacy",
-        "visible": false
+        "visible": true
     },
     {
         "platform": "android.samsung",
@@ -313,7 +313,7 @@
         "nickname": "Samsung Internet 4.0",
         "type": "mobile",
         "status": "current",
-        "visible": false
+        "visible": true
     },
     {
         "platform": "bada",

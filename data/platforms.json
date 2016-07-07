@@ -2,7 +2,7 @@
     {
         "platform": "android",
         "name": "Android",
-        "order": 2,
+        "order": 0,
         "type": "mobile,tablet"
     },
     {
@@ -20,7 +20,7 @@
     {
         "platform": "android.samsung",
         "name": "Samsung Internet",
-        "order": 0,
+        "order": 7,
         "type": "mobile,tablet"
     },
     {
@@ -32,14 +32,14 @@
     {
         "platform": "bb",
         "name": "BlackBerry",
-        "order": 1,
+        "order": 0,
         "type": "mobile"
     },
     {
         "platform": "bbos",
         "related": "bb",
         "name": "BlackBerry OS",
-        "order": 1,
+        "order": 0,
         "type": "mobile"
     },
     {
@@ -51,7 +51,7 @@
     {
         "platform": "chrome.mobile",
         "name": "Chrome for Android",
-        "order": 1,
+        "order": 8,
         "type": "mobile,tablet"
     },
     {
@@ -93,7 +93,7 @@
     {
         "platform": "ios",
         "name": "iOS",
-        "order": 1,
+        "order": 4,
         "type": "mobile,tablet"
     },
     {
@@ -137,7 +137,7 @@
     {
         "platform": "opera.mobile",
         "name": "Opera Mobile",
-        "order": 1,
+        "order": 6,
         "type": "mobile,tablet"
     },
     {
@@ -204,7 +204,7 @@
     {
         "platform": "wp",
         "name": "Windows Phone",
-        "order": 1,
+        "order": 3,
         "type": "mobile"
     },
     {
