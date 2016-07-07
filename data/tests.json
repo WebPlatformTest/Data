@@ -25,6 +25,11 @@
         "uniqueid": "daf09f2fddccdb91"
     },
     {
+        "platform": "bb",
+        "version": "10.3",
+        "uniqueid": "9343a42fde9adab3"
+    },
+    {
         "platform": "chrome",
         "version": "14",
         "source": "browserstack",
@@ -639,6 +644,16 @@
         "uniqueid": "976c622fddf7bac2"
     },
     {
+        "platform": "meego",
+        "version": "1.2",
+        "uniqueid": "e842cb2fde9bc66c"
+    },
+    {
+        "platform": "nokiax",
+        "version": null,
+        "uniqueid": "f613892fde958ffd"
+    },
+    {
         "platform": "opera",
         "version": "10.60",
         "uniqueid": "de5d032fddc7ae61"
@@ -834,8 +849,33 @@
         "identifier": "safari-9.1|OS X-El Capitan"
     },
     {
+        "platform": "sailfish",
+        "version": null,
+        "uniqueid": "a96dba2ba88b2aa4"
+    },
+    {
+        "platform": "tizen",
+        "version": "2.3",
+        "uniqueid": "d926992fdf73efa0"
+    },
+    {
         "platform": "uc.mobile",
         "version": "10.10",
         "uniqueid": "a2377e2fde5af81e"
+    },
+    {
+        "platform": "wp",
+        "version": "7.5",
+        "uniqueid": "9d34c42ed0a978b2"
+    },
+    {
+        "platform": "wp",
+        "version": "8",
+        "uniqueid": "1e965423fe8ca679"
+    },
+    {
+        "platform": "wp",
+        "version": "8.1",
+        "uniqueid": "6b179a23fe81bff5"
     }
 ]
