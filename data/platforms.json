@@ -177,7 +177,7 @@
         "type": "mobile"
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "name": "UC Browser",
         "order": 0,
         "type": "mobile"

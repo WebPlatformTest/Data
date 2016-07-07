@@ -3916,7 +3916,7 @@
         "visible": true
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "8.6",
         "nickname": "UC Browser 8.6",
         "releasedate": "2013-02-19",
@@ -3925,7 +3925,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.0",
         "nickname": "UC Browser 9.0",
         "releasedate": "2013-06-04",
@@ -3934,7 +3934,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.1",
         "nickname": "UC Browser 9.1",
         "releasedate": "2013-07-04",
@@ -3943,7 +3943,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.2",
         "nickname": "UC Browser 9.2",
         "releasedate": "2013-08-07",
@@ -3952,7 +3952,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.3",
         "nickname": "UC Browser 9.3",
         "releasedate": "2013-09-27",
@@ -3961,7 +3961,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.4",
         "nickname": "UC Browser 9.4",
         "releasedate": "2013-11-05",
@@ -3970,7 +3970,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "10.0",
         "nickname": "UC Browser 10.0",
         "releasedate": "2014-10-27",
@@ -3979,7 +3979,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "10.1",
         "nickname": "UC Browser 10.1",
         "releasedate": "2015-01-23",
@@ -3988,7 +3988,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "10.2",
         "nickname": "UC Browser 10.2",
         "releasedate": "2015-02-04",
@@ -3997,7 +3997,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "10.3",
         "nickname": "UC Browser 10.3",
         "releasedate": "2015-03-16",
@@ -4006,7 +4006,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "10.4",
         "nickname": "UC Browser 10.4",
         "releasedate": "2015-04-15",
@@ -4015,7 +4015,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.5",
         "nickname": "UC Browser 9.5",
         "releasedate": "2014-01-10",
@@ -4024,7 +4024,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.6",
         "nickname": "UC Browser 9.6",
         "releasedate": "2014-02-27",
@@ -4033,7 +4033,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.7",
         "nickname": "UC Browser 9.7",
         "releasedate": "2014-04-25",
@@ -4042,7 +4042,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.8",
         "nickname": "UC Browser 9.8",
         "releasedate": "2014-05-30",
@@ -4051,7 +4051,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "9.9",
         "nickname": "UC Browser 9.9",
         "releasedate": "2014-07-16",
@@ -4060,7 +4060,7 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "10.5",
         "nickname": "UC Browser 10.5",
         "releasedate": "2015-05-18",
@@ -4069,10 +4069,46 @@
         "visible": false
     },
     {
-        "platform": "uc",
+        "platform": "uc.mobile",
         "version": "10.6",
         "nickname": "UC Browser 10.6",
-        "releasedate": "2015-07-06",
+        "releasedate": "2015-07-02",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "uc.mobile",
+        "version": "10.7",
+        "nickname": "UC Browser 10.7",
+        "releasedate": "2015-09-06",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "uc.mobile",
+        "version": "10.8",
+        "nickname": "UC Browser 10.8",
+        "releasedate": "2016-01-01",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "uc.mobile",
+        "version": "10.9",
+        "nickname": "UC Browser 10.9",
+        "releasedate": "2016-03-16",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "uc.mobile",
+        "version": "10.10",
+        "nickname": "UC Browser 10.10",
+        "releasedate": "2016-05-28",
         "type": "mobile",
         "status": "current",
         "visible": false

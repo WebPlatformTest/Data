@@ -807,5 +807,10 @@
         "version": "9.1",
         "source": "browserstack",
         "identifier": "safari-9.1|OS X-El Capitan"
+    },
+    {
+        "platform": "uc.mobile",
+        "version": "10.10",
+        "uniqueid": "a2377e2fde5af81e"
     }
 ]
