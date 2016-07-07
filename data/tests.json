@@ -579,6 +579,26 @@
         "identifier": "ie-11.0|Windows-10"
     },
     {
+        "platform": "ios",
+        "version": "7.0",
+        "uniqueid": "e3c4672fdeefdf7a"
+    },
+    {
+        "platform": "ios",
+        "version": "8.0",
+        "uniqueid": "bce5bc2fdeee1f9e"
+    },
+    {
+        "platform": "ios",
+        "version": "9.0",
+        "uniqueid": "39a5852fdc0759e8"
+    },
+    {
+        "platform": "ios",
+        "version": "9.3",
+        "uniqueid": "976c622fddf7bac2"
+    },
+    {
         "platform": "opera",
         "version": "10.60",
         "uniqueid": "de5d032fddc7ae61"
