@@ -51,6 +51,7 @@
     {
         "platform": "chrome.mobile",
         "name": "Chrome for Android",
+        "nickname": "Chrome",
         "order": 8,
         "type": "mobile,tablet"
     },

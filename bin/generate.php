@@ -10,6 +10,7 @@ foreach ($variants as $key => $value) {
         "`platform`='" . addslashes($value->platform) . "', " .
         "`related`=" . (!empty($value->related) ? "'" . addslashes($value->related) . "'" : 'NULL') . ", " .
         "`name`='" . addslashes($value->name) . "', " .
+        "`nickname`=" . (!empty($value->nickname) ? "'" . addslashes($value->nickname) . "'" : 'NULL') . ", " .
         "`order`=" . intval($value->order) . ", " .
         "`type`='" . addslashes($value->type) . "';";
 }
