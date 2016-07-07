@@ -696,6 +696,16 @@
     },
     {
         "platform": "safari",
+        "version": "4.0",
+        "uniqueid": "7fc6642fddca9581"
+    },
+    {
+        "platform": "safari",
+        "version": "5.0",
+        "uniqueid": "0763a12fddca414a"
+    },
+    {
+        "platform": "safari",
         "version": "5.1",
         "source": "browserstack",
         "identifier": "safari-5.1|OS X-Snow Leopard"
