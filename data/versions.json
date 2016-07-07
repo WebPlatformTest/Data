@@ -1166,7 +1166,7 @@
         "nickname": "Dolphin Engine Beta",
         "releasedate": "2012-06-19",
         "type": "mobile",
-        "status": "development",
+        "status": "upcoming",
         "visible": true
     },
     {
@@ -1192,7 +1192,7 @@
         "version": "14",
         "nickname": "Edge 14",
         "type": "desktop,tablet",
-        "status": "development",
+        "status": "upcoming",
         "visible": true
     },
     {
@@ -1209,7 +1209,7 @@
         "version": "6.0.8",
         "nickname": "Espial 6.0.8",
         "type": "television",
-        "status": "development",
+        "status": "upcoming",
         "visible": false
     },
     {
@@ -2279,7 +2279,7 @@
         "version": "10.0",
         "nickname": "iOS 10.0",
         "type": "mobile,tablet",
-        "status": "development",
+        "status": "upcoming",
         "visible": true
     },
     {
@@ -2451,7 +2451,7 @@
         "version": "2.0",
         "nickname": "Netfront NX 2",
         "type": "television",
-        "status": "development",
+        "status": "upcoming",
         "visible": false
     },
     {
@@ -2459,7 +2459,7 @@
         "version": "2.1",
         "nickname": "Netfront NX 2.1",
         "type": "television",
-        "status": "development",
+        "status": "upcoming",
         "visible": true
     },
     {
@@ -3039,7 +3039,7 @@
         "version": "3.2",
         "nickname": "Opera Devices 3.2",
         "type": "television",
-        "status": "development",
+        "status": "upcoming",
         "visible": false
     },
     {
@@ -3047,7 +3047,7 @@
         "version": "3.4",
         "nickname": "Opera Devices 3.4",
         "type": "television",
-        "status": "development",
+        "status": "upcoming",
         "visible": true
     },
     {
@@ -3685,7 +3685,7 @@
         "version": "10.0",
         "nickname": "Safari 10.0",
         "type": "desktop",
-        "status": "development",
+        "status": "upcoming",
         "visible": true
     },
     {
@@ -3921,7 +3921,7 @@
         "version": null,
         "nickname": "Ubuntu Touch",
         "type": "mobile,tablet",
-        "status": "development",
+        "status": "upcoming",
         "visible": true
     },
     {

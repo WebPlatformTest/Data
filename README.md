@@ -77,7 +77,7 @@ existing data should never be deleted, only new data added.
 - `details`: Additional information in case of a device, like the actual browser name.
 - `releasedate`: The date on which this version was released. Do not use the date of a bugfix release, only the date of major releases.
 - `type`: What kind of browser or device this is. Can be a comma seperated list with the following values: `desktop`, `mobile`, `tablet`, `ereader`, `television`, `television-box`, `television-smart`, `gaming`, `gaming-portable`, `gaming-console`. A value with a dash (`-`) should always also include the portion before the dash seperately, so `gaming-console` should also include `gaming`, for example: `gaming,gaming-console`.
-- `status`: Is this the `current` version, or a `legacy` version or `development` build?
+- `status`: Is this the `current` version, or a `legacy` version or `upcoming` version?
 - `visible`: A value of `false` is not visible by default, a value of `true` is visible by default.
 
 
