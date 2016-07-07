@@ -258,6 +258,16 @@
         "uniqueid": "e85de62fddcc411f"
     },
     {
+        "platform": "chrome.mobile",
+        "version": "50",
+        "uniqueid": "d4f3e12fde5621c1"
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "51",
+        "uniqueid": "dc224d2fde663a0d"
+    },
+    {
         "platform": "edge",
         "version": "12",
         "uniqueid": "e98c312fceb71f89"
@@ -543,6 +553,11 @@
         "uniqueid": "7f3a7a2fddb94e31"
     },
     {
+        "platform": "firefox.mobile",
+        "version": "47",
+        "uniqueid": "dac1a02fde58a943"
+    },
+    {
         "platform": "ie",
         "version": "6",
         "source": "browserstack",
@@ -768,6 +783,11 @@
         "platform": "opera",
         "version": "38",
         "uniqueid": "4979bc2fddbae436"
+    },
+    {
+        "platform": "opera.mobile",
+        "version": "37",
+        "uniqueid": "5fd4f62fde59d3fb"
     },
     {
         "platform": "safari",
