@@ -73,6 +73,12 @@
         "type": "desktop,tablet"
     },
     {
+        "platform": "edge.mobile",
+        "name": "Edge",
+        "order": 4,
+        "type": "mobile"
+    },
+    {
         "platform": "firefox",
         "name": "Firefox",
         "order": 5,

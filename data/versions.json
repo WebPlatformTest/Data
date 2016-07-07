@@ -1196,6 +1196,15 @@
         "visible": true
     },
     {
+        "platform": "edge.mobile",
+        "version": "13",
+        "nickname": "Edge 13",
+        "releasedate": "2015-11-18",
+        "type": "mobile",
+        "status": "current",
+        "visible": true
+    },
+    {
         "platform": "espial",
         "version": "6.0.8",
         "nickname": "Espial 6.0.8",
