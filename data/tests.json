@@ -1,5 +1,30 @@
 [
     {
+        "platform": "android.samsung",
+        "version": "1.5",
+        "uniqueid": "794e102fdde53714"
+    },
+    {
+        "platform": "android.samsung",
+        "version": "1.6",
+        "uniqueid": "e9a45f2fdde3c423"
+    },
+    {
+        "platform": "android.samsung",
+        "version": "2.0",
+        "uniqueid": "da82f02fdde67780"
+    },
+    {
+        "platform": "android.samsung",
+        "version": "3.0",
+        "uniqueid": "c694872fdde25fb8"
+    },
+    {
+        "platform": "android.samsung",
+        "version": "4.0",
+        "uniqueid": "daf09f2fddccdb91"
+    },
+    {
         "platform": "chrome",
         "version": "14",
         "source": "browserstack",
