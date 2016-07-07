@@ -269,6 +269,11 @@
         "identifier": "edge-13.0|Windows-10"
     },
     {
+        "platform": "edge",
+        "version": "14",
+        "uniqueid": "7a2ddb2fdded7509"
+    },
+    {
         "platform": "firefox",
         "version": "3.6",
         "source": "browserstack",
