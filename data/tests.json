@@ -1,5 +1,10 @@
 [
     {
+        "platform": "android",
+        "version": "4.2",
+        "uniqueid": "050c222fdf86f3d9"
+    },
+    {
         "platform": "android.samsung",
         "version": "1.5",
         "uniqueid": "794e102fdde53714"
@@ -256,6 +261,11 @@
         "version": "51",
         "source": "browserstack",
         "identifier": "chrome-51.0|OS X-El Capitan"
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "44",
+        "uniqueid": "afc11e2fdf82f5d0"
     },
     {
         "platform": "chrome.mobile",
@@ -564,6 +574,11 @@
     },
     {
         "platform": "firefox.mobile",
+        "version": "28",
+        "uniqueid": "c62d972fdf89fb13"
+    },
+    {
+        "platform": "firefox.mobile",
         "version": "47",
         "uniqueid": "dac1a02fde58a943"
     },
@@ -806,6 +821,16 @@
     },
     {
         "platform": "opera.mobile",
+        "version": "12.10",
+        "uniqueid": "fcf19e2fdfbfcc08"
+    },
+    {
+        "platform": "opera.mobile",
+        "version": "16",
+        "uniqueid": "ea0b832fdf87ff71"
+    },
+    {
+        "platform": "opera.mobile",
         "version": "37",
         "uniqueid": "5fd4f62fde59d3fb"
     },
@@ -851,7 +876,7 @@
     {
         "platform": "sailfish",
         "version": null,
-        "uniqueid": "a96dba2ba88b2aa4"
+        "uniqueid": "1096722fdcf7566a"
     },
     {
         "platform": "tizen",
