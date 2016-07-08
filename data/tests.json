@@ -676,27 +676,27 @@
     {
         "platform": "opera",
         "version": "10.60",
-        "uniqueid": "de5d032fddc7ae61"
+        "useragent": "Opera/9.80 (Windows NT 5.2; U; en) Presto/2.6.30 Version/10.63"
     },
     {
         "platform": "opera",
         "version": "11.10",
-        "uniqueid": "de187d2fddc74311"
+        "useragent": "Opera/9.80 (Windows NT 6.1; U; en) Presto/2.8.131 Version/11.11"
     },
     {
         "platform": "opera",
         "version": "11.50",
-        "uniqueid": "87dc0d2fddc6eddb"
+        "useragent": "Opera/9.80 (Windows NT 6.1; U; Edition United States Local; en) Presto/2.9.168 Version/11.51"
     },
     {
         "platform": "opera",
         "version": "11.60",
-        "uniqueid": "7fe7562fddc69113"
+        "useragent": "Opera/9.80 (Windows NT 6.1; WOW64; U; en) Presto/2.10.229 Version/11.62"
     },
     {
         "platform": "opera",
         "version": "12.00",
-        "uniqueid": "7ae0a32fddc51011"
+        "useragent": "Opera/9.80 (Windows NT 6.2; WOW64; U; en) Presto/2.10.289 Version/12.00"
     },
     {
         "platform": "opera",
