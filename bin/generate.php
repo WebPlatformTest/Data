@@ -51,9 +51,10 @@ $data[] = "REPLACE INTO scores (`release`, `platform`, `version`, `fingerprint`)
     "FROM data_tests as t " .
     "LEFT JOIN results AS r ON (" +
         "(t.uniqueid IS NULL AND t.identifier = r.identifier AND t.source = r.source) OR " .
-        "(t.uniqueid IS NULL AND t.source = 'lab' AND t.useragent = r.useragent) OR " .
+        "(t.uniqueid IS NULL AND r.source = 'lab' AND t.useragent = r.useragent) OR " .
         "t.uniqueid = r.uniqueid" .
     ") " .
+    "GROUP BY r.release, t.platform, t.version " .
     "HAVING fingerprint IS NOT NULL";
 
 
