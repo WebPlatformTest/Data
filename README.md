@@ -114,6 +114,9 @@ Or:
 - `source`: In case you want to use an automated BrowserStack result, the value should always be `browserstack`.
 - `identifier`: The identifier of the browserstack generated result as shown by the output of the [WebPlatformTest/Automation](https://github.com/WebPlatformTest/Automation) tool.
 
+Or:
+- `useragent`: A useragent string of a browser, but this will not match all results, only results that have been submitted with the identifier of `ua`
+
 It is preferable to use BrowserStack, because these results can be automatically re-generated whenever a new version of HTML5test is released.
 Because BrowserStack mainly support desktop browsers, many of the other platforms will require manual testing and unique ids.
 Test results that use a unique id will be removed when a new version is released and will have to be manually retested and re-added.

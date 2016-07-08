@@ -7,27 +7,27 @@
     {
         "platform": "android.samsung",
         "version": "1.5",
-        "uniqueid": "794e102fdde53714"
+        "useragent": "Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG GT-I9500 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36"
     },
     {
         "platform": "android.samsung",
         "version": "1.6",
-        "uniqueid": "e9a45f2fdde3c423"
+        "useragent": "Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG SM-G900H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36"
     },
     {
         "platform": "android.samsung",
         "version": "2.0",
-        "uniqueid": "da82f02fdde67780"
+        "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; en-us; SAMSUNG SM-N910C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/2.0 Chrome/34.0.1847.76 Mobile Safari/537.36"
     },
     {
         "platform": "android.samsung",
         "version": "3.0",
-        "uniqueid": "c694872fdde25fb8"
+        "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-G920F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Mobile Safari/537.36"
     },
     {
         "platform": "android.samsung",
         "version": "4.0",
-        "uniqueid": "daf09f2fddccdb91"
+        "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G930F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36"
     },
     {
         "platform": "bb",
@@ -807,22 +807,22 @@
     {
         "platform": "opera",
         "version": "35",
-        "uniqueid": "f931972fddbc0498"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 OPR/35.0.2066.37"
     },
     {
         "platform": "opera",
         "version": "36",
-        "uniqueid": "1b2d912fddbbdb29"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.32"
     },
     {
         "platform": "opera",
         "version": "37",
-        "uniqueid": "e4c44e2fddbbaedd"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36 OPR/37.0.2178.32"
     },
     {
         "platform": "opera",
         "version": "38",
-        "uniqueid": "4979bc2fddbae436"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36 OPR/38.0.2220.29"
     },
     {
         "platform": "opera.mobile",
