@@ -32,7 +32,7 @@
     {
         "platform": "bb",
         "version": "10.3",
-        "uniqueid": "9343a42fde9adab3"
+        "useragent": "Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.1.2243 Mobile Safari/537.35+"
     },
     {
         "platform": "chrome",
@@ -285,7 +285,7 @@
     {
         "platform": "edge",
         "version": "12",
-        "uniqueid": "e98c312fceb71f89"
+        "useragent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10136; Win64; x64)"
     },
     {
         "platform": "edge",
@@ -296,7 +296,7 @@
     {
         "platform": "edge",
         "version": "14",
-        "uniqueid": "7a2ddb2fdded7509"
+        "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14379"
     },
     {
         "platform": "edge",
@@ -306,7 +306,7 @@
     {
         "platform": "edge.mobile",
         "version": "13",
-        "uniqueid": "e7865f2fde72bc74"
+        "useragent": "Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; NOKIA; Lumia 630) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586"
     },
     {
         "platform": "firefox",
@@ -707,102 +707,102 @@
     {
         "platform": "opera",
         "version": "15",
-        "uniqueid": "6482dc2fddc24189"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36 OPR/15.0.1147.153"
     },
     {
         "platform": "opera",
         "version": "16",
-        "uniqueid": "fe14372fddc2089d"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36 OPR/16.0.1196.73"
     },
     {
         "platform": "opera",
         "version": "17",
-        "uniqueid": "dac83b2fddc1d4f1"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36 OPR/17.0.1241.53"
     },
     {
         "platform": "opera",
         "version": "18",
-        "uniqueid": "f7be5e2fddc198a8"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36 OPR/18.0.1284.68"
     },
     {
         "platform": "opera",
         "version": "19",
-        "uniqueid": "78354d2fddc14782"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36 OPR/19.0.1326.59"
     },
     {
         "platform": "opera",
         "version": "20",
-        "uniqueid": "0c65032fddc10f53"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36 OPR/20.0.1387.64"
     },
     {
         "platform": "opera",
         "version": "21",
-        "uniqueid": "30a6d02fddc04918"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.132 Safari/537.36 OPR/21.0.1432.57"
     },
     {
         "platform": "opera",
         "version": "22",
-        "uniqueid": "dff7a72fddc008a9"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36 OPR/22.0.1471.50"
     },
     {
         "platform": "opera",
         "version": "23",
-        "uniqueid": "5a2e0b2fddbfb541"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36 OPR/23.0.1522.60"
     },
     {
         "platform": "opera",
         "version": "24",
-        "uniqueid": "76c7e12fddbf4e73"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36 OPR/24.0.1558.53"
     },
     {
         "platform": "opera",
         "version": "25",
-        "uniqueid": "1e44a02fddbf14d6"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36 OPR/25.0.1614.50"
     },
     {
         "platform": "opera",
         "version": "26",
-        "uniqueid": "d3109f2fddbecd47"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36 OPR/26.0.1656.32"
     },
     {
         "platform": "opera",
         "version": "27",
-        "uniqueid": "a78f4d2fddbe9bd5"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 OPR/27.0.1689.54"
     },
     {
         "platform": "opera",
         "version": "28",
-        "uniqueid": "62ccbe2fddbe9c18"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 OPR/27.0.1689.54"
     },
     {
         "platform": "opera",
         "version": "29",
-        "uniqueid": "6d02112fddbe6870"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36 OPR/28.0.1750.48"
     },
     {
         "platform": "opera",
         "version": "30",
-        "uniqueid": "7ed1582fddbce112"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36 OPR/30.0.1835.59"
     },
     {
         "platform": "opera",
         "version": "31",
-        "uniqueid": "67d7e82fddbcb6b2"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36 OPR/31.0.1889.99"
     },
     {
         "platform": "opera",
         "version": "32",
-        "uniqueid": "241c1b2fddbc87d3"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25"
     },
     {
         "platform": "opera",
         "version": "33",
-        "uniqueid": "59a0da2fddbc5da5"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 OPR/33.0.1990.43"
     },
     {
         "platform": "opera",
         "version": "34",
-        "uniqueid": "4570822fddbc30cc"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 OPR/34.0.2036.25"
     },
     {
         "platform": "opera",
@@ -881,12 +881,12 @@
     {
         "platform": "sailfish",
         "version": null,
-        "uniqueid": "1096722fdcf7566a"
+        "useragent": "Mozilla/5.0 (Maemo; Linux; U; Jolla; Sailfish; Mobile; rv:31.0) Gecko/31.0 Firefox/31.0 SailfishBrowser/1.0"
     },
     {
         "platform": "tizen",
         "version": "2.3",
-        "uniqueid": "d926992fdf73efa0"
+        "useragent": "Mozilla/5.0 (Linux; Tizen 2.3; SAMSUNG SM-Z130H) AppleWebKit/537.3 (KHTML, like Gecko) SamsungBrowser/1.0 Mobile Safari/537.3"
     },
     {
         "platform": "uc.mobile",

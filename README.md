@@ -115,7 +115,7 @@ Or:
 - `identifier`: The identifier of the browserstack generated result as shown by the output of the [WebPlatformTest/Automation](https://github.com/WebPlatformTest/Automation) tool.
 
 Or:
-- `useragent`: A useragent string of a browser, but this will not match all results, only results that have been submitted with the identifier of `ua`
+- `useragent`: A useragent string of a browser, but this will not match all results, only results that have been submitted with the source set to `lab`. This should only be used for devices which are readily available in the device lab or as a manual device on Browserstack and which has a very specific useragent string.
 
 It is preferable to use BrowserStack, because these results can be automatically re-generated whenever a new version of HTML5test is released.
 Because BrowserStack mainly support desktop browsers, many of the other platforms will require manual testing and unique ids.
