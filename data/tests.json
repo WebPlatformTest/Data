@@ -264,13 +264,18 @@
     },
     {
         "platform": "chrome.mobile",
+        "version": "41",
+        "uniqueid": "42d6012fe8125d38"
+    },
+    {
+        "platform": "chrome.mobile",
         "version": "44",
         "uniqueid": "88260d2fe80749fd"
     },
     {
         "platform": "chrome.mobile",
         "version": "49",
-        "uniqueid": "e85de62fddcc411f"
+        "uniqueid": "1f62d82fe367a30f"
     },
     {
         "platform": "chrome.mobile",
@@ -280,7 +285,7 @@
     {
         "platform": "chrome.mobile",
         "version": "51",
-        "uniqueid": "dc224d2fde663a0d"
+        "uniqueid": "766fe92fe820bbfe"
     },
     {
         "platform": "edge",
@@ -584,6 +589,11 @@
     },
     {
         "platform": "firefox.mobile",
+        "version": "33",
+        "uniqueid": "3b4e772fe812eebc"
+    },
+    {
+        "platform": "firefox.mobile",
         "version": "47",
         "uniqueid": "3c99e42fe80c5057"
     },
@@ -842,7 +852,7 @@
     {
         "platform": "opera.mobile",
         "version": "37",
-        "uniqueid": "5fd4f62fde59d3fb"
+        "uniqueid": "8b21ad2fe8210423"
     },
     {
         "platform": "safari",
@@ -906,7 +916,7 @@
     {
         "platform": "uc.mobile",
         "version": "10.10",
-        "uniqueid": "a2377e2fde5af81e"
+        "uniqueid": "b277f92fe8213097"
     },
     {
         "platform": "wp",
