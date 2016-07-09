@@ -47,7 +47,7 @@ foreach ($identifiers as $key => $value) {
 
 
 $data[] = "REPLACE INTO scores (`release`, `platform`, `version`, `fingerprint`) " .
-    "SELECT r.release, t.platform, t.version, r.fingerprint" .
+    "SELECT r.release, t.platform, t.version, r.fingerprint " .
     "FROM data_tests as t " .
     "LEFT JOIN results AS r ON (" +
         "(t.uniqueid IS NULL AND t.identifier = r.identifier AND t.source = r.source) OR " .
