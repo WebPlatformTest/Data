@@ -2,7 +2,7 @@
     {
         "platform": "android",
         "version": "4.2",
-        "uniqueid": "050c222fdf86f3d9"
+        "uniqueid": "0b590e2fe807cb0a"
     },
     {
         "platform": "android.samsung",
@@ -265,7 +265,7 @@
     {
         "platform": "chrome.mobile",
         "version": "44",
-        "uniqueid": "afc11e2fdf82f5d0"
+        "uniqueid": "88260d2fe80749fd"
     },
     {
         "platform": "chrome.mobile",
@@ -285,7 +285,7 @@
     {
         "platform": "edge",
         "version": "12",
-        "useragent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10136; Win64; x64)"
+        "uniqueid": "783b8a2fe7f3c7b2"
     },
     {
         "platform": "edge",
@@ -301,7 +301,7 @@
     {
         "platform": "edge",
         "version": null,
-        "uniqueid": "6b0bc92fe08fce42"
+        "uniqueid": "1311662fe8008b5c"
     },
     {
         "platform": "edge.mobile",
@@ -580,12 +580,12 @@
     {
         "platform": "firefox.mobile",
         "version": "28",
-        "uniqueid": "c62d972fdf89fb13"
+        "uniqueid": "3efa6b2fe80f9d77"
     },
     {
         "platform": "firefox.mobile",
         "version": "47",
-        "uniqueid": "dac1a02fde58a943"
+        "uniqueid": "3c99e42fe80c5057"
     },
     {
         "platform": "ie",
@@ -626,52 +626,52 @@
     {
         "platform": "ios",
         "version": "3.0",
-        "uniqueid": "6ced3f2fde042d72"
+        "uniqueid": "0d173e2fe37a5aaf"
     },
     {
         "platform": "ios",
         "version": "4.0",
-        "uniqueid": "4465032fde03bf7b"
+        "uniqueid": "266fb92fe37a13d0"
     },
     {
         "platform": "ios",
         "version": "5.0",
-        "uniqueid": "6f147d2fde0367a7"
+        "uniqueid": "a0b3ce2fe379645b"
     },
     {
         "platform": "ios",
         "version": "6.0",
-        "uniqueid": "75d92f2fde02fd51"
+        "uniqueid": "93ebf32fe378cf11"
     },
     {
         "platform": "ios",
         "version": "7.0",
-        "uniqueid": "e3c4672fdeefdf7a"
+        "uniqueid": "def95f2fe189febf"
     },
     {
         "platform": "ios",
         "version": "8.0",
-        "uniqueid": "bce5bc2fdeee1f9e"
+        "uniqueid": "4ea9fc2fe189ae86"
     },
     {
         "platform": "ios",
         "version": "9.0",
-        "uniqueid": "39a5852fdc0759e8"
+        "uniqueid": "ca36e42fe18953cd"
     },
     {
         "platform": "ios",
         "version": "9.3",
-        "uniqueid": "976c622fddf7bac2"
+        "uniqueid": "a674f12fe819fad4"
     },
     {
         "platform": "meego",
         "version": "1.2",
-        "uniqueid": "e842cb2fde9bc66c"
+        "useragent": "Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13"
     },
     {
         "platform": "nokiax",
         "version": null,
-        "uniqueid": "f613892fde958ffd"
+        "useragent": "Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.1.0.941"
     },
     {
         "platform": "opera",
@@ -827,12 +827,17 @@
     {
         "platform": "opera.mobile",
         "version": "12.10",
-        "uniqueid": "fcf19e2fdfbfcc08"
+        "uniqueid": "adb88c2fe848ae44"
     },
     {
         "platform": "opera.mobile",
         "version": "16",
-        "uniqueid": "ea0b832fdf87ff71"
+        "uniqueid": "cf1b312fe8111cb5"
+    },
+    {
+        "platform": "opera.mobile",
+        "version": "18",
+        "uniqueid": "6259342fe813a157"
     },
     {
         "platform": "opera.mobile",
@@ -842,12 +847,12 @@
     {
         "platform": "safari",
         "version": "4.0",
-        "uniqueid": "7fc6642fddca9581"
+        "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/531.22.7 (KHTML, like Gecko) Version/4.0.5 Safari/531.22.7"
     },
     {
         "platform": "safari",
         "version": "5.0",
-        "uniqueid": "0763a12fddca414a"
+        "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1"
     },
     {
         "platform": "safari",
@@ -879,6 +884,11 @@
         "identifier": "safari-9.1|OS X-El Capitan"
     },
     {
+        "platform": "safari",
+        "version": "9.0",
+        "uniqueid": "ed17dd2fe7fcbade"
+    },
+    {
         "platform": "sailfish",
         "version": null,
         "useragent": "Mozilla/5.0 (Maemo; Linux; U; Jolla; Sailfish; Mobile; rv:31.0) Gecko/31.0 Firefox/31.0 SailfishBrowser/1.0"
@@ -890,22 +900,27 @@
     },
     {
         "platform": "uc.mobile",
+        "version": "10.3",
+        "uniqueid": "7fe1e02fe814897a"
+    },
+    {
+        "platform": "uc.mobile",
         "version": "10.10",
         "uniqueid": "a2377e2fde5af81e"
     },
     {
         "platform": "wp",
         "version": "7.5",
-        "uniqueid": "9d34c42ed0a978b2"
+        "uniqueid": "308aef2ed58b3b0f"
     },
     {
         "platform": "wp",
         "version": "8",
-        "uniqueid": "1e965423fe8ca679"
+        "uniqueid": "a5991521fd1208ea"
     },
     {
         "platform": "wp",
         "version": "8.1",
-        "uniqueid": "6b179a23fe81bff5"
+        "uniqueid": "7084842fe8040832"
     }
 ]
