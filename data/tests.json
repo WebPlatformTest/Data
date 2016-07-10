@@ -679,6 +679,21 @@
         "uniqueid": "a674f12fe819fad4"
     },
     {
+        "platform": "ios",
+        "version": "10.0",
+        "uniqueid": "ab06c92fedad1ff1"
+    },
+    {
+        "platform": "kindle.silk",
+        "version": null,
+        "uniqueid": "3db1c52fef2a048e"
+    },
+    {
+        "platform": "lg.webos",
+        "version": "2014",
+        "uniqueid": "10f7d22fef999fe0"
+    },
+    {
         "platform": "meego",
         "version": "1.2",
         "useragent": "Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13"
@@ -858,6 +873,11 @@
         "platform": "opera.mobile",
         "version": "37",
         "uniqueid": "8b21ad2fe8210423"
+    },
+    {
+        "platform": "playstation.4",
+        "version": null,
+        "uniqueid": "945ac02fefa7bbea"
     },
     {
         "platform": "safari",
