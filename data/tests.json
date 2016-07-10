@@ -32,7 +32,7 @@
     {
         "platform": "bb",
         "version": "10.3",
-        "useragent": "Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.1.2243 Mobile Safari/537.35+"
+        "useragent": "Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2639 Mobile Safari/537.35+"
     },
     {
         "platform": "chrome",
@@ -264,6 +264,11 @@
     },
     {
         "platform": "chrome.mobile",
+        "version": "40",
+        "uniqueid": "b8ba6b2fedb4238c"
+    },
+    {
+        "platform": "chrome.mobile",
         "version": "41",
         "uniqueid": "42d6012fe8125d38"
     },
@@ -271,6 +276,11 @@
         "platform": "chrome.mobile",
         "version": "44",
         "uniqueid": "88260d2fe80749fd"
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "46",
+        "uniqueid": "5c821c2fe829249b"
     },
     {
         "platform": "chrome.mobile",
@@ -286,11 +296,6 @@
         "platform": "chrome.mobile",
         "version": "51",
         "uniqueid": "766fe92fe820bbfe"
-    },
-    {
-        "platform": "edge",
-        "version": "12",
-        "uniqueid": "783b8a2fe7f3c7b2"
     },
     {
         "platform": "edge",

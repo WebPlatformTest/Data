@@ -2300,27 +2300,8 @@
     },
     {
         "platform": "kindle.silk",
-        "version": "1",
-        "nickname": "Amazon Silk 1",
-        "releasedate": "2011-09-28",
-        "type": "tablet",
-        "status": "legacy",
-        "visible": false
-    },
-    {
-        "platform": "kindle.silk",
-        "version": "2",
-        "nickname": "Amazon Silk 2",
-        "releasedate": "2012-09-06",
-        "type": "tablet",
-        "status": "legacy",
-        "visible": false
-    },
-    {
-        "platform": "kindle.silk",
-        "version": "3",
-        "nickname": "Amazon Silk 3",
-        "releasedate": "2013-08-12",
+        "version": null,
+        "nickname": "Amazon Silk",
         "type": "mobile,tablet",
         "status": "current",
         "visible": true
