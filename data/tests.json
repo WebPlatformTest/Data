@@ -704,6 +704,11 @@
         "useragent": "Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.1.0.941"
     },
     {
+        "platform": "nintendo.wii.u",
+        "version": null,
+        "uniqueid": "71fdfd2ff21e7198"
+    },
+    {
         "platform": "opera",
         "version": "10.60",
         "useragent": "Opera/9.80 (Windows NT 5.2; U; en) Presto/2.6.30 Version/10.63"
@@ -957,5 +962,10 @@
         "platform": "wp",
         "version": "8.1",
         "uniqueid": "7084842fe8040832"
+    },
+    {
+        "platform": "xbox.one",
+        "version": "13.0",
+        "uniqueid": "cf019e2ff1dda845"
     }
 ]
