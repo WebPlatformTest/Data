@@ -704,6 +704,11 @@
         "useragent": "Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.1.0.941"
     },
     {
+        "platform": "nintendo.new.3ds",
+        "version": null,
+        "uniqueid": "6a4b2d2ff2340bf7"
+    },
+    {
         "platform": "nintendo.wii.u",
         "version": null,
         "uniqueid": "71fdfd2ff21e7198"
