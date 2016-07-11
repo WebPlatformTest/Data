@@ -274,18 +274,8 @@
     },
     {
         "platform": "chrome.mobile",
-        "version": "44",
-        "uniqueid": "88260d2fe80749fd"
-    },
-    {
-        "platform": "chrome.mobile",
         "version": "46",
         "uniqueid": "5c821c2fe829249b"
-    },
-    {
-        "platform": "chrome.mobile",
-        "version": "49",
-        "uniqueid": "1f62d82fe367a30f"
     },
     {
         "platform": "chrome.mobile",
