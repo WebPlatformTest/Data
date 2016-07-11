@@ -694,6 +694,11 @@
         "uniqueid": "3db1c52fef2a048e"
     },
     {
+        "platform": "kobo",
+        "version": null,
+        "uniqueid": "ea9326111efd39c0"
+    },
+    {
         "platform": "lg.webos",
         "version": "2014",
         "uniqueid": "10f7d22fef999fe0"
