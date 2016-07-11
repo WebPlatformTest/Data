@@ -949,6 +949,11 @@
         "useragent": "Mozilla/5.0 (Maemo; Linux; U; Jolla; Sailfish; Mobile; rv:31.0) Gecko/31.0 Firefox/31.0 SailfishBrowser/1.0"
     },
     {
+        "platform": "sony.reader",
+        "version": null,
+        "uniqueid": "697fac2ff2049a9c"
+    },
+    {
         "platform": "tizen",
         "version": "2.3",
         "useragent": "Mozilla/5.0 (Linux; Tizen 2.3; SAMSUNG SM-Z130H) AppleWebKit/537.3 (KHTML, like Gecko) SamsungBrowser/1.0 Mobile Safari/537.3"
