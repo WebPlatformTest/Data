@@ -4180,7 +4180,7 @@
         "releasedate": "2011-09-27",
         "type": "mobile",
         "status": "legacy",
-        "visible": false
+        "visible": true
     },
     {
         "platform": "wp",
@@ -4189,7 +4189,7 @@
         "releasedate": "2012-10-29",
         "type": "mobile",
         "status": "legacy",
-        "visible": false
+        "visible": true
     },
     {
         "platform": "wp",

@@ -203,13 +203,14 @@
     },
     {
         "platform": "wm",
-        "related": "wp",
+        "related": "edge.mobile",
         "name": "Windows Mobile",
         "order": 0,
         "type": "mobile"
     },
     {
         "platform": "wp",
+        "related": "edge.mobile",
         "name": "Windows Phone",
         "order": 3,
         "type": "mobile"
