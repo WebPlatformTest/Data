@@ -1,7 +1,5 @@
 <img src="https://html5te.st/assets/html5test.svg" width="250">
 
-####Important: this feature is still in development and not synced to the main website. If you want to submit results, please use the http://alpha.html5test.com website.
-
 The HTML5test.com website contains data about other browsers. You can use this data to see the best scoring browsers,
 compare browsers or features and see a timeline of changes for a certain browser. The data that is used for these
 features is stored in this repository and automatically uploaded to the website.
