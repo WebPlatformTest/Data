@@ -2112,6 +2112,56 @@
         "visible": true
     },
     {
+        "platform": "ie.mobile",
+        "version": "6",
+        "nickname": "Internet Explorer 6",
+        "details": "Windows Mobile 6.5",
+        "releasedate": "2009-10-06",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "ie.mobile",
+        "version": "7",
+        "nickname": "Internet Explorer 7",
+        "details": "Windows Phone 7",
+        "releasedate": "2010-10-21",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "ie.mobile",
+        "version": "9",
+        "nickname": "Internet Explorer 9",
+        "details": "Windows Phone 7.5",
+        "releasedate": "2011-09-27",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "ie.mobile",
+        "version": "10",
+        "nickname": "Internet Explorer 10",
+        "details": "Windows Phone 8",
+        "releasedate": "2012-10-29",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "ie.mobile",
+        "version": "11",
+        "nickname": "Internet Explorer 11",
+        "details": "Windows Phone 8.1",
+        "releasedate": "2014-07-15",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
         "platform": "ios",
         "version": "1.0",
         "nickname": "iOS 1.0",
@@ -4154,51 +4204,6 @@
         "type": "tablet",
         "status": "current",
         "visible": false
-    },
-    {
-        "platform": "wm",
-        "version": "6.5",
-        "nickname": "Windows Mobile 6.5",
-        "releasedate": "2009-10-06",
-        "type": "mobile",
-        "status": "legacy",
-        "visible": false
-    },
-    {
-        "platform": "wp",
-        "version": "7",
-        "nickname": "Windows Phone 7",
-        "releasedate": "2010-10-21",
-        "type": "mobile",
-        "status": "legacy",
-        "visible": false
-    },
-    {
-        "platform": "wp",
-        "version": "7.5",
-        "nickname": "Windows Phone 7.5",
-        "releasedate": "2011-09-27",
-        "type": "mobile",
-        "status": "legacy",
-        "visible": true
-    },
-    {
-        "platform": "wp",
-        "version": "8",
-        "nickname": "Windows Phone 8",
-        "releasedate": "2012-10-29",
-        "type": "mobile",
-        "status": "legacy",
-        "visible": true
-    },
-    {
-        "platform": "wp",
-        "version": "8.1",
-        "nickname": "Windows Phone 8.1",
-        "releasedate": "2014-07-15",
-        "type": "mobile",
-        "status": "legacy",
-        "visible": true
     },
     {
         "platform": "xbox.360",

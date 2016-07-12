@@ -634,6 +634,21 @@
         "identifier": "ie-11.0|Windows-10"
     },
     {
+        "platform": "ie.mobile",
+        "version": "9",
+        "uniqueid": "308aef2ed58b3b0f"
+    },
+    {
+        "platform": "ie.mobile",
+        "version": "10",
+        "uniqueid": "a5991521fd1208ea"
+    },
+    {
+        "platform": "ie.mobile",
+        "version": "11",
+        "uniqueid": "7084842fe8040832"
+    },
+    {
         "platform": "ios",
         "version": "3.0",
         "uniqueid": "0d173e2fe37a5aaf"
@@ -962,21 +977,6 @@
         "platform": "uc.mobile",
         "version": "10.10",
         "uniqueid": "b277f92fe8213097"
-    },
-    {
-        "platform": "wp",
-        "version": "7.5",
-        "uniqueid": "308aef2ed58b3b0f"
-    },
-    {
-        "platform": "wp",
-        "version": "8",
-        "uniqueid": "a5991521fd1208ea"
-    },
-    {
-        "platform": "wp",
-        "version": "8.1",
-        "uniqueid": "7084842fe8040832"
     },
     {
         "platform": "xbox.one",

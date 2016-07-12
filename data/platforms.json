@@ -99,6 +99,13 @@
         "type": "desktop,tablet"
     },
     {
+        "platform": "ie.mobile",
+        "related": "edge.mobile",
+        "name": "Internet Explorer",
+        "order": 3,
+        "type": "mobile"
+    },
+    {
         "platform": "ios",
         "name": "iOS",
         "order": 4,
@@ -201,20 +208,6 @@
         "name": "webOS",
         "order": 0,
         "type": "mobile,tablet"
-    },
-    {
-        "platform": "wm",
-        "related": "edge.mobile",
-        "name": "Windows Mobile",
-        "order": 0,
-        "type": "mobile"
-    },
-    {
-        "platform": "wp",
-        "related": "edge.mobile",
-        "name": "Windows Phone",
-        "order": 3,
-        "type": "mobile"
     },
     {
         "platform": "xbox.360",
