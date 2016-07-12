@@ -289,6 +289,11 @@
     },
     {
         "platform": "edge",
+        "version": "12",
+        "uniqueid": "3d72af2ff343165a"
+    },
+    {
+        "platform": "edge",
         "version": "13",
         "source": "browserstack",
         "identifier": "edge-13.0|Windows-10"
