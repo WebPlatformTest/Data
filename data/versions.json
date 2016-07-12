@@ -1198,6 +1198,7 @@
     {
         "platform": "edge",
         "version": null,
+        "details": "All flags enabled",
         "nickname": "Edge",
         "type": "desktop,tablet",
         "status": "experimental",
