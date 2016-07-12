@@ -2082,7 +2082,7 @@
         "releasedate": "2009-03-19",
         "type": "desktop",
         "status": "legacy",
-        "visible": true
+        "visible": false
     },
     {
         "platform": "ie",

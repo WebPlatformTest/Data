@@ -93,6 +93,7 @@
     },
     {
         "platform": "ie",
+        "related": "edge",
         "name": "Internet Explorer",
         "order": 3,
         "type": "desktop,tablet"
