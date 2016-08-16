@@ -4267,6 +4267,15 @@
         "nickname": "Xbox One",
         "details": "Edge 13",
         "type": "gaming,gaming-console",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "xbox.one",
+        "version": "14.0",
+        "nickname": "Xbox One",
+        "details": "Edge 14",
+        "type": "gaming,gaming-console",
         "status": "current",
         "visible": true
     }

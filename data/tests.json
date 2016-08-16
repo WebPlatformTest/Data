@@ -1007,5 +1007,10 @@
         "platform": "xbox.one",
         "version": "13.0",
         "uniqueid": "cf019e2ff1dda845"
+    },
+    {
+        "platform": "xbox.one",
+        "version": "14.0",
+        "uniqueid": "e37ec03094308699"
     }
 ]
