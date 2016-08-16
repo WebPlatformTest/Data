@@ -940,6 +940,11 @@
         "uniqueid": "8b21ad2fe8210423"
     },
     {
+        "platform": "panasonicviera",
+        "version": "2015",
+        "uniqueid": "21b4d030185682d8"
+    },
+    {
         "platform": "playstation.3",
         "version": null,
         "uniqueid": "8b304b30a64181d6"
