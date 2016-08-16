@@ -324,6 +324,11 @@
         "uniqueid": "3caaa12fe382a594"
     },
     {
+        "platform": "edge.mobile",
+        "version": "14",
+        "uniqueid": "b8bbb330ab4f0d75"
+    },
+    {
         "platform": "firefox",
         "version": "3.6",
         "source": "browserstack",

@@ -1229,6 +1229,15 @@
         "nickname": "Edge 13",
         "releasedate": "2015-11-18",
         "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "edge.mobile",
+        "version": "14",
+        "nickname": "Edge 14",
+        "releasedate": "2016-08-02",
+        "type": "mobile",
         "status": "current",
         "visible": true
     },
