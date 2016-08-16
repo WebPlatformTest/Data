@@ -1669,6 +1669,15 @@
         "nickname": "Firefox 47",
         "releasedate": "2016-06-07",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "48",
+        "nickname": "Firefox 48",
+        "releasedate": "2016-08-02",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
@@ -2046,6 +2055,15 @@
         "version": "47",
         "nickname": "Firefox Mobile 47",
         "releasedate": "2016-06-07",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "48",
+        "nickname": "Firefox Mobile 48",
+        "releasedate": "2016-08-02",
         "type": "mobile,tablet",
         "status": "current",
         "visible": true

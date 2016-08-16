@@ -583,6 +583,11 @@
         "uniqueid": "d616f12ff7cfd8f3"
     },
     {
+        "platform": "firefox",
+        "version": "48",
+        "uniqueid": "a44bd830abf057bb"
+    },
+    {
         "platform": "firefox.mobile",
         "version": "28",
         "uniqueid": "3efa6b2fe80f9d77"
@@ -596,6 +601,11 @@
         "platform": "firefox.mobile",
         "version": "47",
         "uniqueid": "3c99e42fe80c5057"
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "48",
+        "uniqueid": "32f54d30ad8aa2d5"
     },
     {
         "platform": "ie",
