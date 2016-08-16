@@ -739,6 +739,11 @@
         "uniqueid": "10f7d22fef999fe0"
     },
     {
+        "platform": "lg.webos",
+        "version": "2016",
+        "uniqueid": "6f4dc9305f4393ed"
+    },
+    {
         "platform": "meego",
         "version": "1.2",
         "useragent": "Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13"

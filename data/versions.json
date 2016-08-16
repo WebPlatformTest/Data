@@ -2441,6 +2441,15 @@
         "nickname": "LG WebOS 2015",
         "details": "WebOS",
         "type": "television,television-smart",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "lg.webos",
+        "version": "2016",
+        "nickname": "LG WebOS 2016",
+        "details": "WebOS",
+        "type": "television,television-smart",
         "status": "current",
         "visible": true
     },
