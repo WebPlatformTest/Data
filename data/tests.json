@@ -999,6 +999,11 @@
         "uniqueid": "b277f92fe8213097"
     },
     {
+        "platform": "xbox.360",
+        "version": "9.0",
+        "uniqueid": "eaa46d3093f6f9c4"
+    },
+    {
         "platform": "xbox.one",
         "version": "13.0",
         "uniqueid": "cf019e2ff1dda845"
