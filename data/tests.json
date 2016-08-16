@@ -1014,6 +1014,11 @@
         "useragent": "Mozilla/5.0 (Maemo; Linux; U; Jolla; Sailfish; Mobile; rv:31.0) Gecko/31.0 Firefox/31.0 SailfishBrowser/1.0"
     },
     {
+        "platform": "samsung.smarttv",
+        "version": "2015",
+        "uniqueid": "83d49e300deb51c4"
+    },
+    {
         "platform": "sony.reader",
         "version": null,
         "uniqueid": "697fac2ff2049a9c"
