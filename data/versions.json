@@ -3117,6 +3117,15 @@
         "nickname": "Opera 38",
         "releasedate": "2016-06-14",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "39",
+        "nickname": "Opera 39",
+        "releasedate": "2016-08-05",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
