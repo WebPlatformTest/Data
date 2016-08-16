@@ -618,6 +618,11 @@
         "uniqueid": "32f54d30ad8aa2d5"
     },
     {
+        "platform": "googletv",
+        "version": null,
+        "uniqueid": "19ece530409544f8"
+    },
+    {
         "platform": "ie",
         "version": "6",
         "source": "browserstack",
