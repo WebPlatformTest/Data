@@ -263,6 +263,11 @@
         "identifier": "chrome-51.0|OS X-El Capitan"
     },
     {
+        "platform": "chrome",
+        "version": "52",
+        "uniqueid": "c807d330ac41e936"
+    },
+    {
         "platform": "chrome.mobile",
         "version": "40",
         "uniqueid": "b8ba6b2fedb4238c"
@@ -286,6 +291,11 @@
         "platform": "chrome.mobile",
         "version": "51",
         "uniqueid": "766fe92fe820bbfe"
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "52",
+        "uniqueid": "2fe52730ad897473"
     },
     {
         "platform": "edge",

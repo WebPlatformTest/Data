@@ -905,6 +905,15 @@
         "nickname": "Chrome 51",
         "releasedate": "2016-05-25",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "52",
+        "nickname": "Chrome 52",
+        "releasedate": "2016-07-20",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
@@ -1156,6 +1165,15 @@
         "version": "51",
         "nickname": "Chrome 51",
         "releasedate": "2016-06-01",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "52",
+        "nickname": "Chrome 52",
+        "releasedate": "2016-07-27",
         "type": "mobile,tablet",
         "status": "current",
         "visible": true
