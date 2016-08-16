@@ -950,6 +950,11 @@
         "uniqueid": "4fb0a230a50569f2"
     },
     {
+        "platform": "pocketbook",
+        "version": null,
+        "uniqueid": "53e7c54998e2bc3a"
+    },
+    {
         "platform": "safari",
         "version": "4.0",
         "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/531.22.7 (KHTML, like Gecko) Version/4.0.5 Safari/531.22.7"
