@@ -1709,6 +1709,15 @@
         "visible": true
     },
     {
+        "platform": "firefox",
+        "version": null,
+        "details": "All flags enabled",
+        "nickname": "Firefox",
+        "type": "desktop",
+        "status": "experimental",
+        "visible": true
+    },
+    {
         "platform": "firefox.mobile",
         "version": "1",
         "nickname": "Firefox Mobile 1",
