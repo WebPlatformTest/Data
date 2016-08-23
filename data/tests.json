@@ -603,6 +603,11 @@
         "uniqueid": "a44bd830abf057bb"
     },
     {
+        "platform": "firefox",
+        "version": null,
+        "uniqueid": "7a257b30b6a53430"
+    },
+    {
         "platform": "firefox.mobile",
         "version": "28",
         "uniqueid": "3efa6b2fe80f9d77"
