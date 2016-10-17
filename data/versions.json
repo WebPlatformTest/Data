@@ -905,6 +905,15 @@
         "nickname": "Chrome 51",
         "releasedate": "2016-05-25",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "52",
+        "nickname": "Chrome 52",
+        "releasedate": "2016-07-20",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
@@ -1157,6 +1166,15 @@
         "nickname": "Chrome 51",
         "releasedate": "2016-06-01",
         "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "52",
+        "nickname": "Chrome 52",
+        "releasedate": "2016-07-27",
+        "type": "mobile,tablet",
         "status": "current",
         "visible": true
     },
@@ -1184,15 +1202,16 @@
         "nickname": "Edge 13",
         "releasedate": "2015-11-05",
         "type": "desktop,tablet",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "edge",
         "version": "14",
         "nickname": "Edge 14",
+        "releasedate": "2016-08-02",
         "type": "desktop,tablet",
-        "status": "upcoming",
+        "status": "current",
         "visible": true
     },
     {
@@ -1209,6 +1228,15 @@
         "version": "13",
         "nickname": "Edge 13",
         "releasedate": "2015-11-18",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "edge.mobile",
+        "version": "14",
+        "nickname": "Edge 14",
+        "releasedate": "2016-08-02",
         "type": "mobile",
         "status": "current",
         "visible": true
@@ -1668,7 +1696,25 @@
         "nickname": "Firefox 47",
         "releasedate": "2016-06-07",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "48",
+        "nickname": "Firefox 48",
+        "releasedate": "2016-08-02",
+        "type": "desktop",
         "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": null,
+        "details": "All flags enabled",
+        "nickname": "Firefox",
+        "type": "desktop",
+        "status": "experimental",
         "visible": true
     },
     {
@@ -2046,6 +2092,15 @@
         "nickname": "Firefox Mobile 47",
         "releasedate": "2016-06-07",
         "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "48",
+        "nickname": "Firefox Mobile 48",
+        "releasedate": "2016-08-02",
+        "type": "mobile,tablet",
         "status": "current",
         "visible": true
     },
@@ -2402,6 +2457,15 @@
         "platform": "lg.webos",
         "version": "2015",
         "nickname": "LG WebOS 2015",
+        "details": "WebOS",
+        "type": "television,television-smart",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "lg.webos",
+        "version": "2016",
+        "nickname": "LG WebOS 2016",
         "details": "WebOS",
         "type": "television,television-smart",
         "status": "current",
@@ -3070,6 +3134,15 @@
         "version": "38",
         "nickname": "Opera 38",
         "releasedate": "2016-06-14",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "39",
+        "nickname": "Opera 39",
+        "releasedate": "2016-08-05",
         "type": "desktop",
         "status": "current",
         "visible": true
@@ -4229,6 +4302,15 @@
         "version": "13.0",
         "nickname": "Xbox One",
         "details": "Edge 13",
+        "type": "gaming,gaming-console",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "xbox.one",
+        "version": "14.0",
+        "nickname": "Xbox One",
+        "details": "Edge 14",
         "type": "gaming,gaming-console",
         "status": "current",
         "visible": true

@@ -263,6 +263,11 @@
         "identifier": "chrome-51.0|OS X-El Capitan"
     },
     {
+        "platform": "chrome",
+        "version": "52",
+        "uniqueid": "c807d330ac41e936"
+    },
+    {
         "platform": "chrome.mobile",
         "version": "40",
         "uniqueid": "b8ba6b2fedb4238c"
@@ -288,6 +293,11 @@
         "uniqueid": "766fe92fe820bbfe"
     },
     {
+        "platform": "chrome.mobile",
+        "version": "52",
+        "uniqueid": "2fe52730ad897473"
+    },
+    {
         "platform": "edge",
         "version": "12",
         "uniqueid": "3d72af2ff343165a"
@@ -306,12 +316,17 @@
     {
         "platform": "edge",
         "version": null,
-        "uniqueid": "1311662fe8008b5c"
+        "uniqueid": "89591e30ac4f13ad"
     },
     {
         "platform": "edge.mobile",
         "version": "13",
         "uniqueid": "3caaa12fe382a594"
+    },
+    {
+        "platform": "edge.mobile",
+        "version": "14",
+        "uniqueid": "b8bbb330ab4f0d75"
     },
     {
         "platform": "firefox",
@@ -583,6 +598,16 @@
         "uniqueid": "d616f12ff7cfd8f3"
     },
     {
+        "platform": "firefox",
+        "version": "48",
+        "uniqueid": "a44bd830abf057bb"
+    },
+    {
+        "platform": "firefox",
+        "version": null,
+        "uniqueid": "7a257b30b6a53430"
+    },
+    {
         "platform": "firefox.mobile",
         "version": "28",
         "uniqueid": "3efa6b2fe80f9d77"
@@ -596,6 +621,16 @@
         "platform": "firefox.mobile",
         "version": "47",
         "uniqueid": "3c99e42fe80c5057"
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "48",
+        "uniqueid": "32f54d30ad8aa2d5"
+    },
+    {
+        "platform": "googletv",
+        "version": null,
+        "uniqueid": "19ece530409544f8"
     },
     {
         "platform": "ie",
@@ -714,6 +749,11 @@
         "uniqueid": "10f7d22fef999fe0"
     },
     {
+        "platform": "lg.webos",
+        "version": "2016",
+        "uniqueid": "6f4dc9305f4393ed"
+    },
+    {
         "platform": "meego",
         "version": "1.2",
         "useragent": "Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13"
@@ -724,9 +764,19 @@
         "useragent": "Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.1.0.941"
     },
     {
+        "platform": "nintendo.3ds",
+        "version": null,
+        "uniqueid": "df80c23094dcadec"
+    },
+    {
         "platform": "nintendo.new.3ds",
         "version": null,
         "uniqueid": "6a4b2d2ff2340bf7"
+    },
+    {
+        "platform": "nintendo.wii",
+        "version": null,
+        "uniqueid": "f78ea63097f32b0c"
     },
     {
         "platform": "nintendo.wii.u",
@@ -882,7 +932,12 @@
     {
         "platform": "opera",
         "version": "38",
-        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36 OPR/38.0.2220.29"
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41"
+    },
+    {
+        "platform": "opera",
+        "version": "39",
+        "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36 OPR/39.0.2256.48"
     },
     {
         "platform": "opera.mobile",
@@ -905,9 +960,29 @@
         "uniqueid": "8b21ad2fe8210423"
     },
     {
+        "platform": "panasonicviera",
+        "version": "2015",
+        "uniqueid": "21b4d030185682d8"
+    },
+    {
+        "platform": "playstation.3",
+        "version": null,
+        "uniqueid": "8b304b30a64181d6"
+    },
+    {
         "platform": "playstation.4",
         "version": null,
         "uniqueid": "945ac02fefa7bbea"
+    },
+    {
+        "platform": "playstation.vita",
+        "version": null,
+        "uniqueid": "4fb0a230a50569f2"
+    },
+    {
+        "platform": "pocketbook",
+        "version": null,
+        "uniqueid": "53e7c54998e2bc3a"
     },
     {
         "platform": "safari",
@@ -959,6 +1034,11 @@
         "useragent": "Mozilla/5.0 (Maemo; Linux; U; Jolla; Sailfish; Mobile; rv:31.0) Gecko/31.0 Firefox/31.0 SailfishBrowser/1.0"
     },
     {
+        "platform": "samsung.smarttv",
+        "version": "2015",
+        "uniqueid": "83d49e300deb51c4"
+    },
+    {
         "platform": "sony.reader",
         "version": null,
         "uniqueid": "697fac2ff2049a9c"
@@ -979,8 +1059,18 @@
         "uniqueid": "b277f92fe8213097"
     },
     {
+        "platform": "xbox.360",
+        "version": "9.0",
+        "uniqueid": "eaa46d3093f6f9c4"
+    },
+    {
         "platform": "xbox.one",
         "version": "13.0",
         "uniqueid": "cf019e2ff1dda845"
+    },
+    {
+        "platform": "xbox.one",
+        "version": "14.0",
+        "uniqueid": "e37ec03094308699"
     }
 ]

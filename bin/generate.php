@@ -46,7 +46,8 @@ foreach ($identifiers as $key => $value) {
 }
 
 
-$data[] = "REPLACE INTO scores (`release`, `platform`, `version`, `fingerprint`) " .
+$data[] = "TRUNCATE scores;";
+$data[] = "INSERT INTO scores (`release`, `platform`, `version`, `fingerprint`) " .
     "SELECT r.release, t.platform, t.version, r.fingerprint " .
     "FROM data_tests as t " .
     "LEFT JOIN results AS r ON (" .
