@@ -3790,15 +3790,16 @@
         "nickname": "Safari 9.1",
         "releasedate": "2016-03-21",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "safari",
         "version": "10.0",
         "nickname": "Safari 10.0",
+        "releasedate": "2016-09-20",
         "type": "desktop",
-        "status": "upcoming",
+        "status": "current",
         "visible": true
     },
     {
