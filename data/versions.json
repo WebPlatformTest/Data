@@ -1216,6 +1216,14 @@
     },
     {
         "platform": "edge",
+        "version": "15",
+        "nickname": "Edge 15",
+        "type": "desktop,tablet",
+        "status": "upcoming",
+        "visible": true
+    },
+    {
+        "platform": "edge",
         "version": null,
         "details": "All flags enabled",
         "nickname": "Edge",
