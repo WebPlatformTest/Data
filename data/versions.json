@@ -914,6 +914,51 @@
         "nickname": "Chrome 52",
         "releasedate": "2016-07-20",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "53",
+        "nickname": "Chrome 53",
+        "releasedate": "2016-08-31",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "54",
+        "nickname": "Chrome 54",
+        "releasedate": "2016-10-12",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "55",
+        "nickname": "Chrome 55",
+        "releasedate": "2016-12-01",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "56",
+        "nickname": "Chrome 56",
+        "releasedate": "2017-01-25",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "57",
+        "nickname": "Chrome 57",
+        "releasedate": "2017-03-09",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
@@ -1712,6 +1757,51 @@
         "version": "48",
         "nickname": "Firefox 48",
         "releasedate": "2016-08-02",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "49",
+        "nickname": "Firefox 49",
+        "releasedate": "2016-09-20",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "50",
+        "nickname": "Firefox 50",
+        "releasedate": "2016-11-15",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "50.1",
+        "nickname": "Firefox 50.1.0",
+        "releasedate": "2016-12-13",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "51",
+        "nickname": "Firefox 51",
+        "releasedate": "2017-01-24",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "52",
+        "nickname": "Firefox 52",
+        "releasedate": "2017-03-07",
         "type": "desktop",
         "status": "current",
         "visible": true
@@ -3151,6 +3241,42 @@
         "version": "39",
         "nickname": "Opera 39",
         "releasedate": "2016-08-05",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "40",
+        "nickname": "Opera 40",
+        "releasedate": "2016-09-20",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "41",
+        "nickname": "Opera 41",
+        "releasedate": "2016-10-25",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "42",
+        "nickname": "Opera 42",
+        "releasedate": "2016-12-13",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "43",
+        "nickname": "Opera 43",
+        "releasedate": "2017-02-07",
         "type": "desktop",
         "status": "current",
         "visible": true
