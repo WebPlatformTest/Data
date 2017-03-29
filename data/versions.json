@@ -3933,6 +3933,15 @@
         "nickname": "Safari 10.0",
         "releasedate": "2016-09-20",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "safari",
+        "version": "10.1",
+        "nickname": "Safari 10.1",
+        "releasedate": "2017-03-27",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
