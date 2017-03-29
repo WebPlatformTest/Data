@@ -3946,6 +3946,14 @@
         "visible": true
     },
     {
+        "platform": "safari",
+        "version": "10.2",
+        "nickname": "Safari 10.2",
+        "type": "desktop",
+        "status": "upcoming",
+        "visible": true
+    },
+    {
         "platform": "sailfish",
         "version": null,
         "nickname": "Jolla Sailfish",

@@ -1037,7 +1037,12 @@
         "platform": "safari",
         "version": "10.1",
         "uniqueid": "9288993532d74497"
-    },         
+    },
+    {
+        "platform": "safari",
+        "version": "10.2",
+        "uniqueid": "a810de35330b3bd4"
+    },        
     {
         "platform": "safari",
         "version": "9.0",
