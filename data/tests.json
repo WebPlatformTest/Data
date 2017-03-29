@@ -315,8 +315,13 @@
     },
     {
         "platform": "edge",
+        "version": "15",
+        "uniqueid": "ab497b339bb2df50"
+    },
+    {
+        "platform": "edge",
         "version": null,
-        "uniqueid": "89591e30ac4f13ad"
+        "uniqueid": "1e64e9339bb640b3"
     },
     {
         "platform": "edge.mobile",
@@ -1023,6 +1028,11 @@
         "source": "browserstack",
         "identifier": "safari-9.1|OS X-El Capitan"
     },
+    {
+        "platform": "safari",
+        "version": "10.0",
+        "uniqueid": "1e81a531e7ca1f04"
+    },       
     {
         "platform": "safari",
         "version": "9.0",
