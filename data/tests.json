@@ -629,6 +629,11 @@
     },
     {
         "platform": "firefox",
+        "version": "53",
+        "uniqueid": "caed1b35339ac514"
+    },
+    {
+        "platform": "firefox",
         "version": null,
         "uniqueid": "7a257b30b6a53430"
     },

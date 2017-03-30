@@ -1808,6 +1808,14 @@
     },
     {
         "platform": "firefox",
+        "version": "53",
+        "nickname": "Firefox 53",
+        "type": "desktop",
+        "status": "upcoming",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
         "version": null,
         "details": "All flags enabled",
         "nickname": "Firefox",
