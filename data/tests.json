@@ -268,6 +268,31 @@
         "uniqueid": "c807d330ac41e936"
     },
     {
+        "platform": "chrome",
+        "version": "53",
+        "uniqueid": "8f469c353899da90"
+    },
+    {
+        "platform": "chrome",
+        "version": "54",
+        "uniqueid": "7c7a9d35389c1c38"
+    },
+    {
+        "platform": "chrome",
+        "version": "55",
+        "uniqueid": "e5198235389f59b0"
+    },
+    {
+        "platform": "chrome",
+        "version": "56",
+        "uniqueid": "32ce743538a145e7"
+    },
+    {
+        "platform": "chrome",
+        "version": "57",
+        "uniqueid": "fddc103538a1f25b"
+    },
+    {
         "platform": "chrome.mobile",
         "version": "40",
         "uniqueid": "b8ba6b2fedb4238c"
