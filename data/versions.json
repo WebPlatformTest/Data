@@ -1256,15 +1256,16 @@
         "nickname": "Edge 14",
         "releasedate": "2016-08-02",
         "type": "desktop,tablet",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "edge",
         "version": "15",
         "nickname": "Edge 15",
+        "releasedate": "2017-04-11",
         "type": "desktop,tablet",
-        "status": "upcoming",
+        "status": "current",
         "visible": true
     },
     {
