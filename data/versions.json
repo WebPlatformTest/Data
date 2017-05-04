@@ -959,6 +959,15 @@
         "nickname": "Chrome 57",
         "releasedate": "2017-03-09",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "58",
+        "nickname": "Chrome 58",
+        "releasedate": "2017-04-19",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
@@ -1219,6 +1228,60 @@
         "version": "52",
         "nickname": "Chrome 52",
         "releasedate": "2016-07-27",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "53",
+        "nickname": "Chrome 53",
+        "releasedate": "2016-09-07",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "54",
+        "nickname": "Chrome 54",
+        "releasedate": "2016-10-19",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "55",
+        "nickname": "Chrome 55",
+        "releasedate": "2016-12-06",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "56",
+        "nickname": "Chrome 56",
+        "releasedate": "2017-02-01",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "57",
+        "nickname": "Chrome 57",
+        "releasedate": "2017-03-16",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "58",
+        "nickname": "Chrome 58",
+        "releasedate": "2017-04-25",
         "type": "mobile,tablet",
         "status": "current",
         "visible": true
@@ -1803,6 +1866,15 @@
         "nickname": "Firefox 52",
         "releasedate": "2017-03-07",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "53",
+        "nickname": "Firefox 53",
+        "releasedate": "2017-04-18",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
@@ -2198,6 +2270,51 @@
         "version": "48",
         "nickname": "Firefox Mobile 48",
         "releasedate": "2016-08-02",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "49",
+        "nickname": "Firefox Mobile 49",
+        "releasedate": "2016-09-20",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "50",
+        "nickname": "Firefox Mobile 50",
+        "releasedate": "2016-11-15",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "51",
+        "nickname": "Firefox Mobile 51",
+        "releasedate": "2017-01-24",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "52",
+        "nickname": "Firefox Mobile 52",
+        "releasedate": "2017-03-07",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "53",
+        "nickname": "Firefox Mobile 53",
+        "releasedate": "2017-04-19",
         "type": "mobile,tablet",
         "status": "current",
         "visible": true
@@ -3277,6 +3394,15 @@
         "version": "43",
         "nickname": "Opera 43",
         "releasedate": "2017-02-07",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "44",
+        "nickname": "Opera 44",
+        "releasedate": "2017-03-21",
         "type": "desktop",
         "status": "current",
         "visible": true
