@@ -1845,15 +1845,6 @@
     },
     {
         "platform": "firefox",
-        "version": "50.1",
-        "nickname": "Firefox 50.1.0",
-        "releasedate": "2016-12-13",
-        "type": "desktop",
-        "status": "legacy",
-        "visible": true
-    },
-    {
-        "platform": "firefox",
         "version": "51",
         "nickname": "Firefox 51",
         "releasedate": "2017-01-24",
