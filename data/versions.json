@@ -1881,8 +1881,8 @@
     },
     {
         "platform": "firefox",
-        "version": "53",
-        "nickname": "Firefox 53",
+        "version": "54",
+        "nickname": "Firefox 54",
         "type": "desktop",
         "status": "upcoming",
         "visible": true
