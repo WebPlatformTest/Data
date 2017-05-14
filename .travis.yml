@@ -28,4 +28,4 @@ script:
 after_script:
 - export SSHPASS=$DEPLOY_PASS
 - sshpass -e scp -o stricthostkeychecking=no data.sql $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH_ALPHA/other
-- sshpass -e ssh -o stricthostkeychecking=no $DEPLOY_USER@$DEPLOY_HOST "cat $DEPLOY_PATH_ALPHA/other/data.sql | mysql -u $MYSQL_USER --password=$MYSQL_PASS $MYSQL_DB"
+- travis_wait sshpass -e ssh -o stricthostkeychecking=no $DEPLOY_USER@$DEPLOY_HOST "cat $DEPLOY_PATH_ALPHA/other/data.sql | mysql -u $MYSQL_USER --password=$MYSQL_PASS $MYSQL_DB"
