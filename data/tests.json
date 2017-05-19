@@ -293,6 +293,11 @@
         "uniqueid": "fddc103538a1f25b"
     },
     {
+        "platform": "chrome",
+        "version": "58",
+        "uniqueid": "342bff3638d322a7"
+    },
+    {
         "platform": "chrome.mobile",
         "version": "40",
         "uniqueid": "b8ba6b2fedb4238c"
