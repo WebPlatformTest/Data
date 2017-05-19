@@ -311,6 +311,43 @@
         "platform": "android.samsung",
         "version": "4.0",
         "nickname": "Samsung Internet 4.0",
+        "releasedate": "2016-02-17",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "android.samsung",
+        "version": "4.2",
+        "nickname": "Samsung Internet 4.2",
+        "releasedate": "2016-08-02",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "android.samsung",
+        "version": "5.0",
+        "nickname": "Samsung Internet 5.0",
+        "releasedate": "2016-12-16",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "android.samsung",
+        "version": "5.2",
+        "nickname": "Samsung Internet 5.2",
+        "releasedate": "2017-04-21",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "android.samsung",
+        "version": "5.4",
+        "nickname": "Samsung Internet 5.4",
+        "releasedate": "2017-05-16",
         "type": "mobile",
         "status": "current",
         "visible": true

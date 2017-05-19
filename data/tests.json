@@ -30,6 +30,21 @@
         "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G930F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36"
     },
     {
+        "platform": "android.samsung",
+        "version": "5.0",
+        "uniqueid": "b193f5316c35872c"
+    },
+    {
+        "platform": "android.samsung",
+        "version": "5.2",
+        "uniqueid": "6b531c341c1b90ca"
+    },
+    {
+        "platform": "android.samsung",
+        "version": "5.4",
+        "uniqueid": "79ea8835b906de4d"
+    },
+    {
         "platform": "bb",
         "version": "10.3",
         "useragent": "Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2639 Mobile Safari/537.35+"
