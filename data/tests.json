@@ -265,37 +265,44 @@
     {
         "platform": "chrome",
         "version": "52",
-        "uniqueid": "c807d330ac41e936"
+        "source": "browserstack",
+        "identifier": "chrome-52.0|OS X-Sierra"
     },
     {
         "platform": "chrome",
         "version": "53",
-        "uniqueid": "8f469c353899da90"
+        "source": "browserstack",
+        "identifier": "chrome-53.0|OS X-Sierra"
     },
     {
         "platform": "chrome",
         "version": "54",
-        "uniqueid": "7c7a9d35389c1c38"
+        "source": "browserstack",
+        "identifier": "chrome-54.0|OS X-Sierra"
     },
     {
         "platform": "chrome",
         "version": "55",
-        "uniqueid": "e5198235389f59b0"
+        "source": "browserstack",
+        "identifier": "chrome-55.0|OS X-Sierra"
     },
     {
         "platform": "chrome",
         "version": "56",
-        "uniqueid": "32ce743538a145e7"
+        "source": "browserstack",
+        "identifier": "chrome-56.0|OS X-Sierra"
     },
     {
         "platform": "chrome",
         "version": "57",
-        "uniqueid": "fddc103538a1f25b"
+        "source": "browserstack",
+        "identifier": "chrome-57.0|OS X-Sierra"
     },
     {
         "platform": "chrome",
         "version": "58",
-        "uniqueid": "342bff3638d322a7"
+        "source": "browserstack",
+        "identifier": "chrome-58.0|OS X-Sierra"
     },
     {
         "platform": "chrome.mobile",
@@ -1097,7 +1104,7 @@
         "platform": "safari",
         "version": "10.2",
         "uniqueid": "a810de35330b3bd4"
-    },        
+    },
     {
         "platform": "safari",
         "version": "9.0",
