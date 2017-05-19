@@ -796,6 +796,21 @@
         "uniqueid": "ab06c92fedad1ff1"
     },
     {
+        "platform": "ios",
+        "version": "10.1",
+        "uniqueid": "6cb3ab3168859e06"
+    },
+    {
+        "platform": "ios",
+        "version": "10.2",
+        "uniqueid": "bc1d3b3235d1dd09"
+    },
+    {
+        "platform": "ios",
+        "version": "10.3",
+        "uniqueid": "aeb9ea3638eee4d9"
+    },
+    {
         "platform": "kindle",
         "version": null,
         "uniqueid": "536e0d2ff208c8c0"

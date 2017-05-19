@@ -2607,8 +2607,36 @@
         "platform": "ios",
         "version": "10.0",
         "nickname": "iOS 10.0",
+        "releasedate": "2016-09-16",
         "type": "mobile,tablet",
-        "status": "upcoming",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "ios",
+        "version": "10.1",
+        "nickname": "iOS 10.1",
+        "releasedate": "2016-10-24",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "ios",
+        "version": "10.2",
+        "nickname": "iOS 10.2",
+        "releasedate": "2016-12-12",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "ios",
+        "version": "10.3",
+        "nickname": "iOS 10.3",
+        "releasedate": "2017-03-27",
+        "type": "mobile,tablet",
+        "status": "current",
         "visible": true
     },
     {
