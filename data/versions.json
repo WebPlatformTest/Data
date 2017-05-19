@@ -3404,6 +3404,15 @@
         "nickname": "Opera 44",
         "releasedate": "2017-03-21",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "45",
+        "nickname": "Opera 45",
+        "releasedate": "2017-05-10",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },

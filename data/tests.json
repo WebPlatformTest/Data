@@ -1007,6 +1007,11 @@
         "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36 OPR/39.0.2256.48"
     },
     {
+        "platform": "opera",
+        "version": "45",
+        "uniqueid": "85f26e3638da9ea3"
+    },
+    {
         "platform": "opera.mobile",
         "version": "12.10",
         "uniqueid": "adb88c2fe848ae44"
