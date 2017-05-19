@@ -2600,7 +2600,7 @@
         "nickname": "iOS 9.3",
         "releasedate": "2016-03-21",
         "type": "mobile,tablet",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
