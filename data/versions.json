@@ -1922,13 +1922,22 @@
         "nickname": "Firefox 53",
         "releasedate": "2017-04-18",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "firefox",
         "version": "54",
         "nickname": "Firefox 54",
+        "releasedate": "2017-06-13",
+        "type": "desktop",
+        "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "55",
+        "nickname": "Firefox 55",
         "type": "desktop",
         "status": "upcoming",
         "visible": true
@@ -2370,6 +2379,15 @@
         "version": "53",
         "nickname": "Firefox Mobile 53",
         "releasedate": "2017-04-19",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "54",
+        "nickname": "Firefox Mobile 54",
+        "releasedate": "2017-06-13",
         "type": "mobile,tablet",
         "status": "current",
         "visible": true
