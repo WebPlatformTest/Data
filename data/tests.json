@@ -372,6 +372,11 @@
     },
     {
         "platform": "edge",
+        "version": "16",
+        "uniqueid": "feb3ad374b11f019"
+    },
+    {
+        "platform": "edge",
         "version": null,
         "uniqueid": "1e64e9339bb640b3"
     },
