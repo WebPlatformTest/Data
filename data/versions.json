@@ -1387,6 +1387,15 @@
         "visible": true
     },
     {
+
+        "platform": "edge",
+        "version": "16",
+        "nickname": "Edge 16",
+        "type": "desktop,tablet",
+        "status": "upcoming",
+        "visible": true
+    },
+    {
         "platform": "edge",
         "version": null,
         "details": "All flags enabled",
