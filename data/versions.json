@@ -1383,7 +1383,7 @@
         "nickname": "Edge 15",
         "releasedate": "2017-04-11",
         "type": "desktop,tablet",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
@@ -1392,7 +1392,8 @@
         "version": "16",
         "nickname": "Edge 16",
         "type": "desktop,tablet",
-        "status": "upcoming",
+        "releasedate": "2017-10-17",
+        "status": "current",
         "visible": true
     },
     {
