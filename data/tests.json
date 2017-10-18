@@ -691,6 +691,21 @@
     },
     {
         "platform": "firefox",
+        "version": "54",
+        "uniqueid": "8dd61a3944344a63"
+    },
+    {
+        "platform": "firefox",
+        "version": "55",
+        "uniqueid": "c42860394437af89"
+    },
+    {
+        "platform": "firefox",
+        "version": "56",
+        "uniqueid": "ac47ca3944391915"
+    },
+    {
+        "platform": "firefox",
         "version": null,
         "uniqueid": "7a257b30b6a53430"
     },
