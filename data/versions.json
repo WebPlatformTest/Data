@@ -1932,15 +1932,34 @@
         "nickname": "Firefox 53",
         "releasedate": "2017-04-18",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "firefox",
         "version": "54",
         "nickname": "Firefox 54",
+        "releasedate": "2017-06-13",
         "type": "desktop",
-        "status": "upcoming",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "55",
+        "nickname": "Firefox 55",
+        "releasedate": "2017-08-08",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "56",
+        "nickname": "Firefox 56",
+        "releasedate": "2017-09-28",
+        "type": "desktop",
+        "status": "stable",
         "visible": true
     },
     {
