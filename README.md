@@ -20,13 +20,13 @@ Some rules:
 - In case of a new version, please do not forget to set the status of the previous version to `legacy`.
 
 
-###Platforms
+### Platforms
 
 Contains the lowest level data about platforms. A platform is either a browsers, an operating system or a device.
 It does not contain information about versions.
 In general this file should not be edited unless you want to add a whole new browser, os or device.
 
-````
+````json
 [
     {
         "platform": "chrome",
@@ -50,13 +50,13 @@ In general this file should not be edited unless you want to add a whole new bro
 - `type`: What kind of browser or device this is. Can be a comma seperated list with the following values: `desktop`, `mobile`, `tablet`.
 
 
-###Versions
+### Versions
 
 Contains data about individual versions of each platform. For every release a new entry should be added. In general,
 existing data should never be deleted, only new data added.
 
 
-````
+````json
 [
     {
         "platform": "firefox",
@@ -80,13 +80,13 @@ existing data should never be deleted, only new data added.
 - `visible`: A value of `false` is not visible by default, a value of `true` is visible by default.
 
 
-###Tests
+### Tests
 
 This file contains the actual information that links platforms and versions to test results. This file does not have to contain an
 entry for every single item in the `platforms.json` and `versions.json` file. However, if you add a new platform or version, also add the
 a unique id for a test result in the `tests.json` file.
 
-````
+````json
 [
     {
         "platform": "safari",
