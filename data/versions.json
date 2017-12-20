@@ -1387,7 +1387,6 @@
         "visible": true
     },
     {
-
         "platform": "edge",
         "version": "16",
         "nickname": "Edge 16",
@@ -1397,9 +1396,8 @@
         "visible": true
     },
     {
-
         "platform": "edge",
-        "version": "16",
+        "version": "17",
         "nickname": "Edge 17",
         "type": "desktop,tablet",
         "status": "upcoming",
