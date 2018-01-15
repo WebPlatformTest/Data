@@ -707,7 +707,17 @@
     {
         "platform": "firefox",
         "version": "56",
-        "uniqueid": "ac47ca3944391915"
+        "uniqueid": "5262803b150d8874"
+    },
+    {
+        "platform": "firefox",
+        "version": "57",
+        "uniqueid": "0263a13b150f3a20"
+    },
+    {
+        "platform": "firefox",
+        "version": "58",
+        "uniqueid": "63e44a3b14dd16b7"
     },
     {
         "platform": "firefox",

@@ -1966,7 +1966,24 @@
         "nickname": "Firefox 56",
         "releasedate": "2017-09-28",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "57",
+        "nickname": "Firefox 57",
+        "releasedate": "2017-11-14",
+        "type": "desktop",
         "status": "stable",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "58",
+        "nickname": "Firefox 58",
+        "type": "desktop",
+        "status": "upcoming",
         "visible": true
     },
     {
@@ -4196,7 +4213,7 @@
         "nickname": "Safari 10.1",
         "releasedate": "2017-03-27",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
