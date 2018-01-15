@@ -1014,7 +1014,51 @@
         "nickname": "Chrome 59",
         "releasedate": "2017-06-05",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "60",
+        "nickname": "Chrome 60",
+        "releasedate": "2017-07-25",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "61",
+        "nickname": "Chrome 61",
+        "releasedate": "2017-09-05",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "62",
+        "nickname": "Chrome 62",
+        "releasedate": "2017-10-17",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "63",
+        "nickname": "Chrome 63",
+        "releasedate": "2017-12-06",
+        "type": "desktop",
         "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "64",
+        "nickname": "Chrome 64",
+        "type": "desktop",
+        "status": "upcoming",
         "visible": true
     },
     {
