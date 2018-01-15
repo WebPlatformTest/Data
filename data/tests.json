@@ -1167,6 +1167,11 @@
     },
     {
         "platform": "safari",
+        "version": "11.1",
+        "uniqueid": "3601f23b14d2c935"
+    },
+    {
+        "platform": "safari",
         "version": "9.0",
         "uniqueid": "ed17dd2fe7fcbade"
     },
