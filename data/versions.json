@@ -4201,10 +4201,11 @@
     },
     {
         "platform": "safari",
-        "version": "10.2",
-        "nickname": "Safari 10.2",
+        "version": "11",
+        "nickname": "Safari 11",
+        "releasedate": "2017-09-19",
         "type": "desktop",
-        "status": "upcoming",
+        "status": "current",
         "visible": true
     },
     {
