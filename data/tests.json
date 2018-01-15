@@ -45,6 +45,11 @@
         "uniqueid": "79ea8835b906de4d"
     },
     {
+        "platform": "android.samsung",
+        "version": "6.2",
+        "uniqueid": "90685a3b136b494c"
+    },
+    {
         "platform": "bb",
         "version": "10.3",
         "useragent": "Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2639 Mobile Safari/537.35+"

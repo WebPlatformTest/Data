@@ -349,6 +349,24 @@
         "nickname": "Samsung Internet 5.4",
         "releasedate": "2017-05-16",
         "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "android.samsung",
+        "version": "6.0",
+        "nickname": "Samsung Internet 6.0",
+        "releasedate": "2017-08-23",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "android.samsung",
+        "version": "6.2",
+        "nickname": "Samsung Internet 6.2",
+        "releasedate": "2017-10-26",
+        "type": "mobile",
         "status": "current",
         "visible": true
     },
