@@ -47,16 +47,33 @@ foreach ($identifiers as $key => $value) {
 
 
 $data[] = "TRUNCATE scores;";
+
 $data[] = "INSERT INTO scores (`release`, `platform`, `version`, `fingerprint`) " .
     "SELECT r.release, t.platform, t.version, r.fingerprint " .
     "FROM data_tests as t " .
     "LEFT JOIN results AS r ON (" .
-        "(t.uniqueid IS NULL AND t.identifier = r.identifier AND t.source = r.source) OR " .
-        "(t.uniqueid IS NULL AND r.source = 'lab' AND t.useragent = r.useragent) OR " .
+        "(t.uniqueid IS NULL AND t.identifier = r.identifier AND t.source = r.source)" .
+    ") " .
+    "GROUP BY r.release, t.platform, t.version " .
+    "HAVING fingerprint IS NOT NULL;";
+
+$data[] = "INSERT INTO scores (`release`, `platform`, `version`, `fingerprint`) " .
+    "SELECT r.release, t.platform, t.version, r.fingerprint " .
+    "FROM data_tests as t " .
+    "LEFT JOIN results AS r ON (" .
+        "(t.uniqueid IS NULL AND r.source = 'lab' AND t.useragent = r.useragent)" .
+    ") " .
+    "GROUP BY r.release, t.platform, t.version " .
+    "HAVING fingerprint IS NOT NULL;";
+
+$data[] = "INSERT INTO scores (`release`, `platform`, `version`, `fingerprint`) " .
+    "SELECT r.release, t.platform, t.version, r.fingerprint " .
+    "FROM data_tests as t " .
+    "LEFT JOIN results AS r ON (" .
         "t.uniqueid = r.uniqueid" .
     ") " .
     "GROUP BY r.release, t.platform, t.version " .
-    "HAVING fingerprint IS NOT NULL";
+    "HAVING fingerprint IS NOT NULL;";
 
 
 echo implode("\n", $data) . "\n";

@@ -311,6 +311,43 @@
         "platform": "android.samsung",
         "version": "4.0",
         "nickname": "Samsung Internet 4.0",
+        "releasedate": "2016-02-17",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "android.samsung",
+        "version": "4.2",
+        "nickname": "Samsung Internet 4.2",
+        "releasedate": "2016-08-02",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "android.samsung",
+        "version": "5.0",
+        "nickname": "Samsung Internet 5.0",
+        "releasedate": "2016-12-16",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "android.samsung",
+        "version": "5.2",
+        "nickname": "Samsung Internet 5.2",
+        "releasedate": "2017-04-21",
+        "type": "mobile",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "android.samsung",
+        "version": "5.4",
+        "nickname": "Samsung Internet 5.4",
+        "releasedate": "2017-05-16",
         "type": "mobile",
         "status": "current",
         "visible": true
@@ -959,6 +996,24 @@
         "nickname": "Chrome 57",
         "releasedate": "2017-03-09",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "58",
+        "nickname": "Chrome 58",
+        "releasedate": "2017-04-19",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "59",
+        "nickname": "Chrome 59",
+        "releasedate": "2017-06-05",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
@@ -1220,6 +1275,69 @@
         "nickname": "Chrome 52",
         "releasedate": "2016-07-27",
         "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "53",
+        "nickname": "Chrome 53",
+        "releasedate": "2016-09-07",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "54",
+        "nickname": "Chrome 54",
+        "releasedate": "2016-10-19",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "55",
+        "nickname": "Chrome 55",
+        "releasedate": "2016-12-06",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "56",
+        "nickname": "Chrome 56",
+        "releasedate": "2017-02-01",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "57",
+        "nickname": "Chrome 57",
+        "releasedate": "2017-03-16",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "58",
+        "nickname": "Chrome 58",
+        "releasedate": "2017-04-25",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "59",
+        "nickname": "Chrome 59",
+        "releasedate": "2017-06-05",
+        "type": "mobile,tablet",
         "status": "current",
         "visible": true
     },
@@ -1256,13 +1374,31 @@
         "nickname": "Edge 14",
         "releasedate": "2016-08-02",
         "type": "desktop,tablet",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "edge",
         "version": "15",
         "nickname": "Edge 15",
+        "releasedate": "2017-04-11",
+        "type": "desktop,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "edge",
+        "version": "16",
+        "nickname": "Edge 16",
+        "type": "desktop,tablet",
+        "releasedate": "2017-10-17",
+        "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "edge",
+        "version": "17",
+        "nickname": "Edge 17",
         "type": "desktop,tablet",
         "status": "upcoming",
         "visible": true
@@ -1781,15 +1917,6 @@
     },
     {
         "platform": "firefox",
-        "version": "50.1",
-        "nickname": "Firefox 50.1.0",
-        "releasedate": "2016-12-13",
-        "type": "desktop",
-        "status": "legacy",
-        "visible": true
-    },
-    {
-        "platform": "firefox",
         "version": "51",
         "nickname": "Firefox 51",
         "releasedate": "2017-01-24",
@@ -1803,7 +1930,43 @@
         "nickname": "Firefox 52",
         "releasedate": "2017-03-07",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "53",
+        "nickname": "Firefox 53",
+        "releasedate": "2017-04-18",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "54",
+        "nickname": "Firefox 54",
+        "releasedate": "2017-06-13",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "55",
+        "nickname": "Firefox 55",
+        "releasedate": "2017-08-08",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "56",
+        "nickname": "Firefox 56",
+        "releasedate": "2017-09-28",
+        "type": "desktop",
+        "status": "stable",
         "visible": true
     },
     {
@@ -2199,6 +2362,51 @@
         "nickname": "Firefox Mobile 48",
         "releasedate": "2016-08-02",
         "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "49",
+        "nickname": "Firefox Mobile 49",
+        "releasedate": "2016-09-20",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "50",
+        "nickname": "Firefox Mobile 50",
+        "releasedate": "2016-11-15",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "51",
+        "nickname": "Firefox Mobile 51",
+        "releasedate": "2017-01-24",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "52",
+        "nickname": "Firefox Mobile 52",
+        "releasedate": "2017-03-07",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "53",
+        "nickname": "Firefox Mobile 53",
+        "releasedate": "2017-04-19",
+        "type": "mobile,tablet",
         "status": "current",
         "visible": true
     },
@@ -2483,15 +2691,43 @@
         "nickname": "iOS 9.3",
         "releasedate": "2016-03-21",
         "type": "mobile,tablet",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "ios",
         "version": "10.0",
         "nickname": "iOS 10.0",
+        "releasedate": "2016-09-16",
         "type": "mobile,tablet",
-        "status": "upcoming",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "ios",
+        "version": "10.1",
+        "nickname": "iOS 10.1",
+        "releasedate": "2016-10-24",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": false
+    },
+    {
+        "platform": "ios",
+        "version": "10.2",
+        "nickname": "iOS 10.2",
+        "releasedate": "2016-12-12",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "ios",
+        "version": "10.3",
+        "nickname": "iOS 10.3",
+        "releasedate": "2017-03-27",
+        "type": "mobile,tablet",
+        "status": "current",
         "visible": true
     },
     {
@@ -3277,6 +3513,24 @@
         "version": "43",
         "nickname": "Opera 43",
         "releasedate": "2017-02-07",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "44",
+        "nickname": "Opera 44",
+        "releasedate": "2017-03-21",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "45",
+        "nickname": "Opera 45",
+        "releasedate": "2017-05-10",
         "type": "desktop",
         "status": "current",
         "visible": true
@@ -4463,6 +4717,16 @@
         "version": "14.0",
         "nickname": "Xbox One",
         "details": "Edge 14",
+        "type": "gaming,gaming-console",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "xbox.one",
+        "version": "15.0",
+        "nickname": "Xbox One",
+        "details": "Edge 15",
+        "releasedate": "2017-03-29",
         "type": "gaming,gaming-console",
         "status": "current",
         "visible": true
