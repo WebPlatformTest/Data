@@ -124,6 +124,12 @@
         "type": "tablet"
     },
     {
+        "platform": "silk.firetv",
+        "name": "Silk Browser on Fire TV",
+        "order": 0,
+        "type": "television-box"
+    },
+    {
         "platform": "maemo",
         "related": "sailfish",
         "name": "Maemo",

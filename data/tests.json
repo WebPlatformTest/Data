@@ -911,6 +911,11 @@
         "uniqueid": "3db1c52fef2a048e"
     },
     {
+        "platform": "silk.firetv",
+        "version": "62.7",
+        "uniqueid": "8d898f3b184c9215"
+    },
+    {
         "platform": "kobo",
         "version": null,
         "uniqueid": "ea9326111efd39c0"
