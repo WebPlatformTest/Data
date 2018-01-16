@@ -92,6 +92,12 @@
         "type": "mobile,tablet"
     },
     {
+        "platform": "firefox.fireos",
+        "name": "Firefox for Fire TV",
+        "order": 1,
+        "type": "television-box"
+    },
+    {
         "platform": "ie",
         "related": "edge",
         "name": "Internet Explorer",
@@ -116,6 +122,12 @@
         "name": "Kindle Silk",
         "order": 0,
         "type": "tablet"
+    },
+    {
+        "platform": "silk.firetv",
+        "name": "Silk Browser on Fire TV",
+        "order": 0,
+        "type": "television-box"
     },
     {
         "platform": "maemo",

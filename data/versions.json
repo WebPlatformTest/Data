@@ -2481,6 +2481,15 @@
         "visible": true
     },
     {
+        "platform": "firefox.fireos",
+        "version": null,
+        "nickname": "Firefox for Fire TV",
+        "releasedate": "2017-12-20",
+        "type": "television-box",
+        "status": "current",
+        "visible": true
+    },
+    {
         "platform": "googletv",
         "version": null,
         "nickname": "GoogleTV",
@@ -2813,6 +2822,15 @@
         "version": null,
         "nickname": "Amazon Silk",
         "type": "mobile,tablet",
+        "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "silk.firetv",
+        "version": "67.2",
+        "nickname": "Silk Browser for Fire TV",
+        "releasedate": "2017-12-20",
+        "type": "television-box",
         "status": "current",
         "visible": true
     },
@@ -4806,6 +4824,16 @@
         "nickname": "Xbox One",
         "details": "Edge 15",
         "releasedate": "2017-03-29",
+        "type": "gaming,gaming-console",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "xbox.one",
+        "version": "16.0",
+        "nickname": "Xbox One",
+        "details": "Edge 16",
+        "releasedate": "2017-10-16",
         "type": "gaming,gaming-console",
         "status": "current",
         "visible": true

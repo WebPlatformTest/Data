@@ -775,6 +775,11 @@
         "uniqueid": "3c99e42fe80c5057"
     },
     {
+        "platform": "firefox.fireos",
+        "version": null,
+        "uniqueid": "34cd633b184f52dc"
+    },
+    {
         "platform": "firefox.mobile",
         "version": "48",
         "uniqueid": "32f54d30ad8aa2d5"
@@ -904,6 +909,11 @@
         "platform": "kindle.silk",
         "version": null,
         "uniqueid": "3db1c52fef2a048e"
+    },
+    {
+        "platform": "silk.firetv",
+        "version": "62.7",
+        "uniqueid": "8d898f3b184c9215"
     },
     {
         "platform": "kobo",
@@ -1269,5 +1279,10 @@
         "platform": "xbox.one",
         "version": "15.0",
         "uniqueid": "775a563534c51fda"
+    },
+    {
+        "platform": "xbox.one",
+        "version": "16.0",
+        "uniqueid": "f089403b18717295"
     }
 ]
