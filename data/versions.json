@@ -2481,6 +2481,15 @@
         "visible": true
     },
     {
+        "platform": "firefox.fireos",
+        "version": null,
+        "nickname": "Firefox for Fire TV",
+        "releasedate": "2017-12-20",
+        "type": "television-box",
+        "status": "current",
+        "visible": true
+    },
+    {
         "platform": "googletv",
         "version": null,
         "nickname": "GoogleTV",

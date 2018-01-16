@@ -92,6 +92,12 @@
         "type": "mobile,tablet"
     },
     {
+        "platform": "firefox.fireos",
+        "name": "Firefox for Fire TV",
+        "order": 1,
+        "type": "television-box"
+    },
+    {
         "platform": "ie",
         "related": "edge",
         "name": "Internet Explorer",
