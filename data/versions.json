@@ -2028,13 +2028,31 @@
         "nickname": "Firefox 57",
         "releasedate": "2017-11-14",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "firefox",
         "version": "58",
         "nickname": "Firefox 58",
+        "releasedate": "2018-01-23",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "59",
+        "nickname": "Firefox 59",
+        "releasedate": "2018-01-23",
+        "type": "desktop",
+        "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "60",
+        "nickname": "Firefox 60",
         "type": "desktop",
         "status": "upcoming",
         "visible": true
@@ -2477,7 +2495,70 @@
         "nickname": "Firefox Mobile 53",
         "releasedate": "2017-04-19",
         "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "54",
+        "nickname": "Firefox Mobile 54",
+        "releasedate": "2017-06-13",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "55",
+        "nickname": "Firefox Mobile 55",
+        "releasedate": "2017-08-08",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "56",
+        "nickname": "Firefox Mobile 56",
+        "releasedate": "2017-09-28",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "57",
+        "nickname": "Firefox Mobile 57",
+        "releasedate": "2017-11-14",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "58",
+        "nickname": "Firefox Mobile 58",
+        "releasedate": "2018-01-23",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "59",
+        "nickname": "Firefox Mobile 59",
+        "releasedate": "2018-03-13",
+        "type": "mobile,tablet",
         "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "firefox.mobile",
+        "version": "60",
+        "nickname": "Firefox Mobile 60",
+        "releasedate": "2017-04-19",
+        "type": "mobile,tablet",
+        "status": "upcoming",
         "visible": true
     },
     {
