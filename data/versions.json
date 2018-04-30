@@ -2095,7 +2095,7 @@
     },
     {
         "platform": "firefox",
-        "version": "59",
+        "version": "60",
         "nickname": "Firefox 60",
         "type": "desktop",
         "status": "upcoming",
