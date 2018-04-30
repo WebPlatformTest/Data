@@ -1059,13 +1059,48 @@
         "nickname": "Chrome 63",
         "releasedate": "2017-12-06",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "chrome",
         "version": "64",
         "nickname": "Chrome 64",
+        "releasedate": "2018-01-24",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "65",
+        "nickname": "Chrome 65",
+        "releasedate": "2018-03-06",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "66",
+        "nickname": "Chrome 66",
+        "releasedate": "2018-04-17",
+        "type": "desktop",
+        "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "67",
+        "nickname": "Chrome 67",
+        "type": "desktop",
+        "status": "upcoming",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "68",
+        "nickname": "Chrome 68",
         "type": "desktop",
         "status": "upcoming",
         "visible": true
