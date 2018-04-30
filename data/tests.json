@@ -355,6 +355,26 @@
         "uniqueid": "84ed753b15210ca4"
     },
     {
+        "platform": "chrome",
+        "version": "65",
+        "uniqueid": "e3ea603d2f659b9d"
+    },
+    {
+        "platform": "chrome",
+        "version": "66",
+        "uniqueid": "c54c2a3d2f66a782"
+    },
+    {
+        "platform": "chrome",
+        "version": "67",
+        "uniqueid": "836a063d2f6955af"
+    },
+    {
+        "platform": "chrome",
+        "version": "68",
+        "uniqueid": "2142d23d2f679ba0"
+    },
+    {
         "platform": "chrome.mobile",
         "version": "40",
         "uniqueid": "b8ba6b2fedb4238c"
@@ -417,8 +437,13 @@
     },
     {
         "platform": "edge",
+        "version": "18",
+        "uniqueid": "b1daca3d2f796e54"
+    },
+    {
+        "platform": "edge",
         "version": null,
-        "uniqueid": "6b87c23b5fea91d9"
+        "uniqueid": "fa232b3d2f7c2994"
     },
     {
         "platform": "edge.mobile",
@@ -753,6 +778,16 @@
         "platform": "firefox",
         "version": "58",
         "uniqueid": "63e44a3b14dd16b7"
+    },
+    {
+        "platform": "firefox",
+        "version": "59",
+        "uniqueid": "3272143d2f6c8736"
+    },
+    {
+        "platform": "firefox",
+        "version": "60",
+        "uniqueid": "b29e5f3d2f7265b1"
     },
     {
         "platform": "firefox",
