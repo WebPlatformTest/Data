@@ -2064,13 +2064,31 @@
         "nickname": "Firefox 57",
         "releasedate": "2017-11-14",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "firefox",
         "version": "58",
         "nickname": "Firefox 58",
+        "releasedate": "2018-01-23",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "59",
+        "nickname": "Firefox 59",
+        "releasedate": "2018-03-13",
+        "type": "desktop",
+        "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "59",
+        "nickname": "Firefox 60",
         "type": "desktop",
         "status": "upcoming",
         "visible": true

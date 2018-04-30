@@ -776,6 +776,16 @@
     },
     {
         "platform": "firefox",
+        "version": "59",
+        "uniqueid": "3272143d2f6c8736"
+    },
+    {
+        "platform": "firefox",
+        "version": "60",
+        "uniqueid": "b29e5f3d2f7265b1"
+    },
+    {
+        "platform": "firefox",
         "version": null,
         "uniqueid": "7a257b30b6a53430"
     },
