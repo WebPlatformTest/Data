@@ -1445,7 +1445,7 @@
         "nickname": "Edge 16",
         "type": "desktop,tablet",
         "releasedate": "2017-10-17",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
