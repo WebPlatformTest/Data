@@ -1452,8 +1452,9 @@
         "platform": "edge",
         "version": "17",
         "nickname": "Edge 17",
+        "releasedate": "2018-04-30",
         "type": "desktop,tablet",
-        "status": "upcoming",
+        "status": "current",
         "visible": true
     },
     {
