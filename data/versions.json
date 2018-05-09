@@ -4355,7 +4355,7 @@
         "nickname": "Safari 11",
         "releasedate": "2017-09-19",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
