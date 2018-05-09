@@ -4362,6 +4362,15 @@
         "platform": "safari",
         "version": "11.1",
         "nickname": "Safari 11.1",
+        "releasedate": "2018-03-29",        
+        "type": "desktop",
+        "status": "current",
+        "visible": true
+    },
+    {
+        "platform": "safari",
+        "version": "11.2",
+        "nickname": "Safari 11.2",
         "type": "desktop",
         "status": "upcoming",
         "visible": true
