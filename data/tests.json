@@ -1262,6 +1262,11 @@
     },
     {
         "platform": "safari",
+        "version": "11.2",
+        "uniqueid": "38c1e93d5a92444b"
+    },
+    {
+        "platform": "safari",
         "version": "9.0",
         "uniqueid": "ed17dd2fe7fcbade"
     },
