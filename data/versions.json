@@ -3785,7 +3785,97 @@
         "nickname": "Opera 45",
         "releasedate": "2017-05-10",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "46",
+        "nickname": "Opera 46",
+        "releasedate": "2017-06-22",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "47",
+        "nickname": "Opera 47",
+        "releasedate": "2017-08-09",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "48",
+        "nickname": "Opera 48",
+        "releasedate": "2017-09-27",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "49",
+        "nickname": "Opera 49",
+        "releasedate": "2017-11-49",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "50",
+        "nickname": "Opera 50",
+        "releasedate": "2018-01-04",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "51",
+        "nickname": "Opera 51",
+        "releasedate": "2018-02-07",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "52",
+        "nickname": "Opera 52",
+        "releasedate": "2018-03-14",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "53",
+        "nickname": "Opera 53",
+        "releasedate": "2018-05-10",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "54",
+        "nickname": "Opera 54",
+        "releasedate": "2018-06-28",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "opera",
+        "version": "55",
+        "nickname": "Opera 55",
+        "releasedate": "2018-08-16",
+        "type": "desktop",
+        "status": "currency",
         "visible": true
     },
     {
