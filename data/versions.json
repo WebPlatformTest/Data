@@ -1014,6 +1014,105 @@
         "nickname": "Chrome 59",
         "releasedate": "2017-06-05",
         "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "60",
+        "nickname": "Chrome 60",
+        "releasedate": "2017-07-25",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "61",
+        "nickname": "Chrome 61",
+        "releasedate": "2017-09-05",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "62",
+        "nickname": "Chrome 62",
+        "releasedate": "2017-10-17",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "63",
+        "nickname": "Chrome 63",
+        "releasedate": "2017-12-05",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "64",
+        "nickname": "Chrome 64",
+        "releasedate": "2018-01-24",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "65",
+        "nickname": "Chrome 65",
+        "releasedate": "2018-03-06",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "66",
+        "nickname": "Chrome 66",
+        "releasedate": "2018-04-17",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "67",
+        "nickname": "Chrome 67",
+        "releasedate": "2018-05-29",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "68",
+        "nickname": "Chrome 68",
+        "releasedate": "2018-07-24",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "69",
+        "nickname": "Chrome 69",
+        "releasedate": "2018-09-04",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome",
+        "version": "70",
+        "nickname": "Chrome 70",
+        "releasedate": "2018-10-16",
+        "type": "desktop",
         "status": "current",
         "visible": true
     },
@@ -1337,6 +1436,105 @@
         "version": "59",
         "nickname": "Chrome 59",
         "releasedate": "2017-06-05",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "60",
+        "nickname": "Chrome 60",
+        "releasedate": "2017-07-25",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "61",
+        "nickname": "Chrome 61",
+        "releasedate": "2017-09-05",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "62",
+        "nickname": "Chrome 62",
+        "releasedate": "2017-10-18",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "63",
+        "nickname": "Chrome 63",
+        "releasedate": "2017-12-05",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "64",
+        "nickname": "Chrome 64",
+        "releasedate": "2018-01-24",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "65",
+        "nickname": "Chrome 65",
+        "releasedate": "2018-03-06",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "66",
+        "nickname": "Chrome 66",
+        "releasedate": "2018-04-17",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "67",
+        "nickname": "Chrome 67",
+        "releasedate": "2018-05-29",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "68",
+        "nickname": "Chrome 68",
+        "releasedate": "2018-07-24",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "69",
+        "nickname": "Chrome 69",
+        "releasedate": "2018-09-04",
+        "type": "mobile,tablet",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "chrome.mobile",
+        "version": "70",
+        "nickname": "Chrome 70",
+        "releasedate": "2018-10-16",
         "type": "mobile,tablet",
         "status": "current",
         "visible": true
