@@ -1931,15 +1931,88 @@
         "nickname": "Firefox 54",
         "releasedate": "2017-06-13",
         "type": "desktop",
-        "status": "current",
+        "status": "legacy",
         "visible": true
     },
     {
         "platform": "firefox",
         "version": "55",
         "nickname": "Firefox 55",
+        "releasedate": "2017-08-08",
         "type": "desktop",
-        "status": "upcoming",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "56",
+        "nickname": "Firefox 56",
+        "releasedate": "2017-09-28",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "57",
+        "nickname": "Firefox 57",
+        "releasedate": "2017-11-14",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "58",
+        "nickname": "Firefox 58",
+        "releasedate": "2018-01-23",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "59",
+        "nickname": "Firefox 59",
+        "releasedate": "2018-03-13",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "60",
+        "nickname": "Firefox 60",
+        "releasedate": "2018-05-09",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "61",
+        "nickname": "Firefox 61",
+        "releasedate": "2018-06-26",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "62",
+        "nickname": "Firefox 62",
+        "releasedate": "2018-09-05",
+        "type": "desktop",
+        "status": "legacy",
+        "visible": true
+    },
+    {
+        "platform": "firefox",
+        "version": "63",
+        "nickname": "Firefox 63",
+        "releasedate": "2018-10-23",
+        "type": "desktop",
+        "status": "current",
         "visible": true
     },
     {
